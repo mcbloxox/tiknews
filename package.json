@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "news": "node src/ingest.js && node src/cluster.js && node src/digest.js",
+    "news": "node src/news.js",
     "cards": "node src/images.js && node src/render.js && node src/gallery.js",
     "done": "node src/done.js"
   },

@@ -19,7 +19,7 @@ const IMG_DIR = path.join(ROOT, 'images');
 // Wikimedia asks that tools identify themselves. Put your own contact here.
 const UA = 'TheOrion/1.0 (https://nighthalospace.online; filipgorczynski5@gmail.com)';
 
-const WIDTH = 1600; // wide enough for a 1080px card without looking soft
+const WIDTH = 2000; // headroom for the tight face-biased crop
 
 async function api(base, params) {
   const url = base + '?' + new URLSearchParams({ format: 'json', ...params });
@@ -113,26 +113,40 @@ async function main() {
       continue;
     }
 
-    try {
-      const page = await findPage(card.subject);
+    // subject first, then subject_2 if the story is genuinely about two people
+    const wanted = [card.subject, card.subject_2].filter(Boolean);
+    const credits = [];
 
-      if (!page) {
-        console.warn(`  ${card.story_id}: no free photo for "${card.subject}"`);
-        continue;
+    for (let i = 0; i < wanted.length; i++) {
+      const name = wanted[i];
+      const slot = i === 0 ? 'image' : 'image_2';
+      const suffix = i === 0 ? 'a' : 'b';
+
+      try {
+        const page = await findPage(name);
+
+        if (!page) {
+          console.warn(`  ${card.story_id}: no free photo for "${name}"`);
+          continue;
+        }
+
+        const ext = path.extname(new URL(page.thumbnail.source).pathname) || '.jpg';
+        const dest = path.join(IMG_DIR, `${card.story_id}-${suffix}${ext}`);
+
+        const bytes = await download(page.thumbnail.source, dest);
+        card[slot] = 'file:///' + dest.replace(/\\/g, '/');
+
+        const line = await credit(page.pageimage);
+        credits.push(line);
+
+        console.log(`  ${card.story_id}: ${page.title} (${Math.round(bytes / 1024)} kB) — ${line}`);
+      } catch (err) {
+        console.warn(`  ${card.story_id}: ${name}: ${err.message}`);
       }
-
-      const ext = path.extname(new URL(page.thumbnail.source).pathname) || '.jpg';
-      const dest = path.join(IMG_DIR, `${card.story_id}${ext}`);
-
-      const bytes = await download(page.thumbnail.source, dest);
-      card.image = 'file:///' + dest.replace(/\\/g, '/');
-      card.image_credit = await credit(page.pageimage);
-      card.image_subject = page.title;
-
-      console.log(`  ${card.story_id}: ${page.title} (${Math.round(bytes / 1024)} kB) — ${card.image_credit}`);
-    } catch (err) {
-      console.warn(`  ${card.story_id}: ${err.message}`);
     }
+
+    // one credit line covering however many photos ended up on the card
+    if (credits.length) card.image_credit = [...new Set(credits)].join('  \u00b7  ');
   }
 
   fs.writeFileSync(CARDS_FILE, JSON.stringify(cards, null, 2));
@@ -140,8 +154,8 @@ async function main() {
 }
 
 main()
-  .then(() => process.exit(0))
+  .then(() => { setTimeout(() => process.exit(0), 300); })
   .catch((err) => {
     console.error('images failed:', err);
-    process.exit(1);
+    setTimeout(() => process.exit(1), 300);
   });

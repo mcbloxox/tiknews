@@ -109,7 +109,11 @@ async function main() {
   console.log(`\n${added} new articles, ${dropped} expired, ${kept.length} stored.`);
 }
 
-main().catch((err) => {
-  console.error('ingest failed:', err);
-  process.exit(1);
-});
+// Exit cleanly without waiting on sockets a dead feed left open, but give
+// libuv a beat first — exiting mid-close crashes Node on Windows.
+main()
+  .then(() => { setTimeout(() => process.exit(0), 300); })
+  .catch((err) => {
+    console.error('ingest failed:', err);
+    setTimeout(() => process.exit(1), 300);
+  });

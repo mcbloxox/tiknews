@@ -1,38 +1,42 @@
 [
   {
-    "id": "story_41b1c9",
-    "title": "‘Afterlife With Archie’ Series From ‘Riverdale’ Team Greenlit at Disney+",
-    "source_count": 3,
+    "id": "story_522200",
+    "title": "Chloe Fineman Joins Netflix’s ‘Myron Bolitar’ Following ‘SNL’ Exit, Joined By Jabari Banks, Jamie McShane & Ben McKenzie",
+    "source_count": 2,
     "domains": [
-      "variety.com",
       "deadline.com",
-      "hollywoodreporter.com"
+      "variety.com"
     ],
-    "first_seen": "2026-07-20T16:00:00.000Z",
+    "first_seen": "2026-07-20T17:30:26.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "Variety",
-        "title": "‘Afterlife With Archie’ Series From ‘Riverdale’ Team Greenlit at Disney+",
-        "text": "Disney+ has ordered the series version of the “Afterlife With Archie” comics, Variety has learned. The show was originally reported to be in development at the streamer in 2025 with a script-to-series commitment. Disney is slating the series for a potential launch around Halloween 2027. As previously reported, the show is based on the comic […]",
-        "url": "https://variety.com/2026/tv/news/afterlife-with-archie-series-disney-plus-riverdale-1236815103/",
-        "published": "2026-07-20T16:00:00.000Z"
-      },
-      {
         "source": "Deadline",
-        "title": "‘Afterlife With Archie’ Series Based On Comic Ordered By Disney+, Gets Halloween 2027 Premiere",
-        "text": "Disney+ has given a green light to Afterlife with Archie, an hourlong drama series based on the best-selling Archie comic book series by Roberto Aguirre-Sacasa and Francesco Francavilla. It will have a Halloween 2027 premiere on the streamer. The order comes nine months after the project landed at Disney+ with a big script-to-series commitment. Afterlife […]",
-        "url": "https://deadline.com/2026/07/afterlife-with-archie-series-comic-disney-release-window-1236997243/",
-        "published": "2026-07-20T16:00:00.000Z"
+        "title": "Chloe Fineman Joins Netflix’s ‘Myron Bolitar’ Following ‘SNL’ Exit, Joined By Jabari Banks, Jamie McShane & Ben McKenzie",
+        "text": "EXCLUSIVE: Following the announcement last week that Chloe Fineman was leaving NBC’s Saturday Night Live, she has officially set up her next role. Fineman will star opposite Jabari Banks in his first major show since the conclusion of Peacock’s Bel-Air and Jamie McShane (Task, Wednesday) in Netflix’s Myron Bolitar in series regular roles. Ben McKenzie […]",
+        "url": "https://deadline.com/2026/07/netflix-myron-bolitar-cast-chloe-fineman-jabari-banks-1236998530/",
+        "published": "2026-07-20T17:30:26.000Z"
       },
       {
-        "source": "The Hollywood Reporter",
-        "title": "‘Afterlife With Archie’ Series a Go at Disney+ With ‘Riverdale’ Team Reuniting",
-        "text": "Roberto Aguirre-Sacasa will adapt his and Francesco Francavilla's comic, and Greg Berlanti will executive produce.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/afterlife-with-archie-tv-series-disney-plus-1236652172/",
-        "published": "2026-07-20T16:00:00.000Z"
+        "source": "Variety",
+        "title": "Chloe Fineman Among Four Cast in ‘Myron Bolitar’ Series at Netflix",
+        "text": "Chloe Fineman has already found her first post-“SNL” gig, with a series regular role in the “Myron Bolitar” series currently in the works at Netflix. Fineman is one of three actors joining the show as a series regular, alongside both Jabari Banks (“Bel Air”) and Jamie McShane (“Task,” “Wednesday”). In addition, Ben McKenzie (“Everyone is […]",
+        "url": "https://variety.com/2026/tv/news/chloe-fineman-myron-bolitar-series-netflix-1236816733/",
+        "published": "2026-07-20T17:48:09.000Z"
       }
-    ]
+    ],
+    "likely_subject": "Chloe Fineman",
+    "score": 0.69,
+    "score_parts": {
+      "fame": 0.64,
+      "heat": 0.96,
+      "baseline_views": 967,
+      "latest_views": 10776,
+      "spike": 10.8,
+      "change": 0.6,
+      "spread": 0.33,
+      "fresh": 0.9
+    }
   },
   {
     "id": "story_3ed33a",
@@ -67,7 +71,230 @@
         "url": "https://www.hollywoodreporter.com/tv/tv-news/lewis-pullman-apple-tv-guilty-creatures-series-1236652193/",
         "published": "2026-07-20T16:00:00.000Z"
       }
-    ]
+    ],
+    "likely_subject": "Lewis Pullman",
+    "score": 0.55,
+    "score_parts": {
+      "fame": 0.79,
+      "heat": 0.03,
+      "baseline_views": 5016,
+      "latest_views": 5431,
+      "spike": 1.1,
+      "change": 0.6,
+      "spread": 0.67,
+      "fresh": 0.85
+    }
+  },
+  {
+    "id": "story_5caf09",
+    "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
+    "source_count": 2,
+    "domains": [
+      "variety.com",
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T15:47:55.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
+        "text": "The 2026 FIFA World Cup once again demonstrated the value of home-team interest to broadcasters, with television audiences across Europe skyrocketing when national teams were still alive in the tournament before declining after their elimination. Yet, fans still turned up in force for the July 19 final opposing Spain to Argentina, proving that while national […]",
+        "url": "https://variety.com/2026/tv/global/world-cup-ratings-show-final-big-draw-home-teams-beaten-1236816547/",
+        "published": "2026-07-20T15:47:55.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Five Things the Cameras Didn’t See At the World Cup Final",
+        "text": "A post-game fight between players from Argentina and Spain broke out, Donald Trump's presence led to booing and long security lines and more.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-cameras-missed-1236652266/",
+        "published": "2026-07-20T17:18:34.000Z"
+      }
+    ],
+    "likely_subject": "World Cup",
+    "score": 0.155,
+    "score_parts": {
+      "fame": 0.47,
+      "heat": 0,
+      "baseline_views": 159,
+      "latest_views": 139,
+      "spike": 0.9,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.85
+    }
+  },
+  {
+    "id": "story_46137c",
+    "title": "Sylvia Bugg, PBS Programming Chief, Dies at 55",
+    "source_count": 2,
+    "domains": [
+      "hollywoodreporter.com",
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T16:28:14.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Sylvia Bugg, PBS Programming Chief, Dies at 55",
+        "text": "PBS CEO Paula Kerger announced the news on Sunday.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/sylvia-bugg-dead-pbs-programming-chief-1236652217/",
+        "published": "2026-07-20T16:28:14.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Sylvia Bugg Dies: PBS Programming Chief & Longtime Nonfiction TV Exec Was 55",
+        "text": "Sylvia Bugg, PBS’ Chief Programming Executive and General Manager for General Audience Programming, who had a long career in public broadcasting and at Discovery Communications, has died. She was 55. PBS CEO Paula Kerger said Bugg died “unexpectedly this weekend” but did not provide a cause of death of other details. “Over decades in public […]",
+        "url": "https://deadline.com/2026/07/sylvia-bugg-dead-pbs-chief-programmer-1236998554/",
+        "published": "2026-07-20T17:21:35.000Z"
+      }
+    ],
+    "likely_subject": "Sylvia Bugg",
+    "score": 0.152,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 1,
+      "spread": 0.33,
+      "fresh": 0.87
+    }
+  },
+  {
+    "id": "story_3d1b48",
+    "title": "‘Scrubs’ Revival Ups Ava Bunn to Series Regular, X Mayo and Joel Kim Booster Exit",
+    "source_count": 3,
+    "domains": [
+      "variety.com",
+      "deadline.com",
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T20:00:00.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "‘Scrubs’ Revival Ups Ava Bunn to Series Regular, X Mayo and Joel Kim Booster Exit",
+        "text": "The “Scrubs” revival at ABC is undergoing some cast changes ahead of its second season (and the show’s 11th season overall). Ava Bunn, who starred as Dr. Sam Tosh in the first revival season, has been upped to series regular status for the second season. Meanwhile, both X Mayo and Joel Kim Booster — who […]",
+        "url": "https://variety.com/2026/tv/news/scrubs-revival-season-11-ava-bun-x-mayo-joel-kim-booster-1236816776/",
+        "published": "2026-07-20T20:00:00.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "‘Scrubs’ Ups Ava Bunn To Series Regular Alongside Lead OG Trio As Season 2 Sets Cast Returns & Two Main Characters’ Departures",
+        "text": "ABC’s Scrubs has locked in the main cast for Season 2, and the revival is shaking up a few things, with more screen time for OG Neil Flynn and new addition Rachel Bilson and two prominent recurring characters, Dr. Park (Joel Kim Booster) and Charge Nurse Raymond (X Mayo), not returning. No changes to the […]",
+        "url": "https://deadline.com/2026/07/scrubs-season-2-cast-ava-bunn-who-is-returning-leaving-1236998486/",
+        "published": "2026-07-20T20:01:00.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘Scrubs’ Promotes Ava Bunn to Series Regular for Season 2, Joel Kim Booster and X Mayo Depart",
+        "text": "Stars Zach Braff, Sarah Chalke and Donald Faison are also set to return as regulars.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/scrubs-season-2-ava-bunn-joel-kim-booster-x-mayo-1236652517/",
+        "published": "2026-07-20T20:03:58.000Z"
+      }
+    ],
+    "likely_subject": "Ava Bunn",
+    "score": 0.142,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 1,
+      "latest_views": 1,
+      "spike": 1,
+      "change": 0.6,
+      "spread": 0.67,
+      "fresh": 0.97
+    }
+  },
+  {
+    "id": "story_6ba666",
+    "title": "Broadcaster and journalist Edward Stourton dies aged 68",
+    "source_count": 2,
+    "domains": [
+      "bbc.co.uk",
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T07:30:13.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Broadcaster and journalist Edward Stourton dies aged 68",
+        "text": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
+        "url": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T07:30:13.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Edward Stourton Dies: UK Broadcaster Whose Most Recent Work Charted 250 Years Of American History Was 68",
+        "text": "UK broadcaster Edward Stourton, whose 45-year career included first-hand coverage of the Ronald Reagan era, the first Gulf War, the Siege of Sarajevo and the aftermath of the 9/11 attacks, has died. He was 68. The BBC announced on Monday that Stourton, who was diagnosed with prostate cancer in 2014, had died on Saturday surrounded […]",
+        "url": "https://deadline.com/2026/07/edward-stourton-dead-legendary-uk-broadcaster-68-1236998294/",
+        "published": "2026-07-20T14:44:16.000Z"
+      }
+    ],
+    "likely_subject": "Edward Stourton",
+    "score": 0.14,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 1,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 1,
+      "spread": 0.33,
+      "fresh": 0.62
+    }
+  },
+  {
+    "id": "story_180317",
+    "title": "Kovert Creative Hires Mallory Morehead Pritzl",
+    "source_count": 3,
+    "domains": [
+      "variety.com",
+      "hollywoodreporter.com",
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T17:30:00.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Kovert Creative Hires Mallory Morehead Pritzl",
+        "text": "Mallory Morehead Pritzl has joined bi-coastal communications firm Kovert Creative on their entertainment PR team, Variety has learned. In her new role, Morehead Pritzl will oversee communications for programming-focused Kovert Creative clients like “Jimmy Kimmel Live!,” Amy Poehler’s Paper Kite Productions, Jason Bateman, Sean Hayes, & Will Arnett’s SmartLess Media, as well as Bloomberg Media […]",
+        "url": "https://variety.com/2026/tv/news/kovert-creative-mallory-morehead-pritzl-1236816656/",
+        "published": "2026-07-20T17:30:00.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Sony’s Mallory Morehead Pritzl Joins Kovert Creative to Work on Entertainment PR Team",
+        "text": "Based in L.A., Morehead Pritzl will oversee comms for programming-focused clients ‘Jimmy Kimmel Live!’, Paper Kite Prods. and SmartLess Media while working with Bloomberg Media and Spotify.",
+        "url": "https://www.hollywoodreporter.com/business/business-news/mallory-morehead-pritzl-kovert-creative-entertainment-pr-1236651232/",
+        "published": "2026-07-20T17:30:00.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Sony Pictures TV’s Mallory Morehead Pritzl Joins Kovert Creative’s Entertainment PR Team",
+        "text": "Kovert Creative has hired 15-year comms veteran Mallory Morehead Pritzl. The former Sony Pictures Television Director of Corporate Communications will be working on Covert’s Entertainment PR Team in L.A, overseeing communications for programming-focused clients including Jimmy Kimmel Live!, Paper Kite Productions and SmartLess Media while also working across Bloomberg Media and Spotify. During her career, Pritzl […]",
+        "url": "https://deadline.com/2026/07/kovert-mallory-morehead-pritzl-1236998744/",
+        "published": "2026-07-20T19:47:06.000Z"
+      }
+    ],
+    "likely_subject": "Kovert Creative",
+    "score": 0.139,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.6,
+      "spread": 0.67,
+      "fresh": 0.9
+    }
   },
   {
     "id": "story_4c68b2",
@@ -94,32 +321,880 @@
         "url": "https://www.hollywoodreporter.com/tv/tv-news/dwayne-wayne-netflix-a-different-world-first-look-1236652182/",
         "published": "2026-07-20T16:01:22.000Z"
       }
-    ]
+    ],
+    "likely_subject": "Different World",
+    "score": 0.123,
+    "score_parts": {
+      "fame": 0.06,
+      "heat": 0,
+      "baseline_views": 2,
+      "latest_views": 1,
+      "spike": 1,
+      "change": 0.6,
+      "spread": 0.33,
+      "fresh": 0.84
+    }
   },
   {
-    "id": "story_6ba666",
-    "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-    "source_count": 2,
+    "id": "story_41b1c9",
+    "title": "‘Afterlife With Archie’ Series From ‘Riverdale’ Team Greenlit at Disney+",
+    "source_count": 3,
     "domains": [
-      "bbc.co.uk",
-      "deadline.com"
+      "variety.com",
+      "deadline.com",
+      "hollywoodreporter.com"
     ],
-    "first_seen": "2026-07-20T07:30:13.000Z",
+    "first_seen": "2026-07-20T16:00:00.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "BBC Entertainment",
-        "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-        "text": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
-        "url": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T07:30:13.000Z"
+        "source": "Variety",
+        "title": "‘Afterlife With Archie’ Series From ‘Riverdale’ Team Greenlit at Disney+",
+        "text": "Disney+ has ordered the series version of the “Afterlife With Archie” comics, Variety has learned. The show was originally reported to be in development at the streamer in 2025 with a script-to-series commitment. Disney is slating the series for a potential launch around Halloween 2027. As previously reported, the show is based on the comic […]",
+        "url": "https://variety.com/2026/tv/news/afterlife-with-archie-series-disney-plus-riverdale-1236815103/",
+        "published": "2026-07-20T16:00:00.000Z"
       },
       {
         "source": "Deadline",
-        "title": "Edward Stourton Dies: UK Broadcaster Whose Most Recent Work Charted 250 Years Of American History Was 68",
-        "text": "UK broadcaster Edward Stourton, whose 45-year career included first-hand coverage of the Ronald Reagan era, the first Gulf War, the Siege of Sarajevo and the aftermath of the 9/11 attacks, has died. He was 68. The BBC announced on Monday that Stourton, who was diagnosed with prostate cancer in 2014, had died on Saturday surrounded […]",
-        "url": "https://deadline.com/2026/07/edward-stourton-dead-legendary-uk-broadcaster-68-1236998294/",
-        "published": "2026-07-20T14:44:16.000Z"
+        "title": "‘Afterlife With Archie’ Series Based On Comic Ordered By Disney+, Gets Halloween 2027 Premiere",
+        "text": "Disney+ has given a green light to Afterlife with Archie, an hourlong drama series based on the best-selling Archie comic book series by Roberto Aguirre-Sacasa and Francesco Francavilla. It will have a Halloween 2027 premiere on the streamer. The order comes nine months after the project landed at Disney+ with a big script-to-series commitment. Afterlife […]",
+        "url": "https://deadline.com/2026/07/afterlife-with-archie-series-comic-disney-release-window-1236997243/",
+        "published": "2026-07-20T16:00:00.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘Afterlife With Archie’ Series a Go at Disney+ With ‘Riverdale’ Team Reuniting",
+        "text": "Roberto Aguirre-Sacasa will adapt his and Francesco Francavilla's comic, and Greg Berlanti will executive produce.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/afterlife-with-archie-tv-series-disney-plus-1236652172/",
+        "published": "2026-07-20T16:00:00.000Z"
+      }
+    ],
+    "likely_subject": "Riverdale Team",
+    "score": 0.101,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.2,
+      "spread": 0.67,
+      "fresh": 0.85
+    }
+  },
+  {
+    "id": "story_40365a",
+    "title": "The Longest-Leading Billboard Hot 100 No. 1s",
+    "source_count": 2,
+    "domains": [
+      "billboard.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T18:00:54.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "The Longest-Leading Billboard Hot 100 No. 1s",
+        "text": "A select few hits have led the chart for at least 10 weeks.",
+        "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+        "published": "2026-07-20T18:00:54.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Ella Langley’s ‘Choosin’ Texas’ Ties Whitney Houston and Mariah Carey’s Records on Billboard Hot 100",
+        "text": "The year’s biggest hit single, Ella Langley’s “Choosin’ Texas,” has racked up its 14th week at No. 1 on the Billboard Hot 100 — and has tied a record held by Whitney Houston and Mariah Carey. Langley’s song, which first topped the Hot 100 chart in February, ties Mariah Carey’s “We Belong Together” and Whitney […]",
+        "url": "https://variety.com/2026/music/news/ella-langley-choosin-texas-ties-whitney-houston-mariah-carey-records-1236816760/",
+        "published": "2026-07-20T18:08:38.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Snow Man’s ‘Good Time’ Tops Japan Hot 100",
+        "text": "BUDDiiS' \"Kimi wa Toshi Densetsu\" rises to No. 2.",
+        "url": "https://www.billboard.com/music/chart-beat/snow-man-good-time-tops-japan-hot-100-1236298409/",
+        "published": "2026-07-20T18:26:01.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Eiichiro Oda’s ‘ONE PIECE’ Vol. 115 Rises to No. 1 on Japan Book Hot 100",
+        "text": "Last week’s No. 1 debut, Yoshihiro Togashi's HUNTER×HUNTER Vol. 39, follows at No. 2 by a slim margin.",
+        "url": "https://www.billboard.com/music/chart-beat/eiichiro-oda-one-piece-115-japan-book-hot-100-1236298420/",
+        "published": "2026-07-20T18:32:31.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Billboard Hot 100 Top 10 Countdown For July 25th, 2026 | Billboard News",
+        "text": "Stella Lefty’s “Boston” jumps into the top 10 of the Billboard Hot 100, while Olivia Dean’s three entries shuffle around on the chart, and Ariana Grande keeps on rising. Will any of this movement impact Ella Langley’s “Choosin’ Texas” at No. 1? Tetris Kelly: This is the Billboard Hot 100 top 10 for the week […]",
+        "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-july-25th-2026/",
+        "published": "2026-07-20T20:09:59.000Z"
+      }
+    ],
+    "likely_subject": "Billboard Hot",
+    "score": 0.095,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.91
+    }
+  },
+  {
+    "id": "story_29e1cf",
+    "title": "Judge Grants Temporary Restraining Order To Pause Paramount-Warner Bros Discovery Merger For 14 Days",
+    "source_count": 2,
+    "domains": [
+      "deadline.com",
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T17:06:51.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Judge Grants Temporary Restraining Order To Pause Paramount-Warner Bros Discovery Merger For 14 Days",
+        "text": "A federal judge has granted a temporary restraining order that will pause Paramount’s merger with Warner Bros Discovery for 14 days. The order, issued Monday, is in response to a lawsuit filed by California Attorney General Rob Bonta and 11 other states, claiming that the proposed merger violates antitrust laws. U.S. District Judge Araceli Martinez-Olguin […]",
+        "url": "https://deadline.com/2026/07/paramount-warner-bros-lawsuit-restraining-order-1236998321/",
+        "published": "2026-07-20T17:06:51.000Z"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Judge Halts Paramount, Warner Bros. Merger After States Sue to Block $111 Billion Deal",
+        "text": "A temporary restraining order was granted, setting up a battle over a more concrete injunction as the states pursue their antitrust case",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/judge-pauses-paramount-warner-bros-discovery-merger-1235596099/",
+        "published": "2026-07-20T19:14:14.000Z"
+      }
+    ],
+    "likely_subject": "Judge Grants",
+    "score": 0.094,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.89
+    }
+  },
+  {
+    "id": "story_3f6102",
+    "title": "Brie Larson-Led Horror Movie ‘Skeletons’ From JT Mollner Lands Summer 2027 Release at Sony",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T21:08:49.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Brie Larson-Led Horror Movie ‘Skeletons’ From JT Mollner Lands Summer 2027 Release at Sony",
+        "text": "J.J. Abrams produces the creature feature that the studio acquired in a bidding war.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/skeletons-brie-larson-jt-mollner-jj-abrams-release-date-1236652587/",
+        "published": "2026-07-20T21:08:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_4028ba",
+    "title": "Nicole Kidman, Elle Fanning Paramount+ Series ‘Discretion’ Casts Josh Lucas",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T21:07:28.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Nicole Kidman, Elle Fanning Paramount+ Series ‘Discretion’ Casts Josh Lucas",
+        "text": "Josh Lucas is set to star opposite Nicole Kidman and Elle Fanning in the legal drama series “Discretion,” Variety has confirmed. The show was originally announced with a straight-to-series order at Paramount+ in October 2025. It is based on the short story of the same name by Chandler Baker. The logline for the series states, […]",
+        "url": "https://variety.com/2026/tv/news/nicole-kidman-elle-fanning-paramount-discretion-josh-lucas-1236816877/",
+        "published": "2026-07-20T21:07:28.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_65daa0",
+    "title": "Bose Drops Lifestyle Ultra Wireless Speaker: Here’s Where to Shop It Online",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T21:02:57.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Bose Drops Lifestyle Ultra Wireless Speaker: Here’s Where to Shop It Online",
+        "text": "Upgrade your home audio with this premium and versatile wireless speaker from Bose — shop it for $299.",
+        "url": "https://www.billboard.com/culture/product-recommendations/bose-lifestyle-ultra-wireless-speaker-buy-shop-online-1236298311/",
+        "published": "2026-07-20T21:02:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_37be53",
+    "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T20:53:20.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
+        "text": "Some people thought the track didn't match the vibe of the championship game, but it saw a huge spike in listeners",
+        "url": "https://www.rollingstone.com/music/music-news/justin-bieber-world-cup-everything-hallelujah-streams-spike-1235596096/",
+        "published": "2026-07-20T20:53:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3b8b62",
+    "title": "‘Dutton Ranch,’ ‘The Boroughs’ Join Most Watched Series List for 2025-26 Season",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T20:53:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘Dutton Ranch,’ ‘The Boroughs’ Join Most Watched Series List for 2025-26 Season",
+        "text": "But only one of them will be back for a second run.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/tv-ratings-final-top-25-2025-26-season-1236652486/",
+        "published": "2026-07-20T20:53:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2a17f1",
+    "title": "‘Oh, Mary!’ on Broadway: Here’s How to Find Seats to Cole Escola’s Show Online",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T20:38:22.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "‘Oh, Mary!’ on Broadway: Here’s How to Find Seats to Cole Escola’s Show Online",
+        "text": "After winning two Tonys, the hilarious comedy is one of the hottest tickets in town. We found out how to get the best deals, plus discounts to see Meg Stalter in the lead role",
+        "url": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-buy-oh-mary-broadway-tickets-online-cole-escola-1235115171/",
+        "published": "2026-07-20T20:38:22.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_66049f",
+    "title": "Rebel Wilson’s ‘The Deb’ Gets First Trailer & Digital Release Date; Pic Sparked High-Profile Legal Battles",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T20:30:36.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Rebel Wilson’s ‘The Deb’ Gets First Trailer & Digital Release Date; Pic Sparked High-Profile Legal Battles",
+        "text": "It’s been a long and legally-winding road to release for Rebel Wilson’s directorial debut, but we now have the first trailer for The Deb. Have a look above. Sunrise Films on Monday set an August 25 U.S. digital-release date for the musical comedy, which will debut in a day earlier in the UK via Vertigo […]",
+        "url": "https://deadline.com/2026/07/the-deb-trailer-release-date-rebel-wilson-1236998746/",
+        "published": "2026-07-20T20:30:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_1b47bb",
+    "title": "Vans Nods to ‘KPop Demon Hunters’ Oscar-winning Song With New ‘Golden’ Sneakers for Kids Out Now",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T20:08:54.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Vans Nods to ‘KPop Demon Hunters’ Oscar-winning Song With New ‘Golden’ Sneakers for Kids Out Now",
+        "text": "The new 'KPop Demon Hunters' sneakers by Vans include three different styles for kids, with golden accents inspired by the hit movie's musical anthem.",
+        "url": "https://www.billboard.com/culture/product-recommendations/vans-kpop-demon-hunters-golden-sneakers-kids-shop-online-1236294028/",
+        "published": "2026-07-20T20:08:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6401ee",
+    "title": "Disney’s New ‘Haunted Mansion’ Starbucks Tumbler Is the Center of a Viral Craze — We Found It Still in Stock",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T19:49:52.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Disney’s New ‘Haunted Mansion’ Starbucks Tumbler Is the Center of a Viral Craze — We Found It Still in Stock",
+        "text": "In addition to the internet’s latest obsession, Disney has released several new cups and tumblers online while discounting others",
+        "url": "https://www.rollingstone.com/product-recommendations/lifestyle/disney-starbucks-limited-edition-tumblers-buy-online-1235290849/",
+        "published": "2026-07-20T19:49:52.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_9e050b",
+    "title": "Posthumous Jimmy Buffett Album to Include Songs ‘That Have Never Been Out,’ Says Coral Reefer Band",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T19:49:14.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Posthumous Jimmy Buffett Album to Include Songs ‘That Have Never Been Out,’ Says Coral Reefer Band",
+        "text": "Mac McAnally also talks about the future of Shrimp Boat Sound Studio in Florida.",
+        "url": "https://www.billboard.com/music/rock/posthumous-jimmy-buffett-album-coral-reefer-band-1236298497/",
+        "published": "2026-07-20T19:49:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_47ab9c",
+    "title": "John Kirby, Celebrity Acting Coach, Dies at 75",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T19:46:03.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "John Kirby, Celebrity Acting Coach, Dies at 75",
+        "text": "John Kirby, an actor and acting coach, died Wednesday, three years after being diagnosed with ALS. He was 75. The news was confirmed on Instagram by Nathan Nesbitt, Kirby’s acting studio manager and assistant of 22 years. “I am here to officially, with a broken heart, announce the passing of our beloved John on the […]",
+        "url": "https://variety.com/2026/film/news/john-kirby-dead-celebrity-acting-coach-1236816764/",
+        "published": "2026-07-20T19:46:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_341d13",
+    "title": "Have Artists Reached Their Breaking Point With AI?",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T19:45:51.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Have Artists Reached Their Breaking Point With AI?",
+        "text": "With AI content and training models developing at a rapid pace, artists and streaming services are pushing back against the technology",
+        "url": "https://www.rollingstone.com/music/music-features/ai-artists-pushback-sza-doja-cat-1235585855/",
+        "published": "2026-07-20T19:45:51.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5e33d2",
+    "title": "Jay-Z’s Yankee Stadium Shows: How the Music Came Together, From Meticulous Arrangements to Last-Minute Tweaks",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T19:45:06.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Jay-Z’s Yankee Stadium Shows: How the Music Came Together, From Meticulous Arrangements to Last-Minute Tweaks",
+        "text": "It started with a text: “He said, ‘It’s time,’ so that’s all I needed to hear,” says Adam Blackstone, Jay-Z’s bassist and longtime collaborator. He’s discussing the first word he received about the string of shows the legendary rapper would be staging throughout the year, starting with a grand return to the stage at Philadelphia’s […]",
+        "url": "https://variety.com/2026/music/news/jay-z-yankee-stadium-music-adam-blackstone-young-guru-1236816803/",
+        "published": "2026-07-20T19:45:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2d3c04",
+    "title": "‘My Friend the Porn Star’ Review: German Documentary About Desire Is a Kooky, Kinky Delight",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T19:38:45.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘My Friend the Porn Star’ Review: German Documentary About Desire Is a Kooky, Kinky Delight",
+        "text": "Featuring a cast of participants expressing gender in a wide variety of ways, this film from director-star Rosa Friedrich premiered at Karlovy Vary.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/my-friend-the-porn-star-review-1236651715/",
+        "published": "2026-07-20T19:38:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_56b130",
+    "title": "Who Goes to See ‘The Odyssey’ at 3 A.M.? These People",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T19:32:44.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Who Goes to See ‘The Odyssey’ at 3 A.M.? These People",
+        "text": "Meet the passionate film buffs forgoing sleep and sanity to watch Christopher Nolan’s latest in IMAX 70mm",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-odyssey-3-a-m-screening-fan-interviews-1235593383/",
+        "published": "2026-07-20T19:32:44.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_18ee42",
+    "title": "Here’s Just How Top-Heavy Netflix Is Right Now",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T19:32:14.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Here’s Just How Top-Heavy Netflix Is Right Now",
+        "text": "The top 100 shows and movies on the streamer accounted for more than 20 percent of views from January to June despite being less than 1 percent of available titles.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-data-2026-first-half-haves-have-nots-1236652375/",
+        "published": "2026-07-20T19:32:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_48984f",
+    "title": "America Got the World Cup It Deserves — Good and Bad",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T19:30:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "America Got the World Cup It Deserves — Good and Bad",
+        "text": "The greatest athletic event on Earth served as a reminder of what the United States can be, despite Donald Trump",
+        "url": "https://www.rollingstone.com/politics/political-commentary/america-world-cup-deserves-good-bad-1235596111/",
+        "published": "2026-07-20T19:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_488659",
+    "title": "A Brief History of Trump Being Booed",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T19:23:45.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "A Brief History of Trump Being Booed",
+        "text": "The World Cup was not the first time the president has been hit with the full audible animosity of a giant crowd",
+        "url": "https://www.rollingstone.com/politics/politics-news/trump-being-booed-brief-history-1235596100/",
+        "published": "2026-07-20T19:23:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3fd48a",
+    "title": "Lindsay Clancy Murder Trial: Everything We Know About the Mom Accused of Killing Her 3 Children",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T19:18:15.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Lindsay Clancy Murder Trial: Everything We Know About the Mom Accused of Killing Her 3 Children",
+        "text": "The trial is expected to determine whether Clancy was legally responsible for her actions after allegedly suffering postpartum psychosis",
+        "url": "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-murder-trial-everything-we-know-1235596090/",
+        "published": "2026-07-20T19:18:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_11c47b",
+    "title": "‘Never Stop Saying His Name’: Nolan Wells’ Grieving Parents Speak At His Funeral",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T19:17:13.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "‘Never Stop Saying His Name’: Nolan Wells’ Grieving Parents Speak At His Funeral",
+        "text": "Christine and Elmore Wonsley honor their son at a funeral officiated by Rev. Al Sharpton in Ocean Springs, Mississippi, as investigations into his death continue",
+        "url": "https://www.rollingstone.com/culture/culture-news/nolan-wells-funeral-mississippi-1235595926/",
+        "published": "2026-07-20T19:17:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_229529",
+    "title": "Liza Colon-Zayas Joins Hulu’s David Shore Legal Drama ‘Conviction’",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T19:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Liza Colon-Zayas Joins Hulu’s David Shore Legal Drama ‘Conviction’",
+        "text": "EXCLUSIVE: Liza Colón-Zayas, who is coming off her Emmy-winning gig on FX’s The Bear, has joined the cast of David Shore’s upcoming Hulu drama series Conviction. She joins the previously announced Elisabeth Moss, who leads the series and executive produces, as well as Jimmi Simpson, William Jackson Harper, Kevin McKidd, Sebastian De Souza, Adam Godley, […]",
+        "url": "https://deadline.com/2026/07/liza-colon-zayas-hulu-david-shore-series-conviction-1236998671/",
+        "published": "2026-07-20T19:00:00.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Josh Lucas Joins Nicole Kidman & Elle Fanning In Paramount+ Legal Drama ‘Discretion’",
+        "text": "EXCLUSIVE: Josh Lucas (Yellowstone, Ford v Ferrari) is set to star opposite Nicole Kidman and Elle Fanning in Discretion, Paramount+’s upcoming legal thriller series from A24. Lucas will play Greg, a lawyer and the husband of Kidman’s powerful and formidable corporate law partner at the same firm entangled in a dark web of NDAs. Fanning […]",
+        "url": "https://deadline.com/2026/07/josh-lucas-discretion-nicole-kidman-elle-fanning-paramount-1236998810/",
+        "published": "2026-07-20T21:00:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3e63cd",
+    "title": "Variety Interview Studio Presented by Google TV Returns to San Diego",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T18:59:04.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Variety Interview Studio Presented by Google TV Returns to San Diego",
+        "text": "Variety’s Interview Studio will return to San Diego on July 24-25 in partnership with Google TV featuring a lineup of in-depth interviews and conversations with leading talent and creators. “This event has become a defining fixture of the entertainment industry, uniting the creative community, talent, and fans in a celebration of storytelling and culture,” said Dea Lawrence, co-president and publisher, Variety. “We’re […]",
+        "url": "https://variety.com/2026/film/news/variety-interview-studio-san-diego-1236816778/",
+        "published": "2026-07-20T18:59:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_32d52a",
+    "title": "Chloe Fineman Finds Her First Post-‘Saturday Night Live’ Gig",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T18:55:25.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Chloe Fineman Finds Her First Post-‘Saturday Night Live’ Gig",
+        "text": "The performer will play a reporter in ‘Myron Bolitar,’ a new series based on Harlan Coben’s books about an NBA star-turned-sports agent.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/chloe-fineman-post-saturday-night-live-gig-1236652419/",
+        "published": "2026-07-20T18:55:25.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2795ed",
+    "title": "Divinity Roxx: From Secret Bass Player to World Stage",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T18:51:46.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Divinity Roxx: From Secret Bass Player to World Stage",
+        "text": "\"I want to make music kids enjoy but also music that adults can connect with too,\" says Beyoncé's onetime bassist.",
+        "url": "https://www.billboard.com/music/music-news/divinity-roxx-interview-bass-player-kids-album-1236298439/",
+        "published": "2026-07-20T18:51:46.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7a0447",
+    "title": "Keanu Reeves and Patrick Swayze Surf Back into Theaters for ‘Point Break’s’ 35th Anniversary – Film News in Brief",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T18:45:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Keanu Reeves and Patrick Swayze Surf Back into Theaters for ‘Point Break’s’ 35th Anniversary – Film News in Brief",
+        "text": "Keanu Reeves and Patrick Swayze are surfing back to the big screen in celebration of “Point Break’s” 35th anniversary. A new 4k restoration will be released by Resurgence Media Group, Saga Arts and Fathom Entertainment. The film will hit theaters on Aug. 16 and 19. Surfer Matt Archbold will present an exclusive introduction ahead of […]",
+        "url": "https://variety.com/2026/film/news/film-news-in-brief-july-20-2026-1236816245/",
+        "published": "2026-07-20T18:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_25cfe0",
+    "title": "‘Army Of Thieves’ Matthias Schweighöfer Latest To Join New Line’s ‘The Conjuring: First Communion’",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T18:45:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘Army Of Thieves’ Matthias Schweighöfer Latest To Join New Line’s ‘The Conjuring: First Communion’",
+        "text": "EXCLUSIVE: Matthias Schweighöfer, the German actor known for the likes of Oppenheimer and Netflix’s Army of Thieves, is set for a role in New Line horror prequel The Conjuring: First Communion. No word on the role to be played by Schweighöfer. Most recently, we learned that Garrett Wareing and Amanda Fix are leading the film as young versions of […]",
+        "url": "https://deadline.com/2026/07/conjuring-10-first-communion-matthias-schweighofer-1236998523/",
+        "published": "2026-07-20T18:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_11ed29",
+    "title": "75 Songs to Celebrate Spain’s World Cup Victory: Rosalía, Quevedo, Enrique Iglesias & More",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T18:31:34.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "75 Songs to Celebrate Spain’s World Cup Victory: Rosalía, Quevedo, Enrique Iglesias & More",
+        "text": "From Manolo Escobar's classic \"Y Viva España\" to Aitana's \"Superestrella,\" check out the celebratory playlist below.",
+        "url": "https://www.billboard.com/music/latin/fifa-world-cup-2026-spain-playlist-songs-1236298229/",
+        "published": "2026-07-20T18:31:34.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_12731a",
+    "title": "Prince Harry Concedes That Harry Styles Is the U.K.’s Most Famous Harry — But Is He Right?",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T18:26:22.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Prince Harry Concedes That Harry Styles Is the U.K.’s Most Famous Harry — But Is He Right?",
+        "text": "The royal also ranked Harry Kane and Harry Potter.",
+        "url": "https://www.billboard.com/music/music-news/harry-styles-uk-most-famous-harry-prince-harry-1236298301/",
+        "published": "2026-07-20T18:26:22.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3ac1d2",
+    "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T18:14:23.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
+        "text": "The rule-breaking spectacle had Madonna, Justin Bieber, BTS and Shakira performing in front of billions. But did the showmanship just put more people off?",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-halftime-show-global-criticism-1236652255/",
+        "published": "2026-07-20T18:14:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_14bafc",
+    "title": "How Wife Katie Thurston’s Cancer Battle Changed Jeff Arcuri & Shaped His Debut Netflix Special – Comedy Means Business Podcast",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T18:10:48.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "How Wife Katie Thurston’s Cancer Battle Changed Jeff Arcuri & Shaped His Debut Netflix Special – Comedy Means Business Podcast",
+        "text": "For comedian Jeff Arcuri, 2025 brought an uncommon level of emotional upheaval, presenting stunning turns, high highs, and very low lows. By year’s end, Arcuri would record his first-ever comedy special, joining a prestigious shortlist of comics who have secured a Netflix deal for their debut hour. He’d perform the show in the round over […]",
+        "url": "https://deadline.com/2026/07/jeff-arcuri-katie-thurston-cancer-comedy-means-business-1236998576/",
+        "published": "2026-07-20T18:10:48.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_33174a",
+    "title": "Shakira & Burna Boy’s ‘Dai Dai’ Rules Global Charts, Oasis’ ‘Wonderwall’ Hits Top Five",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T18:06:59.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Shakira & Burna Boy’s ‘Dai Dai’ Rules Global Charts, Oasis’ ‘Wonderwall’ Hits Top Five",
+        "text": "The songs benefited in the tracking week from buzz leading up to the World Cup’s close.",
+        "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-oasis-global-charts-world-cup-1236298355/",
+        "published": "2026-07-20T18:06:59.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_57e694",
+    "title": "Journey’s Jonathan Cain Lays Into ‘Annoying, Bitter Old Man’ Bruce Springsteen: ‘Shut Up, Bruce… You Were Born in the USA, So Act Like It’",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T18:03:11.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Journey’s Jonathan Cain Lays Into ‘Annoying, Bitter Old Man’ Bruce Springsteen: ‘Shut Up, Bruce… You Were Born in the USA, So Act Like It’",
+        "text": "Longtime Journey keyboardist Jonathan Cain believes rockers should keep their politics off-stage — but in interviews, he continues to be proud to trumpet his conservative beliefs. He used a podcast interview to blast a fellow 76-year-old, Bruce Springsteen, as an “annoying, bitter old man,” saying the outspoken should just “shut up.” Cain’s problems with Springsteen […]",
+        "url": "https://variety.com/2026/music/news/jonathan-cain-slams-bruce-springsteen-conservative-politics-1236816703/",
+        "published": "2026-07-20T18:03:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_e358d7",
+    "title": "‘Stuart Fails to Save the Universe’ Limited Edition DC Comic Book, Experiential Space for Fans Planned for San Diego Comic-Con (EXCLUSIVE)",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T18:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "‘Stuart Fails to Save the Universe’ Limited Edition DC Comic Book, Experiential Space for Fans Planned for San Diego Comic-Con (EXCLUSIVE)",
+        "text": "“Stuart Fails to Save the Universe” takes place in a comic book shop, so it’s only natural that the new HBO Max series would get its own, actual comic book. As “The Big Bang Theory” spinoff hits San Diego Comic-Con this week, the comic book — featuring cover art by DC Comics president, publisher and […]",
+        "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-comic-book-comic-con-1236816349/",
+        "published": "2026-07-20T18:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_1b2fe1",
+    "title": "‘The Kissing Booth’ Duo Tackling YA Rom-Com ‘Son Of The Mob’ For Red Sage Studios & Sun Distribution",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T18:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘The Kissing Booth’ Duo Tackling YA Rom-Com ‘Son Of The Mob’ For Red Sage Studios & Sun Distribution",
+        "text": "EXCLUSIVE: Red Sage Studios, the YA-focused company founded by former Amazon MGM Studios International head James Farrell, and Sun Distribution (Telefilms Group) have added an adaptation of the Gordon Korman novel Son of the Mob to their slate. Son of the Mob is a romantic comedy following Vince, the teenage son of a mob boss who longs for a […]",
+        "url": "https://deadline.com/2026/07/the-kissing-booth-filmmakers-son-of-the-mob-rom-com-1236998511/",
+        "published": "2026-07-20T18:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_136cc8",
+    "title": "Ben Shapiro Praises ‘The Odyssey’ as a “Masterpiece” Despite Elliot Page Casting Criticism",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T17:38:30.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Ben Shapiro Praises ‘The Odyssey’ as a “Masterpiece” Despite Elliot Page Casting Criticism",
+        "text": "“The broader theme of the movie is actually very much in line with many things that conservatives think,\" the right-wing influencer said in his review. \"If you let Elliot Page kill that for you, I think you’re missing out on an incredible moviegoing experience.\"",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-shapiro-odyssey-review-masterpiece-elliot-page-1236652248/",
+        "published": "2026-07-20T17:38:30.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_70425f",
+    "title": "David Zaslav’s Next Act: Summer Camp Owner",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T17:29:20.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "David Zaslav’s Next Act: Summer Camp Owner",
+        "text": "The Warner Bros. Discovery mogul is the stalking horse bidder for a well-known summer camp in Westchester County, New York that had filed for bankruptcy.",
+        "url": "https://www.hollywoodreporter.com/business/business-news/david-zaslav-buying-summer-camp-new-york-mohawk-1236652251/",
+        "published": "2026-07-20T17:29:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_38686a",
+    "title": "‘My Life With the Walter Boys’ Season 3: Everything We Know So Far",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T17:10:19.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘My Life With the Walter Boys’ Season 3: Everything We Know So Far",
+        "text": "My Life With the Walter Boys received an early Season 3 renewal ahead of the launch of its sophomore season on Netflix. Based on Ali Novak’s book of the same name, the show follows found family themes as well as a love triangle between Jackie Howard (Nikki Rodriguez) and two brothers. Set in Silver Falls, […]",
+        "url": "https://deadline.com/feature/my-life-with-the-walter-boys-season-3-news-1236507779/",
+        "published": "2026-07-20T17:10:19.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far",
+        "text": "Another season of Disney’s television series adaptation of Rick Riordan’s Percy Jackson and the Olympians has come and gone, but Season 3 is close at hand. The series received a very early Season 3 renewal in March 2025, and some very key players have been cast for the third installment. Read on for more details […]",
+        "url": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797/",
+        "published": "2026-07-20T19:25:24.000Z"
       }
     ]
   },
@@ -177,25 +1252,6 @@
         "text": "EXCLUSIVE: Daniel Roher, the Academy Award-winning director behind recent titles Tuner and The AI Doc, has added five to the cast of his new Netflix movie, Positano: Toni Collette (Hereditary), Karren Karagulian (Anora), Salvatore Esposito (Gomorrah), Michele Savoia (Ferrari) and Lorenzo de Moor (You, Me & Tuscany). Starring Matthew McConaughey and Zoe Saldaña, Positano follows a charming jewel thief who gives up […]",
         "url": "https://deadline.com/2026/07/positano-movie-casts-toni-collette-karren-karagulian-1236997694/",
         "published": "2026-07-20T16:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_46137c",
-    "title": "Sylvia Bugg, PBS Programming Chief, Dies at 55",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T16:28:14.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Sylvia Bugg, PBS Programming Chief, Dies at 55",
-        "text": "PBS CEO Paula Kerger announced the news on Sunday.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/sylvia-bugg-dead-pbs-programming-chief-1236652217/",
-        "published": "2026-07-20T16:28:14.000Z"
       }
     ]
   },
@@ -386,25 +1442,6 @@
         "text": "Jim Sturgess, Miranda Richardson, Hugh Skinner and Dean-Charles Chapman will also star in the six-part adaptation of Henry James' novel.",
         "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-nighy-nell-tiger-free-portrait-of-a-lady-pbs-bbc-1236652160/",
         "published": "2026-07-20T15:48:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_5caf09",
-    "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T15:47:55.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
-        "text": "The 2026 FIFA World Cup once again demonstrated the value of home-team interest to broadcasters, with television audiences across Europe skyrocketing when national teams were still alive in the tournament before declining after their elimination. Yet, fans still turned up in force for the July 19 final opposing Spain to Argentina, proving that while national […]",
-        "url": "https://variety.com/2026/tv/global/world-cup-ratings-show-final-big-draw-home-teams-beaten-1236816547/",
-        "published": "2026-07-20T15:47:55.000Z"
       }
     ]
   },

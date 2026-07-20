@@ -1,67 +1,78 @@
 [
   {
-    "story_id": "story_41b1c9",
+    "story_id": "story_522200",
     "skip": false,
-    "category": "project",
-    "subject": "Roberto Aguirre-Sacasa",
-    "headline": "afterlife with archie is actually happening",
-    "body": "disney+ ordered the series nine months after the script-to-series deal.",
-    "slide2": "roberto aguirre-sacasa adapts his own comic. greg berlanti executive produces. halloween 2027.",
+    "category": "casting",
+    "subject": "Chloe Fineman",
+    "subject_2": null,
+    "headline": "chloe fineman already booked her post-snl job",
+    "body": "she announced she was leaving saturday night live last week. netflix moved fast.",
+    "slide2": "she's a series regular on myron bolitar, alongside jabari banks, jamie mcshane and ben mckenzie.",
     "quote": null,
+    "quote_attrib": null,
     "tags": [
-      "afterlifewitharchie",
-      "riverdale",
-      "disneyplus",
-      "tvnews"
+      "chloefineman",
+      "snl",
+      "netflix",
+      "myronbolitar"
     ],
-    "source": "Variety, Deadline, The Hollywood Reporter",
-    "posted_at_label": "20 jul",
-    "image": "file:///C:/dev/tiknews/images/story_41b1c9.jpg",
-    "image_credit": "Gage Skidmore / CC BY-SA 3.0",
-    "image_subject": "Roberto Aguirre-Sacasa"
+    "source": "Deadline, Variety",
+    "posted_at_label": "20 jul"
   },
   {
     "story_id": "story_3ed33a",
     "skip": false,
     "category": "casting",
-    "subject": "Lewis Pullman",
-    "headline": "lewis pullman joins julia garner at apple",
-    "body": "he stars opposite her in guilty creatures, a thriller from director craig gillespie.",
-    "slide2": "adapted from mikita brottman's true crime book. garner also executive produces. tomorrow studios.",
+    "subject": "Julia Garner",
+    "subject_2": "Lewis Pullman",
+    "headline": "julia garner's next role is a real murder case",
+    "body": "apple's guilty creatures is adapted from a true crime book about a killing in tallahassee.",
+    "slide2": "lewis pullman stars opposite her. garner also executive produces. craig gillespie directs.",
     "quote": null,
+    "quote_attrib": null,
     "tags": [
-      "lewispullman",
       "juliagarner",
+      "lewispullman",
       "appletv",
-      "guiltycreatures"
+      "truecrime"
     ],
     "source": "Variety, Deadline, The Hollywood Reporter",
     "posted_at_label": "20 jul",
-    "image": "file:///C:/dev/tiknews/images/story_3ed33a.jpg",
-    "image_credit": "Sara Komatsu / CC BY-SA 4.0",
-    "image_subject": "Lewis Pullman"
+    "image": "file:///C:/dev/tiknews/images/story_3ed33a-a.jpg",
+    "image_2": "file:///C:/dev/tiknews/images/story_3ed33a-b.jpg",
+    "image_credit": "Harald Krichel / CC BY-SA 3.0  ·  Sara Komatsu / CC BY-SA 4.0"
   },
   {
-    "story_id": "story_4c68b2",
-    "skip": false,
-    "category": "release",
-    "subject": "A Different World",
-    "headline": "dwayne wayne is back, minus the shades",
-    "body": "netflix released first look images from the a different world sequel.",
-    "slide2": "he passed the flip-ups down to his daughter deborah. hillman college again. premieres sept 24.",
-    "quote": null,
-    "tags": [
-      "adifferentworld",
-      "netflix",
-      "firstlook",
-      "hillman"
-    ],
-    "source": "Variety, The Hollywood Reporter",
-    "posted_at_label": "20 jul"
-  },
-  {
-    "story_id": "story_6ba666",
+    "story_id": "story_5caf09",
     "skip": true,
-    "reason": "obituary for a UK news broadcaster — outside the entertainment lane"
+    "reason": "sports broadcast ratings — trade data, not entertainment news, and no person at its centre"
+  },
+  {
+    "story_id": "story_46137c",
+    "skip": true,
+    "reason": "death of a public broadcasting executive — sensitive, and outside this account's lane"
+  },
+  {
+    "story_id": "story_3d1b48",
+    "skip": false,
+    "category": "casting",
+    "subject": "Joel Kim Booster",
+    "subject_2": "Zach Braff",
+    "headline": "joel kim booster is out of the scrubs revival",
+    "body": "x mayo is leaving too. abc locked season 2's cast without either of them.",
+    "slide2": "ava bunn was promoted to series regular. zach braff, sarah chalke and donald faison all return.",
+    "quote": null,
+    "quote_attrib": null,
+    "tags": [
+      "scrubs",
+      "joelkimbooster",
+      "zachbraff",
+      "abc"
+    ],
+    "source": "Variety, Deadline, The Hollywood Reporter",
+    "posted_at_label": "20 jul",
+    "image": "file:///C:/dev/tiknews/images/story_3d1b48-a.jpg",
+    "image_2": "file:///C:/dev/tiknews/images/story_3d1b48-b.jpg",
+    "image_credit": "Julian Buchan / CC BY 3.0  ·  Kevin Paul / CC BY 4.0"
   }
 ]

@@ -32,11 +32,24 @@
   /* ---------- photo ---------- */
   .photo {
     flex: 1 1 auto;
-    background-size: cover;
-    background-position: center 22%;
     background-color: #24262F;
     position: relative;
+    overflow: hidden;
   }
+
+  /* one pane per subject — two faces stop more scrolls than one */
+  .panes { position: absolute; inset: 0; display: flex; }
+  .pane {
+    flex: 1 1 0;
+    background-size: cover;
+    /* biased upward so the face fills the frame instead of sitting centred */
+    background-position: center 16%;
+  }
+  .pane + .pane { border-left: 5px solid var(--signal); }
+
+  /* house grade — makes volunteer convention snapshots read as a deliberate
+     look rather than found images */
+  .panes { filter: contrast(1.09) saturate(.94); }
   /* keeps the top strip legible over a bright photo */
   .photo::after {
     content: '';
@@ -91,11 +104,11 @@
 
   /* slide two reframes the same photo — tighter crop, cooler grade — so the
      swipe delivers a visible change rather than just new text */
-  .card.back .photo {
-    background-size: 132%;
-    background-position: center 14%;
-    filter: saturate(.72) contrast(1.06) brightness(.92);
+  .card.back .panes {
+    transform: scale(1.16);
+    filter: saturate(.68) contrast(1.10) brightness(.88);
   }
+  .card.back .pane { background-position: center 12%; }
 
   /* ---------- signature: the confirmation strip ---------- */
   .confirm {
@@ -216,6 +229,7 @@
 
 <div class="card" id="card">
   <div class="photo" id="photo">
+    <div class="panes" id="panes"></div>
     <div class="topstrip">
       <span class="kind" id="kind">CASTING</span>
       <span id="swipe">SWIPE &rarr;</span>
@@ -248,9 +262,12 @@
 
     if (slide === 2) card.classList.add('back');
 
-    // photo
-    if (d.image) {
-      document.getElementById('photo').style.backgroundImage = `url("${d.image}")`;
+    // photo — one pane per subject, split frame when there are two
+    const imgs = [d.image, d.image_2].filter(Boolean);
+    if (imgs.length) {
+      document.getElementById('panes').innerHTML = imgs
+        .map((src) => `<div class="pane" style="background-image:url('${src}')"></div>`)
+        .join('');
     } else {
       card.classList.add('noimage');
     }

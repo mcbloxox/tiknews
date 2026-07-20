@@ -8,7 +8,8 @@ const FEEDS = [
   { name: 'The Hollywood Reporter', url: 'https://www.hollywoodreporter.com/feed/' },
   { name: 'Billboard',          url: 'https://www.billboard.com/feed/' },
   { name: 'BBC Entertainment',  url: 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml' },
-  { name: 'AP Entertainment',   url: 'https://rsshub.app/apnews/topics/entertainment' },
+  { name: 'Rolling Stone',      url: 'https://www.rollingstone.com/feed/' },
+  { name: 'Entertainment Weekly', url: 'https://ew.com/feed/' },
 ];
 
 module.exports = { FEEDS };
