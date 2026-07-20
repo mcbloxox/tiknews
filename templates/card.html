@@ -83,7 +83,9 @@
     flex: 0 0 auto;
     background: var(--bone);
     color: var(--ink);
-    padding: 56px 72px 64px;
+    /* bottom padding is a safe zone: TikTok's caption and username sit over
+       roughly the lowest 300px of a 1920px-tall post */
+    padding: 56px 72px 300px;
   }
   .card.back .slab { background: var(--ink); color: var(--bone); }
 
@@ -134,9 +136,10 @@
 
   /* when no free photo exists, don't leave a huge empty block — collapse the
      photo area to a band and let the type fill the card instead */
-  .card.noimage .photo { flex: 0 0 300px; }
+  .card.noimage .photo { flex: 0 0 196px; }
+  .card.noimage .photo::after { display: none; }
   .card.noimage .slab { flex: 1 1 auto; display: flex; flex-direction: column; }
-  .card.noimage .slab #content { flex: 1 1 auto; display: flex; flex-direction: column; justify-content: center; }
+  .card.noimage .slab #content { flex: 1 1 auto; padding-top: 18px; }
   .card.noimage .headline    { font-size: 132px; }
   .card.noimage .headline.s1 { font-size: 112px; }
   .card.noimage .headline.s2 { font-size: 94px; }
@@ -192,6 +195,8 @@
   .foot {
     margin-top: 48px;
     padding-top: 28px;
+    /* right safe zone: the action buttons rail overlays this edge */
+    padding-right: 150px;
     border-top: 2px solid var(--rule);
     display: flex;
     justify-content: space-between;
@@ -226,7 +231,7 @@
     <div id="content"></div>
     <div class="foot">
       <span id="sources">VARIETY / DEADLINE / THR</span>
-      <span class="handle" id="handle">@NIGHTHALO_</span>
+      <span class="handle" id="handle">The Orion</span>
     </div>
   </div>
 </div>
@@ -270,7 +275,7 @@
       .map(o => o.replace(/^The\s+/i, '').toUpperCase())
       .join(' / ');
 
-    document.getElementById('handle').textContent = (d.handle || '@nighthalo_').toUpperCase();
+    document.getElementById('handle').textContent = d.handle || 'The Orion';
 
     // body content
     const c = document.getElementById('content');
@@ -307,7 +312,7 @@
     quote: null,
     source: 'Variety, Deadline, The Hollywood Reporter',
     posted_at_label: '20 jul',
-    handle: '@nighthalo_'
+    handle: 'The Orion'
   };
 
   if (raw) {

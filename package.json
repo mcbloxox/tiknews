@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "news": "node src/ingest.js && node src/cluster.js && node src/digest.js",
+    "cards": "node src/images.js && node src/render.js && node src/gallery.js",
+    "done": "node src/done.js"
   },
   "keywords": [],
   "author": "",

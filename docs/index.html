@@ -1,1 +1,95 @@
-﻿hello
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>The Orion — cards</title>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  :root { --ink:#17181F; --bone:#EFECE4; --signal:#FF3D6E; --muted:#6E7185; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background: var(--ink); color: var(--bone);
+    font-family:'Archivo',system-ui,sans-serif;
+    padding: 28px 20px 80px; max-width: 900px; margin: 0 auto;
+  }
+  header { border-bottom:2px solid #2C2E3A; padding-bottom:18px; margin-bottom:8px; }
+  h1 { font-size:26px; font-weight:800; letter-spacing:-.02em; }
+  header p {
+    font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--muted); margin-top:6px;
+  }
+  .set { padding:30px 0; border-bottom:1px solid #24262F; }
+  h2 { font-size:21px; font-weight:800; letter-spacing:-.02em; text-transform:lowercase; line-height:1.15; }
+  .meta {
+    font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:.1em;
+    text-transform:uppercase; color:var(--muted); margin:8px 0 16px;
+  }
+  .shots { display:flex; gap:12px; flex-wrap:wrap; }
+  .shot { position:relative; flex:1 1 140px; max-width:200px; text-decoration:none; }
+  .shot img { width:100%; display:block; border-radius:3px; background:#24262F; }
+  .n {
+    position:absolute; top:8px; left:8px;
+    font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:600;
+    background:var(--signal); color:#fff; padding:2px 7px; border-radius:2px;
+  }
+  .empty { color:var(--muted); padding:40px 0; }
+  code { font-family:'IBM Plex Mono',monospace; background:#24262F; padding:2px 6px; border-radius:3px; }
+  footer {
+    margin-top:36px; font-family:'IBM Plex Mono',monospace; font-size:11px;
+    letter-spacing:.1em; text-transform:uppercase; color:var(--muted); line-height:1.9;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>The Orion — cards</h1>
+    <p>3 sets &middot; built 2026-07-20 17:47Z</p>
+  </header>
+
+    <section class="set">
+      <h2>dwayne wayne is back, minus the shades</h2>
+      <p class="meta">story_4c68b2 &middot; 2026-07-20 &middot; 2 slides</p>
+      <div class="shots">
+        <a class="shot" href="story_4c68b2-1.png" target="_blank" rel="noopener">
+          <img src="story_4c68b2-1.png" alt="slide 1" loading="lazy">
+          <span class="n">1</span>
+        </a>
+        <a class="shot" href="story_4c68b2-2.png" target="_blank" rel="noopener">
+          <img src="story_4c68b2-2.png" alt="slide 2" loading="lazy">
+          <span class="n">2</span>
+        </a></div>
+    </section>
+    <section class="set">
+      <h2>lewis pullman joins julia garner at apple</h2>
+      <p class="meta">story_3ed33a &middot; 2026-07-20 &middot; 2 slides</p>
+      <div class="shots">
+        <a class="shot" href="story_3ed33a-1.png" target="_blank" rel="noopener">
+          <img src="story_3ed33a-1.png" alt="slide 1" loading="lazy">
+          <span class="n">1</span>
+        </a>
+        <a class="shot" href="story_3ed33a-2.png" target="_blank" rel="noopener">
+          <img src="story_3ed33a-2.png" alt="slide 2" loading="lazy">
+          <span class="n">2</span>
+        </a></div>
+    </section>
+    <section class="set">
+      <h2>afterlife with archie is actually happening</h2>
+      <p class="meta">story_41b1c9 &middot; 2026-07-20 &middot; 2 slides</p>
+      <div class="shots">
+        <a class="shot" href="story_41b1c9-1.png" target="_blank" rel="noopener">
+          <img src="story_41b1c9-1.png" alt="slide 1" loading="lazy">
+          <span class="n">1</span>
+        </a>
+        <a class="shot" href="story_41b1c9-2.png" target="_blank" rel="noopener">
+          <img src="story_41b1c9-2.png" alt="slide 2" loading="lazy">
+          <span class="n">2</span>
+        </a></div>
+    </section>
+  <footer>
+    Tap a slide to open it full size, then press and hold to save.<br>
+    Post slide 1 first, slide 2 second.
+  </footer>
+</body>
+</html>
