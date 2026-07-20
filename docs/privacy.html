@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy</title>
+<style>
+  body {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+    font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    color: #1c1c1e;
+    background: #fff;
+  }
+  h1 { font-size: 32px; margin-bottom: 4px; }
+  h2 { font-size: 20px; margin-top: 40px; }
+  .updated { color: #6b6b70; font-size: 14px; margin-top: 0; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 6px; }
+  code { background: #f2f2f4; padding: 1px 5px; border-radius: 3px; font-size: 14px; }
+  a { color: #0b57d0; }
+  @media (prefers-color-scheme: dark) {
+    body { background: #121214; color: #e8e8ea; }
+    code { background: #232326; }
+    .updated { color: #9a9aa0; }
+    a { color: #7cb0ff; }
+  }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p class="updated">Last updated: 20 July 2026 &middot; Operated by NightHalo_</p>
+
+<h2>1. What this is</h2>
+<p>
+  This policy covers an automated content publishing tool ("the Tool") operated by a single
+  individual. The Tool reads publicly available entertainment news feeds, generates image
+  cards summarising those stories, and publishes them to one TikTok account owned and
+  operated by NightHalo_.
+</p>
+<p>
+  The Tool is not a product offered to other people. It has no users other than its operator,
+  no sign-up, no accounts, and no public interface. It is a personal publishing workflow.
+</p>
+
+<h2>2. Information collected from TikTok</h2>
+<p>When the operator authorises the Tool through TikTok Login, the following is stored:</p>
+<ul>
+  <li>An OAuth access token and refresh token for the operator's own TikTok account</li>
+  <li>Basic account information returned by the <code>user.info.basic</code> scope
+      (display name, avatar URL, open ID), used only to confirm the correct account is connected</li>
+  <li>Publish identifiers returned by TikTok after a post is created, used to check whether
+      publishing succeeded</li>
+</ul>
+<p>
+  The Tool requests only two permissions: <code>user.info.basic</code> and
+  <code>video.publish</code>. It cannot read the operator's videos, followers, messages,
+  comments, or analytics, and it does not request access to any other TikTok account.
+</p>
+
+<h2>3. Information collected from anyone else</h2>
+<p>
+  None. The Tool collects no information from TikTok viewers, followers, or any other person.
+  It does not use cookies, analytics, tracking pixels, or advertising identifiers. It does not
+  build profiles of any individual. Nobody other than the operator can log in to it, because
+  there is nothing to log in to.
+</p>
+
+<h2>4. News content</h2>
+<p>
+  The Tool reads publicly published RSS feeds and public web pages from news organisations. It
+  stores article headlines, summaries, publication timestamps and source URLs in order to
+  remove duplicates and to verify that quoted text matches its source. This is publicly
+  published journalism, not personal data gathered about individuals.
+</p>
+<p>
+  Published cards name their source. If you believe a card misstates something about you or
+  misattributes a quote, contact <a href="mailto:filipgorczynski5@gmail.com">filipgorczynski5@gmail.com</a> and it will be
+  corrected or removed promptly.
+</p>
+
+<h2>5. How information is stored</h2>
+<ul>
+  <li>Tokens are held in GitHub Actions encrypted secrets and are never written to the
+      repository, logs, or any public file</li>
+  <li>News data and generated images are stored in a GitHub repository</li>
+  <li>Generated images are served publicly from <code>media.nighthalospace.online</code>
+      so that TikTok can download them during publishing</li>
+</ul>
+
+<h2>6. Third parties</h2>
+<p>The Tool sends data to the following services, and to no others:</p>
+<ul>
+  <li><strong>TikTok</strong> — to publish content, under TikTok's own privacy policy</li>
+  <li><strong>GitHub</strong> — hosting, scheduling and storage</li>
+  <li><strong>Anthropic</strong> — article text is sent to Claude to draft card copy, where the
+      API is used for that step</li>
+</ul>
+<p>No information is sold, rented, or shared for advertising purposes. There is nothing to sell.</p>
+
+<h2>7. Retention and deletion</h2>
+<ul>
+  <li>News data older than 14 days is deleted automatically</li>
+  <li>Generated images are deleted 7 days after publishing</li>
+  <li>Tokens are deleted immediately if the operator revokes access</li>
+</ul>
+<p>
+  The operator can revoke the Tool's access at any time from TikTok's Settings &rarr; Security
+  and permissions &rarr; Manage app permissions. Doing so invalidates the stored tokens.
+</p>
+
+<h2>8. Children</h2>
+<p>
+  The Tool is not directed at children and collects no information from anyone, including
+  children. Its output is subject to TikTok's own age policies.
+</p>
+
+<h2>9. Changes</h2>
+<p>
+  If this policy changes, the updated version will be posted at this address with a revised
+  date above.
+</p>
+
+<h2>10. Contact</h2>
+<p>
+  Questions, corrections, or removal requests: <a href="mailto:filipgorczynski5@gmail.com">filipgorczynski5@gmail.com</a>
+</p>
+
+</body>
+</html>
