@@ -4,20 +4,23 @@
     "skip": false,
     "category": "casting",
     "subject": "Chloe Fineman",
-    "subject_2": null,
-    "headline": "chloe fineman already booked her post-snl job",
-    "body": "she announced she was leaving saturday night live last week. netflix moved fast.",
-    "slide2": "she's a series regular on myron bolitar, alongside jabari banks, jamie mcshane and ben mckenzie.",
+    "subject_2": "Jabari Banks",
+    "headline": "chloe fineman lands first role since leaving snl",
+    "body": "she'll star in netflix's myron bolitar opposite jabari banks, his first show since bel-air.",
+    "slide2": "jamie mcshane (task, wednesday) joins as a series regular too, alongside ben mckenzie in the cast.",
     "quote": null,
     "quote_attrib": null,
     "tags": [
       "chloefineman",
-      "snl",
+      "jabaribanks",
+      "myronbolitar",
       "netflix",
-      "myronbolitar"
+      "snl"
     ],
     "source": "Deadline, Variety",
-    "posted_at_label": "20 jul"
+    "posted_at_label": "20 jul",
+    "image_2": "file:///C:/dev/tiknews/images/story_522200-b.png",
+    "image_credit": "Wikiworm1124 / CC0"
   },
   {
     "story_id": "story_3ed33a",
@@ -25,9 +28,9 @@
     "category": "casting",
     "subject": "Julia Garner",
     "subject_2": "Lewis Pullman",
-    "headline": "julia garner's next role is a real murder case",
-    "body": "apple's guilty creatures is adapted from a true crime book about a killing in tallahassee.",
-    "slide2": "lewis pullman stars opposite her. garner also executive produces. craig gillespie directs.",
+    "headline": "julia garner is playing a real murder suspect",
+    "body": "apple ordered the thriller with her as lead and executive producer.",
+    "slide2": "lewis pullman stars opposite her. it's adapted from mikita brottman's book about a killing in tallahassee.",
     "quote": null,
     "quote_attrib": null,
     "tags": [
@@ -41,38 +44,5 @@
     "image": "file:///C:/dev/tiknews/images/story_3ed33a-a.jpg",
     "image_2": "file:///C:/dev/tiknews/images/story_3ed33a-b.jpg",
     "image_credit": "Harald Krichel / CC BY-SA 3.0  ·  Sara Komatsu / CC BY-SA 4.0"
-  },
-  {
-    "story_id": "story_5caf09",
-    "skip": true,
-    "reason": "sports broadcast ratings — trade data, not entertainment news, and no person at its centre"
-  },
-  {
-    "story_id": "story_46137c",
-    "skip": true,
-    "reason": "death of a public broadcasting executive — sensitive, and outside this account's lane"
-  },
-  {
-    "story_id": "story_3d1b48",
-    "skip": false,
-    "category": "casting",
-    "subject": "Joel Kim Booster",
-    "subject_2": "Zach Braff",
-    "headline": "joel kim booster is out of the scrubs revival",
-    "body": "x mayo is leaving too. abc locked season 2's cast without either of them.",
-    "slide2": "ava bunn was promoted to series regular. zach braff, sarah chalke and donald faison all return.",
-    "quote": null,
-    "quote_attrib": null,
-    "tags": [
-      "scrubs",
-      "joelkimbooster",
-      "zachbraff",
-      "abc"
-    ],
-    "source": "Variety, Deadline, The Hollywood Reporter",
-    "posted_at_label": "20 jul",
-    "image": "file:///C:/dev/tiknews/images/story_3d1b48-a.jpg",
-    "image_2": "file:///C:/dev/tiknews/images/story_3d1b48-b.jpg",
-    "image_credit": "Julian Buchan / CC BY 3.0  ·  Kevin Paul / CC BY 4.0"
   }
 ]

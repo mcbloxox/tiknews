@@ -14,6 +14,7 @@ const STEPS = [
   ['cluster.js', 'grouping stories'],
   ['rank.js',    'scoring for reach'],
   ['digest.js',  'writing the queue'],
+  ['queue-copy.js', 'copying to clipboard']
 ];
 
 for (const [file, label] of STEPS) {

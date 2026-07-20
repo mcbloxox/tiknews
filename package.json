@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "news": "node src/news.js",
-    "cards": "node src/images.js && node src/render.js && node src/gallery.js",
+    "cards": "node src/paste-cards.js && node src/images.js && node src/render.js && node src/gallery.js && node src/publish.js",
+    "publish": "node src/publish.js",
     "done": "node src/done.js"
   },
   "keywords": [],

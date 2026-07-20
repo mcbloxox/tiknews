@@ -15,7 +15,11 @@ const POSTED_FILE = path.join(ROOT, 'data', 'posted.json');
 const QUEUE_DIR = path.join(ROOT, 'queue');
 
 // How many stories to put in front of you each time.
-const TOP_N = 5;
+const TOP_N = 4;
+
+// Ignore anything rank.js scored below this. Reading five weak stories to
+// find one good one is the thing that makes a daily routine stop happening.
+const MIN_SCORE = 0.35;
 
 function loadPosted() {
   if (!fs.existsSync(POSTED_FILE)) return [];
@@ -38,10 +42,12 @@ function main() {
   const candidates = stories
     .filter((s) => s.status === 'ready')
     .filter((s) => !postedIds.has(s.id))
+    .filter((s) => s.score === undefined || s.score >= MIN_SCORE)
     .slice(0, TOP_N);
 
   if (candidates.length === 0) {
-    console.log('Nothing ready. Either no story has two sources yet, or you have posted them all.');
+    console.log(`Nothing above ${MIN_SCORE}. Either nothing big broke, or you have posted it all.`);
+    console.log('A thin day is not a reason to lower the bar — post nothing, or post one.');
     return;
   }
 
