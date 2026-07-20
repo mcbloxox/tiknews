@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:    #17181F;
+    --bone:   #EFECE4;
+    --signal: #FF3D6E;
+    --muted:  #6E7185;
+    --rule:   #C9C4B8;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #000; }
+
+  .card {
+    position: relative;
+    width: 1080px;
+    height: 1920px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Archivo', system-ui, sans-serif;
+    background: var(--ink);
+  }
+
+  /* ---------- photo ---------- */
+  .photo {
+    flex: 1 1 auto;
+    background-size: cover;
+    background-position: center 22%;
+    background-color: #24262F;
+    position: relative;
+  }
+  /* keeps the top strip legible over a bright photo */
+  .photo::after {
+    content: '';
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: 260px;
+    background: linear-gradient(180deg, rgba(0,0,0,.55), transparent);
+  }
+
+  .topstrip {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 64px 72px 0;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 26px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,.86);
+  }
+  .topstrip .kind { color: var(--signal); font-weight: 600; }
+
+  /* photo credit — required by the licence, kept deliberately small */
+  .credit {
+    position: absolute;
+    left: 72px;
+    bottom: 26px;
+    z-index: 2;
+    max-width: 860px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 19px;
+    letter-spacing: .06em;
+    color: rgba(255,255,255,.72);
+    text-shadow: 0 1px 3px rgba(0,0,0,.8);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* ---------- the slab ---------- */
+  .slab {
+    flex: 0 0 auto;
+    background: var(--bone);
+    color: var(--ink);
+    padding: 56px 72px 64px;
+  }
+  .card.back .slab { background: var(--ink); color: var(--bone); }
+
+  /* slide two reframes the same photo — tighter crop, cooler grade — so the
+     swipe delivers a visible change rather than just new text */
+  .card.back .photo {
+    background-size: 132%;
+    background-position: center 14%;
+    filter: saturate(.72) contrast(1.06) brightness(.92);
+  }
+
+  /* ---------- signature: the confirmation strip ---------- */
+  .confirm {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    padding-bottom: 30px;
+    margin-bottom: 34px;
+    border-bottom: 2px solid var(--rule);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 23px;
+    letter-spacing: .10em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .card.back .confirm { border-bottom-color: #33353F; }
+
+  .pips { display: flex; gap: 7px; }
+  .pip {
+    width: 15px;
+    height: 15px;
+    background: var(--signal);
+  }
+  .confirm .word { color: var(--ink); font-weight: 600; }
+  .card.back .confirm .word { color: var(--bone); }
+
+  /* ---------- type ---------- */
+  .headline {
+    font-weight: 800;
+    font-size: 104px;
+    line-height: .96;
+    letter-spacing: -.038em;
+    text-transform: lowercase;
+    text-wrap: balance;
+  }
+  .headline.s1 { font-size: 88px; }
+  .headline.s2 { font-size: 74px; }
+
+  /* when no free photo exists, don't leave a huge empty block — collapse the
+     photo area to a band and let the type fill the card instead */
+  .card.noimage .photo { flex: 0 0 300px; }
+  .card.noimage .slab { flex: 1 1 auto; display: flex; flex-direction: column; }
+  .card.noimage .slab #content { flex: 1 1 auto; display: flex; flex-direction: column; justify-content: center; }
+  .card.noimage .headline    { font-size: 132px; }
+  .card.noimage .headline.s1 { font-size: 112px; }
+  .card.noimage .headline.s2 { font-size: 94px; }
+  .card.noimage .detail      { font-size: 78px; }
+  .card.noimage .detail.long { font-size: 64px; }
+
+  .body {
+    margin-top: 34px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.34;
+    text-transform: lowercase;
+    color: #3A3B47;
+  }
+  .card.back .body { color: #B7B9C6; }
+
+  /* slide two */
+  .detail {
+    font-weight: 600;
+    font-size: 62px;
+    line-height: 1.22;
+    letter-spacing: -.02em;
+    text-transform: lowercase;
+  }
+  .detail.long { font-size: 52px; }
+
+  .quotemark {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 800;
+    font-size: 150px;
+    line-height: .6;
+    color: var(--signal);
+    display: block;
+    margin-bottom: 18px;
+  }
+  .quote {
+    font-weight: 600;
+    font-size: 62px;
+    line-height: 1.2;
+    letter-spacing: -.02em;
+  }
+  .quote.long { font-size: 50px; }
+  .attrib {
+    margin-top: 30px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 26px;
+    letter-spacing: .08em;
+    color: var(--muted);
+    text-transform: uppercase;
+  }
+
+  /* ---------- foot ---------- */
+  .foot {
+    margin-top: 48px;
+    padding-top: 28px;
+    border-top: 2px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 25px;
+    letter-spacing: .10em;
+    color: var(--muted);
+    text-transform: uppercase;
+  }
+  .card.back .foot { border-top-color: #33353F; }
+  .foot .handle { color: var(--ink); font-weight: 600; }
+  .card.back .foot .handle { color: var(--bone); }
+</style>
+</head>
+<body>
+
+<div class="card" id="card">
+  <div class="photo" id="photo">
+    <div class="topstrip">
+      <span class="kind" id="kind">CASTING</span>
+      <span id="swipe">SWIPE &rarr;</span>
+    </div>
+    <div class="credit" id="credit"></div>
+  </div>
+
+  <div class="slab">
+    <div class="confirm">
+      <span class="pips" id="pips"></span>
+      <span><span class="word" id="count">3</span> outlets confirm</span>
+    </div>
+    <div id="content"></div>
+    <div class="foot">
+      <span id="sources">VARIETY / DEADLINE / THR</span>
+      <span class="handle" id="handle">@NIGHTHALO_</span>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  function esc(s) {
+    return String(s).replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  }
+
+  function apply(d, slide) {
+    const card = document.getElementById('card');
+    const outlets = (d.source || '').split(',').map(s => s.trim()).filter(Boolean);
+
+    if (slide === 2) card.classList.add('back');
+
+    // photo
+    if (d.image) {
+      document.getElementById('photo').style.backgroundImage = `url("${d.image}")`;
+    } else {
+      card.classList.add('noimage');
+    }
+
+    // photo credit — shown whenever a licensed image is used
+    document.getElementById('credit').textContent = d.image_credit
+      ? 'PHOTO: ' + d.image_credit
+      : '';
+
+    // top strip
+    document.getElementById('kind').textContent = (d.category || '').toUpperCase();
+    document.getElementById('swipe').textContent =
+      slide === 1 ? 'SWIPE \u2192' : (d.posted_at_label || '').toUpperCase();
+
+    // signature strip — one pip per confirming outlet
+    const pips = document.getElementById('pips');
+    pips.innerHTML = outlets.map(() => '<span class="pip"></span>').join('');
+    document.getElementById('count').textContent = outlets.length;
+
+    // sources line, shortened so it fits
+    document.getElementById('sources').textContent = outlets
+      .map(o => o.replace(/^The\s+/i, '').toUpperCase())
+      .join(' / ');
+
+    document.getElementById('handle').textContent = (d.handle || '@nighthalo_').toUpperCase();
+
+    // body content
+    const c = document.getElementById('content');
+
+    if (slide === 1) {
+      const h = d.headline || '';
+      const size = h.length > 46 ? ' s2' : h.length > 32 ? ' s1' : '';
+      c.innerHTML =
+        `<h1 class="headline${size}">${esc(h)}</h1>` +
+        (d.body ? `<p class="body">${esc(d.body)}</p>` : '');
+    } else if (d.quote) {
+      const long = d.quote.length > 90 ? ' long' : '';
+      c.innerHTML =
+        `<span class="quotemark">&ldquo;</span>` +
+        `<p class="quote${long}">${esc(d.quote)}</p>` +
+        (d.quote_attrib ? `<p class="attrib">${esc(d.quote_attrib)}</p>` : '');
+    } else {
+      const t = d.slide2 || '';
+      c.innerHTML = `<p class="detail${t.length > 110 ? ' long' : ''}">${esc(t)}</p>`;
+    }
+
+    document.body.dataset.ready = 'true';
+  }
+
+  const params = new URLSearchParams(location.search);
+  const slide = Number(params.get('slide') || 1);
+  const raw = params.get('data');
+
+  const sample = {
+    category: 'casting',
+    headline: 'lewis pullman joins julia garner at apple',
+    body: 'he stars opposite her in guilty creatures, a thriller from director craig gillespie.',
+    slide2: "adapted from mikita brottman's true crime book. garner also executive produces.",
+    quote: null,
+    source: 'Variety, Deadline, The Hollywood Reporter',
+    posted_at_label: '20 jul',
+    handle: '@nighthalo_'
+  };
+
+  if (raw) {
+    try { apply(JSON.parse(decodeURIComponent(escape(atob(raw)))), slide); }
+    catch (e) { console.error(e); apply(sample, slide); }
+  } else {
+    apply(sample, slide);
+  }
+})();
+</script>
+</body>
+</html>

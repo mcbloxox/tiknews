@@ -64,6 +64,7 @@ Return **one JSON array and nothing else**. No markdown fences, no preamble, no 
     "story_id": "story_41b1c9",
     "skip": false,
     "category": "project",
+    "subject": "Roberto Aguirre-Sacasa",
     "headline": "afterlife with archie is actually happening",
     "body": "disney+ ordered the series nine months after the script-to-series deal.",
     "slide2": "roberto aguirre-sacasa adapts his own comic, greg berlanti executive produces. halloween 2027.",
@@ -76,6 +77,7 @@ Return **one JSON array and nothing else**. No markdown fences, no preamble, no 
 ```
 
 Field notes:
+- `subject` — the one person the card's photo should show, written as their full name spelled the way English Wikipedia spells it. Pick the most recognisable person in the story, not the studio or the show. If the story genuinely has no person at its centre, use the title of the film, series or album instead.
 - `quote` — the verbatim quotation, or `null`. If set, it must appear literally in the source text.
 - `slide2` — what goes on the second image. A real quote if one exists, otherwise the concrete details.
 - `source` — every outlet that reported it, comma separated. This goes on the card.
