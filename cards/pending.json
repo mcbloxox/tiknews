@@ -1,5 +1,50 @@
 [
   {
+    "story_id": "story_4ff87e",
+    "skip": false,
+    "category": "release",
+    "subject": "Christopher Nolan",
+    "subject_2": null,
+    "headline": "christopher nolan's the odyssey opens to $264 million",
+    "body": "it's universal's biggest opening this year, boosted by imax, which brought in over half the weekend's box office.",
+    "slide2": "reviews have been near-ecstatic overall, but rotten tomatoes is also logging a stubborn wave of one- and half-star pans.",
+    "quote": null,
+    "quote_attrib": null,
+    "tags": [
+      "christophernolan",
+      "theodyssey",
+      "boxoffice",
+      "imax"
+    ],
+    "source": "Deadline, Variety, The Hollywood Reporter",
+    "posted_at_label": "20 jul",
+    "image": "file:///C:/dev/tiknews/images/story_4ff87e-a.jpg",
+    "image_credit": "PhilipRomano / CC BY-SA 4.0"
+  },
+  {
+    "story_id": "story_37be53",
+    "skip": false,
+    "category": "music",
+    "subject": "Justin Bieber",
+    "subject_2": "Burna Boy",
+    "headline": "justin bieber's world cup song jumps 240% in streams",
+    "body": "some fans said 'everything hallelujah' didn't fit the vibe, but it spiked hard right after the championship game.",
+    "slide2": "bieber performed it at the world cup halftime show alongside burna boy and shakira, per burna boy's behind-the-scenes diary of the night.",
+    "quote": null,
+    "quote_attrib": null,
+    "tags": [
+      "justinbieber",
+      "burnaboy",
+      "worldcup",
+      "halftimeshow"
+    ],
+    "source": "Rolling Stone, Billboard",
+    "posted_at_label": "20 jul",
+    "image": "file:///C:/dev/tiknews/images/story_37be53-a.jpg",
+    "image_2": "file:///C:/dev/tiknews/images/story_37be53-b.jpg",
+    "image_credit": "Lou Stejskal / CC BY 2.0  ·  Nuță Lucian from Cluj-Napoca, Romania / CC BY-SA 2.0"
+  },
+  {
     "story_id": "story_522200",
     "skip": false,
     "category": "casting",
@@ -23,26 +68,26 @@
     "image_credit": "Wikiworm1124 / CC0"
   },
   {
-    "story_id": "story_3ed33a",
+    "story_id": "story_119c3b",
     "skip": false,
-    "category": "casting",
-    "subject": "Julia Garner",
-    "subject_2": "Lewis Pullman",
-    "headline": "julia garner is playing a real murder suspect",
-    "body": "apple ordered the thriller with her as lead and executive producer.",
-    "slide2": "lewis pullman stars opposite her. it's adapted from mikita brottman's book about a killing in tallahassee.",
-    "quote": null,
-    "quote_attrib": null,
+    "category": "other",
+    "subject": "Adam Driver",
+    "subject_2": "Kevin Feige",
+    "headline": "adam driver keeps turning down marvel, kevin feige says",
+    "body": "feige has tried casting him for years, most recently amid x-men reboot rumors, but driver keeps saying no.",
+    "slide2": "\"it's a tradition to zoom with him and then he passes,\" feige said on the happy sad confused podcast.",
+    "quote": "it's a tradition to zoom with him and then he passes",
+    "quote_attrib": "Kevin Feige",
     "tags": [
-      "juliagarner",
-      "lewispullman",
-      "appletv",
-      "truecrime"
+      "adamdriver",
+      "kevinfeige",
+      "marvel",
+      "xmen"
     ],
     "source": "Variety, Deadline, The Hollywood Reporter",
     "posted_at_label": "20 jul",
-    "image": "file:///C:/dev/tiknews/images/story_3ed33a-a.jpg",
-    "image_2": "file:///C:/dev/tiknews/images/story_3ed33a-b.jpg",
-    "image_credit": "Harald Krichel / CC BY-SA 3.0  ·  Sara Komatsu / CC BY-SA 4.0"
+    "image": "file:///C:/dev/tiknews/images/story_119c3b-a.jpg",
+    "image_2": "file:///C:/dev/tiknews/images/story_119c3b-b.jpg",
+    "image_credit": "Colleen Sturtevant / CC BY-SA 4.0  ·  Gage Skidmore / CC BY-SA 3.0"
   }
 ]

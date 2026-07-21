@@ -1,5 +1,91 @@
 [
   {
+    "id": "story_4ff87e",
+    "title": "‘The Odyssey’: What Do The Fates Have In Store For Christopher Nolan’s Homeric Epic As Awards Season Gets Under Way?",
+    "source_count": 3,
+    "domains": [
+      "deadline.com",
+      "hollywoodreporter.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T15:30:00.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘The Odyssey’: What Do The Fates Have In Store For Christopher Nolan’s Homeric Epic As Awards Season Gets Under Way?",
+        "text": "After the near-ecstatic reviews from critics for The Odyssey, tiny cracks are starting to show in Christopher Nolan’s record-breaking juggernaut, and a small but vocal faction of the audience appears to be begging to differ. Looking at Rotten Tomatoes, the ever-controversial aggregate site is reporting a stubborn wave of one- and even half-star reviews, calling […]",
+        "url": "https://deadline.com/2026/07/the-odyssey-awards-predictions-matt-damon-anne-hathaway-1236997845/",
+        "published": "2026-07-20T15:30:00.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "What’s Really In the AI Odyssey Film",
+        "text": "On the heels of Christopher Nolan’s blockbuster weekend, the filmmakers of the digital-age project have a few ideas of their own.",
+        "url": "https://www.hollywoodreporter.com/business/digital/ai-the-odyssey-what-is-it-where-to-watch-1236652547/",
+        "published": "2026-07-20T22:12:51.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "LISTEN: Christopher Nolan Gets Moviegoers Out in Force for the Trojan Horse",
+        "text": "On today’s episode of “Daily Variety” podcast, in our Box Office segment, Variety’s Rebecca Rubin breaks down the spectacular $264 million worldwide opening for Universal Pictures’ “The Odyssey.” It couldn’t have come at a better time for Imax, the large-format exhibitor that delivered more than 50% of the opening weekend receipts. Anticipation for Nolan’s follow-up […]",
+        "url": "https://variety.com/2026/film/news/box-office-odyssey-christopher-nolan-daily-variety-podcast-1236816924/",
+        "published": "2026-07-20T22:27:36.000Z"
+      }
+    ],
+    "likely_subject": "Christopher Nolan",
+    "score": 0.744,
+    "score_parts": {
+      "fame": 0.88,
+      "heat": 1,
+      "baseline_views": 13300,
+      "latest_views": 184236,
+      "spike": 13.8,
+      "change": 0.35,
+      "spread": 0.67,
+      "fresh": 0.61
+    }
+  },
+  {
+    "id": "story_37be53",
+    "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
+    "source_count": 2,
+    "domains": [
+      "rollingstone.com",
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T20:53:20.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
+        "text": "Some people thought the track didn't match the vibe of the championship game, but it saw a huge spike in listeners",
+        "url": "https://www.rollingstone.com/music/music-news/justin-bieber-world-cup-everything-hallelujah-streams-spike-1235596096/",
+        "published": "2026-07-20T20:53:20.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Watch Burna Boy Link Up With Justin Bieber, Shakira & More in Behind-the-Scenes World Cup Halftime Video Diary",
+        "text": "Billboard's exclusive Day in the Life video follows the Grammy-winning artist as he takes part in one of the biggest performances of his career.",
+        "url": "https://www.billboard.com/music/music-news/burna-boy-2026-world-cup-halftime-video-diary-bieber-shakira-1236298724/",
+        "published": "2026-07-20T23:16:49.000Z"
+      }
+    ],
+    "likely_subject": "Justin Bieber",
+    "score": 0.689,
+    "score_parts": {
+      "fame": 0.81,
+      "heat": 1,
+      "baseline_views": 6454,
+      "latest_views": 100116,
+      "spike": 15.4,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.76
+    }
+  },
+  {
     "id": "story_522200",
     "title": "Chloe Fineman Joins Netflix’s ‘Myron Bolitar’ Following ‘SNL’ Exit, Joined By Jabari Banks, Jamie McShane & Ben McKenzie",
     "source_count": 2,
@@ -26,16 +112,63 @@
       }
     ],
     "likely_subject": "Chloe Fineman",
-    "score": 0.689,
+    "score": 0.617,
     "score_parts": {
       "fame": 0.64,
-      "heat": 0.96,
+      "heat": 0.76,
       "baseline_views": 967,
-      "latest_views": 10776,
-      "spike": 10.8,
+      "latest_views": 6565,
+      "spike": 6.6,
       "change": 0.6,
       "spread": 0.33,
-      "fresh": 0.89
+      "fresh": 0.67
+    }
+  },
+  {
+    "id": "story_119c3b",
+    "title": "Adam Driver Turns Down So Many Marvel Movie Offers That It’s ‘Become a Tradition’ at the Studio to ‘Zoom With Him and Then He Passes’",
+    "source_count": 3,
+    "domains": [
+      "variety.com",
+      "deadline.com",
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T21:38:29.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Adam Driver Turns Down So Many Marvel Movie Offers That It’s ‘Become a Tradition’ at the Studio to ‘Zoom With Him and Then He Passes’",
+        "text": "Marvel Studios president Kevin Feige revealed on the “Happy Sad Confused” podcast that Adam Driver has repeatedly turned down offers to join the Marvel Cinematic Universe over the years. “It’s no secret we’d like to [work with Adam],” Feige replied. “But it’s a tradition to Zoom with him and then he passes. That’s a long-lived […]",
+        "url": "https://variety.com/2026/film/news/adam-driver-turns-down-marvel-movies-1236816747/",
+        "published": "2026-07-20T21:38:29.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Kevin Feige On Trying To Cast Adam Driver In Marvel Role Amid ‘X-Men’ Reboot Rumors: “It’s A Tradition To Zoom With Him & Then He Passes”",
+        "text": "Kevin Feige has been trying to work with Adam Driver and cast him in a Marvel film role, but so far it has not become official. Amid rumors that Driver could potentially star in the X-Men reboot, the studio head revealed where he’s at in finally working with the Girls actor. “It’s no secret we’d […]",
+        "url": "https://deadline.com/2026/07/kevin-feige-casting-adam-driver-marvel-x-men-reboot-1236998986/",
+        "published": "2026-07-21T01:03:14.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Adam Driver Has Passed on So Many Marvel Roles That It’s Become a “Tradition,” Kevin Feige Says",
+        "text": "While it's no superhero blockbuster, Driver previously led the 'Star Wars' sequel trilogy, playing Kylo Ren.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/adam-driver-passing-marvel-roles-tradition-kevin-feige-1236652800/",
+        "published": "2026-07-21T02:34:16.000Z"
+      }
+    ],
+    "likely_subject": "Adam Driver",
+    "score": 0.548,
+    "score_parts": {
+      "fame": 0.75,
+      "heat": 0.1,
+      "baseline_views": 3340,
+      "latest_views": 4268,
+      "spike": 1.3,
+      "change": 0.6,
+      "spread": 0.67,
+      "fresh": 0.78
     }
   },
   {
@@ -73,16 +206,148 @@
       }
     ],
     "likely_subject": "Lewis Pullman",
-    "score": 0.549,
+    "score": 0.532,
     "score_parts": {
       "fame": 0.79,
-      "heat": 0.03,
+      "heat": 0.05,
       "baseline_views": 5016,
-      "latest_views": 5431,
+      "latest_views": 5721,
       "spike": 1.1,
       "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.85
+      "fresh": 0.63
+    }
+  },
+  {
+    "id": "story_4614d5",
+    "title": "Jalen Brunson Talks Taylor Swift’s Wedding, Giving Back and Whether the Knicks Will Visit the Trump White House",
+    "source_count": 2,
+    "domains": [
+      "variety.com",
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T16:33:21.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Jalen Brunson Talks Taylor Swift’s Wedding, Giving Back and Whether the Knicks Will Visit the Trump White House",
+        "text": "Jalen Brunson isn’t sure yet if his New York Knicks will visit the Trump White House after winning the NBA championship and thought it was “really cool” that Taylor Swift was cheering on the team courtside at Madison Square Garden during Game 4 of the NBA Finals. As for Swift’s star-studded wedding at MSG, and […]",
+        "url": "https://variety.com/2026/sports/news/jalen-brunson-taylor-swift-wedding-knicks-trump-white-house-1236816653/",
+        "published": "2026-07-20T16:33:21.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Knicks Star Jalen Brunson Says It Was ‘Really Cool’ Having Taylor Swift at NBA Finals — But He Wasn’t at Her Wedding",
+        "text": "While the NBA Finals MVP didn't confirm whether he and the rest of New York's starting five were invited, he did say he wasn't there.",
+        "url": "https://www.billboard.com/music/rb-hip-hop/jalen-brunson-not-at-taylor-swift-wedding-knicks-nba-finals-1236298678/",
+        "published": "2026-07-20T22:53:31.000Z"
+      }
+    ],
+    "likely_subject": "Jalen Brunson",
+    "score": 0.449,
+    "score_parts": {
+      "fame": 0.86,
+      "heat": 0.03,
+      "baseline_views": 11032,
+      "latest_views": 11839,
+      "spike": 1.1,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.64
+    }
+  },
+  {
+    "id": "story_3e18b0",
+    "title": "Peter Lassally Dies: Legendary Late-Night Producer Who Worked With Carson & Letterman Was 93",
+    "source_count": 3,
+    "domains": [
+      "deadline.com",
+      "variety.com",
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T22:25:14.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Peter Lassally Dies: Legendary Late-Night Producer Who Worked With Carson & Letterman Was 93",
+        "text": "Peter Lassally, the late-night whisperer who produced The Tonight Show Starring Johnny Carson and Late Show with David Letterman, died July 19. He was 93. Lassally was a pivotal figure in the entertainment business, particularly in late-night, where he also produced The Late Late Show with Craig Ferguson, retiring when he was 82 and the […]",
+        "url": "https://deadline.com/2026/07/peter-lassally-dead-late-night-producer-carson-letterman-1236998893/",
+        "published": "2026-07-20T22:25:14.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Peter Lassally, Legendary Late Night Producer for Johnny Carson, David Letterman and Craig Ferguson, Dies at 93",
+        "text": "Peter Lassally, the dean of late night producers who worked with Johnny Carson on the “Tonight Show,” David Letterman on “Late Show” and Craig Ferguson on “The Late Late Show,” has died. He was 93. Lassally was long dubbed the “host whisperer” for helping steer some of the biggest franchises of all time in late […]",
+        "url": "https://variety.com/2026/tv/news/peter-lassally-late-night-producer-carson-letterman-dies-dead-1236816945/",
+        "published": "2026-07-20T23:34:07.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Peter Lassally, Producer for Johnny Carson and David Letterman, Dies at 93",
+        "text": "The \"Host Whisperer\" started out with Arthur Godfrey, spent 23 years with 'The Tonight Show' and engineered Dave's move to CBS.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/peter-lassally-dead-johnny-carson-david-letterman-1236652771/",
+        "published": "2026-07-21T00:08:27.000Z"
+      }
+    ],
+    "likely_subject": "Peter Lassally",
+    "score": 0.216,
+    "score_parts": {
+      "fame": 0.33,
+      "heat": 0,
+      "baseline_views": 35,
+      "latest_views": 29,
+      "spike": 0.9,
+      "change": 1,
+      "spread": 0.67,
+      "fresh": 0.8
+    }
+  },
+  {
+    "id": "story_3ac1d2",
+    "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
+    "source_count": 2,
+    "domains": [
+      "hollywoodreporter.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T18:14:23.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
+        "text": "The rule-breaking spectacle had Madonna, Justin Bieber, BTS and Shakira performing in front of billions. But did the showmanship just put more people off?",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-halftime-show-global-criticism-1236652255/",
+        "published": "2026-07-20T18:14:23.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "FIFA World Cup Halftime Show Director on Making First-Ever Concert: “Challenging Beyond Challenging”",
+        "text": "Hamish Hamilton speaks with The Hollywood Reporter about the star-studded 11-minute concert, production restrictions and facing pressure from skeptical fans who questioned the show in the first place.",
+        "url": "https://www.hollywoodreporter.com/music/music-news/fifa-world-cup-halftime-show-director-talks-first-concert-1236652455/",
+        "published": "2026-07-21T01:28:16.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Jon Stewart Says the World Cup Final Was the ‘Reverse Super Bowl’: ‘The Players Spoke Spanish and the Halftime Show Was in English’",
+        "text": "On Monday night’s episode of “The Daily Show,” Jon Stewart gave his post-game thoughts about Sunday’s World Cup final match, which saw Spain win out over Argentina 1-0. “Of course, the World Cup ended yesterday, finito, with Spain defeating Argentina 1-0 on the pitch, in the footy,” Stewart said at the top of the show. […]",
+        "url": "https://variety.com/2026/tv/news/jon-stewart-world-cup-final-halftime-show-trump-1236817023/",
+        "published": "2026-07-21T04:30:54.000Z"
+      }
+    ],
+    "likely_subject": "World Cup",
+    "score": 0.184,
+    "score_parts": {
+      "fame": 0.47,
+      "heat": 0.32,
+      "baseline_views": 159,
+      "latest_views": 384,
+      "spike": 2.2,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.69
     }
   },
   {
@@ -112,16 +377,16 @@
       }
     ],
     "likely_subject": "World Cup",
-    "score": 0.155,
+    "score": 0.181,
     "score_parts": {
       "fame": 0.47,
-      "heat": 0,
+      "heat": 0.32,
       "baseline_views": 159,
-      "latest_views": 139,
-      "spike": 0.9,
+      "latest_views": 384,
+      "spike": 2.2,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.84
+      "fresh": 0.62
     }
   },
   {
@@ -151,7 +416,7 @@
       }
     ],
     "likely_subject": "Sylvia Bugg",
-    "score": 0.151,
+    "score": 0.141,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -160,7 +425,7 @@
       "spike": 1,
       "change": 1,
       "spread": 0.33,
-      "fresh": 0.86
+      "fresh": 0.64
     }
   },
   {
@@ -198,7 +463,7 @@
       }
     ],
     "likely_subject": "Ava Bunn",
-    "score": 0.142,
+    "score": 0.132,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -207,7 +472,7 @@
       "spike": 1,
       "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.96
+      "fresh": 0.74
     }
   },
   {
@@ -237,16 +502,16 @@
       }
     ],
     "likely_subject": "Edward Stourton",
-    "score": 0.14,
+    "score": 0.13,
     "score_parts": {
       "fame": 0,
       "heat": 0,
       "baseline_views": 1,
-      "latest_views": 0,
+      "latest_views": 1,
       "spike": 1,
       "change": 1,
       "spread": 0.33,
-      "fresh": 0.61
+      "fresh": 0.39
     }
   },
   {
@@ -284,7 +549,7 @@
       }
     ],
     "likely_subject": "Kovert Creative",
-    "score": 0.139,
+    "score": 0.129,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -293,7 +558,7 @@
       "spike": 1,
       "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.89
+      "fresh": 0.67
     }
   },
   {
@@ -323,16 +588,16 @@
       }
     ],
     "likely_subject": "Different World",
-    "score": 0.122,
+    "score": 0.112,
     "score_parts": {
       "fame": 0.06,
       "heat": 0,
       "baseline_views": 2,
-      "latest_views": 1,
+      "latest_views": 2,
       "spike": 1,
       "change": 0.6,
       "spread": 0.33,
-      "fresh": 0.83
+      "fresh": 0.61
     }
   },
   {
@@ -370,7 +635,7 @@
       }
     ],
     "likely_subject": "Riverdale Team",
-    "score": 0.101,
+    "score": 0.091,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -379,7 +644,46 @@
       "spike": 1,
       "change": 0.2,
       "spread": 0.67,
-      "fresh": 0.85
+      "fresh": 0.63
+    }
+  },
+  {
+    "id": "story_7a82a2",
+    "title": "Offset Gets Probation in Cannabis Dispensary Criminal Assault Case",
+    "source_count": 2,
+    "domains": [
+      "billboard.com",
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T23:06:34.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Offset Gets Probation in Cannabis Dispensary Criminal Assault Case",
+        "text": "The rapper was accused of striking a security guard after being asked to show I.D. in March 2025.",
+        "url": "https://www.billboard.com/pro/offset-probation-cannabis-dispensary-criminal-assault-case/",
+        "published": "2026-07-20T23:06:34.000Z"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Offset Gets 50 Hours of Community Service for ‘Regretful’ Assault of Weed Dispensary Guard",
+        "text": "The Migos rapper must also complete an anger management program, refrain from possessing firearms, and stay 100 yards away from the MedMen dispensary",
+        "url": "https://www.rollingstone.com/music/music-news/offset-medmen-dispensary-assault-case-community-service-1235596373/",
+        "published": "2026-07-21T00:09:50.000Z"
+      }
+    ],
+    "likely_subject": "Cannabis Dispensary",
+    "score": 0.091,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 1,
+      "latest_views": 1,
+      "spike": 1,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.82
     }
   },
   {
@@ -409,7 +713,7 @@
       }
     ],
     "likely_subject": "Mollner Lands",
-    "score": 0.099,
+    "score": 0.089,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -418,7 +722,7 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.99
+      "fresh": 0.77
     }
   },
   {
@@ -476,7 +780,7 @@
       }
     ],
     "likely_subject": "Billboard Hot",
-    "score": 0.095,
+    "score": 0.085,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -485,7 +789,7 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.9
+      "fresh": 0.68
     }
   },
   {
@@ -515,7 +819,7 @@
       }
     ],
     "likely_subject": "Judge Grants",
-    "score": 0.093,
+    "score": 0.084,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -524,8 +828,503 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.88
+      "fresh": 0.66
     }
+  },
+  {
+    "id": "story_485310",
+    "title": "Creator Jess Judith Signs With UTA (Exclusive)",
+    "source_count": 2,
+    "domains": [
+      "hollywoodreporter.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T16:00:00.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Creator Jess Judith Signs With UTA (Exclusive)",
+        "text": "Bad Bunny, Shakira, Jay Wheeler, Becky G and others have featured on her \"El Pre-Party\" and other video podcasts viewed by around 5 million social media followers.",
+        "url": "https://www.hollywoodreporter.com/business/business-news/jess-judith-signs-with-uta-1236650866/",
+        "published": "2026-07-20T16:00:00.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "‘Sherlock’ Creator Steven Moffat Set as International Guest of Serielizados – Barcelona Series Festival (EXCLUSIVE)",
+        "text": "Currently priming “Number 10,” one of the most awaited of British TV series, “Sherlock” creator and “Doctor Who” showrunner Steven Moffat will attend Serielizados-Barcelona Series Festival as its headline international guest. He will be joined producer Sue Vertue, producer of “Mr. Bean,” “Sherlock” and “Number 10” and CEO of Hartswood Films, the U.K.’s longest-established scripted […]",
+        "url": "https://variety.com/2026/tv/global/steven-moffat-sue-vertue-serielizados-in-vitro-episodic-1236816865/",
+        "published": "2026-07-21T03:56:00.000Z"
+      }
+    ],
+    "likely_subject": "Creator Jess",
+    "score": 0.082,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.63
+    }
+  },
+  {
+    "id": "story_19eeeb",
+    "title": "‘Dancing With the Stars: The Next Pro’ Cast: All the Dancers Vying for a Spot on Season 35",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-21T05:28:46.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘Dancing With the Stars: The Next Pro’ Cast: All the Dancers Vying for a Spot on Season 35",
+        "text": "Plus, The Hollywood Reporter breaks down all the judges and mentors who will appear on the spinoff.",
+        "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/",
+        "published": "2026-07-21T05:28:46.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5414c6",
+    "title": "Chloe Fineman Says ‘SNL’ Boss Lorne Michaels Was at World Cup Match When She Called to Say She Was Leaving the Show",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-21T05:00:14.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Chloe Fineman Says ‘SNL’ Boss Lorne Michaels Was at World Cup Match When She Called to Say She Was Leaving the Show",
+        "text": "“Saturday Night Live” boss Lorne Michaels was a bit tied up when Chloe Fineman called to say she was leaving the show. “In classic form, he was watching England vs. Argentina,” Fineman told Variety at Monday night’s premiere of Apple TV’s “The Dink” in Los Angeles. “He was like, ‘I’ll call you back. I’m a […]",
+        "url": "https://variety.com/2026/tv/columns/chloe-fineman-saturday-night-live-lorne-michaels-world-cup-1236816726/",
+        "published": "2026-07-21T05:00:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_764b51",
+    "title": "Olivia Wilde Details Meeting Elon Musk ‘Before He Turned Into This Creature’",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-21T04:55:31.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Olivia Wilde Details Meeting Elon Musk ‘Before He Turned Into This Creature’",
+        "text": "\"I never would've predicted that he would go the path that he's gone now, because he did seem really smart,\" the director-actress said in a wide-ranging conversation about misogyny",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/olivia-wilde-meeting-elon-musk-1235596404/",
+        "published": "2026-07-21T04:55:31.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_489040",
+    "title": "Sadie Sink Keeps Mystery Of ‘Spider-Man: Brand New Day’ Role & Reveals “I Am Not Aunt May”",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-21T03:59:45.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Sadie Sink Keeps Mystery Of ‘Spider-Man: Brand New Day’ Role & Reveals “I Am Not Aunt May”",
+        "text": "Sadie Sink’s role in Spider-Man: Brand New Day remains a mystery ahead of the film’s premiere. A new video teased Sink revealing three things about her character in the Sony Pictures production, but left audiences with the same doubts. “Since the trailer dropped, I’ve seen so many theories about who I’m playing,” Sink said in […]",
+        "url": "https://deadline.com/2026/07/sadie-sink-mystery-spider-man-brand-new-day-role-1236999030/",
+        "published": "2026-07-21T03:59:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6fa7c4",
+    "title": "Chloe Fineman Opens Up About Decision to Leave ‘SNL’: “I’m Really Proud of Everything, But It’s Hard”",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-21T03:48:52.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Chloe Fineman Opens Up About Decision to Leave ‘SNL’: “I’m Really Proud of Everything, But It’s Hard”",
+        "text": "The comedian has already booked her next project in David E. Kelley's series ‘Myron Bolitar,' and co-stars in the new pickleball comedy 'The Dink.'",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/chloe-fineman-opens-up-decision-leave-snl-the-dink-1236652821/",
+        "published": "2026-07-21T03:48:52.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5fa9f9",
+    "title": "Ed Harris Felt ‘Misled’ by ‘Dutton Ranch’ About ‘Inconsequential’ Role: ‘Get Me the F— Out of Here’ (EXCLUSIVE)",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-21T03:47:28.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Ed Harris Felt ‘Misled’ by ‘Dutton Ranch’ About ‘Inconsequential’ Role: ‘Get Me the F— Out of Here’ (EXCLUSIVE)",
+        "text": "Ed Harris does not sound satisfied with his role on “Dutton Ranch.” At the Monday night premiere of Apple TV’s “The Dink,” Harris told Variety‘s Marc Malkin that he felt “misled” about the importance of his role in the “Yellowstone” spinoff, and that halfway through filming Season 1, he was telling his team to “get […]",
+        "url": "https://variety.com/2026/tv/news/ed-harris-misled-dutton-ranch-paramount-taylor-sheridan-1236816999/",
+        "published": "2026-07-21T03:47:28.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6a754f",
+    "title": "Mara Wilson Says ‘Matilda’ Sequel “Could Be Possible” & Why It “Annoyed” Her Being Linked To Film",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-21T03:05:18.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Mara Wilson Says ‘Matilda’ Sequel “Could Be Possible” & Why It “Annoyed” Her Being Linked To Film",
+        "text": "Mara Wilson continues to be remembered for starring in the 1996 film Matilda, the Danny DeVito-directed film based on Roald Dahl’s 1988 novel of the same name. While attending the Fanboy Expo in Tennessee, Wilson opened up about a potential sequel to the fantasy film and why she didn’t like being associated with the character […]",
+        "url": "https://deadline.com/2026/07/mara-wilson-matilda-sequel-possible-1236999026/",
+        "published": "2026-07-21T03:05:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_385aae",
+    "title": "Kacey Musgraves and Kane Brown Lead New Australian Country Festival LONGHAUL",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-21T02:46:20.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Kacey Musgraves and Kane Brown Lead New Australian Country Festival LONGHAUL",
+        "text": "The inaugural festival will stop in three Australian cities across one weekend.",
+        "url": "https://www.billboard.com/music/country/kacey-musgraves-kane-brown-longhaul-festival-1236299018/",
+        "published": "2026-07-21T02:46:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7a7a98",
+    "title": "William H. Wisher Jr. Dies: ‘The Terminator’ & ‘Terminator 2: Judgment Day’ Screenwriter Was 71",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-21T02:38:47.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "William H. Wisher Jr. Dies: ‘The Terminator’ & ‘Terminator 2: Judgment Day’ Screenwriter Was 71",
+        "text": "William H. Wisher Jr., a producer and screenwriter who co-wrote The Terminator and Terminator 2: Judgment Day, has died. He was 71. The Wisher family confirmed news of the filmmaker’s death, saying he “passed away peacefully at home.” “William believed that stories have the power to connect people across generations,” the family said in a […]",
+        "url": "https://deadline.com/2026/07/william-h-wisher-jr-dead-the-terminator-screenwriter-1236999019/",
+        "published": "2026-07-21T02:38:47.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_692fa6",
+    "title": "Brad Paisley Recalls ‘Cat-and-Mouse’ Details of Taylor Swift and Travis Kelce’s Wedding",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-21T02:21:30.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Brad Paisley Recalls ‘Cat-and-Mouse’ Details of Taylor Swift and Travis Kelce’s Wedding",
+        "text": "The country star and his wife Kimberly Williams-Paisley were invited to the ceremony at Madison Square Garden",
+        "url": "https://www.rollingstone.com/music/music-news/brad-paisley-taylor-swift-travis-kelce-wedding-1235596400/",
+        "published": "2026-07-21T02:21:30.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_323136",
+    "title": "‘Heated Rivalry’ Is First TV Series Soundtrack in More Than a Decade to Achieve This Billboard 200 Feat",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-21T01:54:28.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "‘Heated Rivalry’ Is First TV Series Soundtrack in More Than a Decade to Achieve This Billboard 200 Feat",
+        "text": "The hit show's soundtrack skates onto multiple charts, including Soundtracks, Top Album Sales, Vinyl Albums, Indie Store Album Sales & the Billboard 200.",
+        "url": "https://www.billboard.com/music/chart-beat/heated-rivalry-soundtrack-chart-debut-billboard-200-1236298844/",
+        "published": "2026-07-21T01:54:28.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7a515f",
+    "title": "‘The Odyssey’ Rules The World, But Stephen Chow’s ‘Kung Fu Soccer’ Scores $214M+ Cume, ‘Toy Story 5’ Nears $1B – Global Weekend Top 10 Box Office",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-21T01:49:04.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘The Odyssey’ Rules The World, But Stephen Chow’s ‘Kung Fu Soccer’ Scores $214M+ Cume, ‘Toy Story 5’ Nears $1B – Global Weekend Top 10 Box Office",
+        "text": "Yes, Universal’s Christopher Nolan epic The Odyssey led by an extreme margin at the global box office with an updated $263.7M, a hands down opening record for the 2x Oscar winning filmmaker fueled by his best ever start overseas with $140.2M from 73 territories and his third best opening in North America with $123.5M. For […]",
+        "url": "https://deadline.com/2026/07/box-office-global-odyssey-kung-fu-soccer-hope-toy-story-5-1236998978/",
+        "published": "2026-07-21T01:49:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_e2eb11",
+    "title": "Matt Damon Reveals Why He Had Female Stunt Double for ‘Odyssey’ Scene: “Greatest Arms I’ve Ever Seen”",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-21T00:55:02.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Matt Damon Reveals Why He Had Female Stunt Double for ‘Odyssey’ Scene: “Greatest Arms I’ve Ever Seen”",
+        "text": "The actor plays Odysseus in Christopher Nolan's epic action fantasy film.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-female-stunt-double-odyssey-scene-bicep-1236652737/",
+        "published": "2026-07-21T00:55:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_247acd",
+    "title": "‘The Odyssey’ Doesn’t Stop: Epic Bound For Best Monday YTD Stateside With $17M+ – Box Office Update",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T23:58:14.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘The Odyssey’ Doesn’t Stop: Epic Bound For Best Monday YTD Stateside With $17M+ – Box Office Update",
+        "text": "EXCLUSIVE: Christopher Nolan’s The Odyssey continues to dominate the box office, fueling a Monday that’s estimated to be $17.5 million. If those figures stick, that will be the best Monday year-to-date in the U.S./Canada, besting Toy Story 5‘s $17.3M Monday on June 22 as well as that of the highest-grossing live-action pic so far in […]",
+        "url": "https://deadline.com/2026/07/box-office-the-odyssey-monday-record-1236998940/",
+        "published": "2026-07-20T23:58:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_1639e7",
+    "title": "The Tate Brothers’ Legal Problems Are Getting Worse. Here’s the Latest",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T23:57:25.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "The Tate Brothers’ Legal Problems Are Getting Worse. Here’s the Latest",
+        "text": "Andrew Tate and his younger brother, Tristan, were arrested again and await potential extradition to the U.K. Here's what we know",
+        "url": "https://www.rollingstone.com/culture/culture-features/andrew-tate-tristan-arrest-extradition-uk-1235596380/",
+        "published": "2026-07-20T23:57:25.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_130a76",
+    "title": "‘Never Have I Ever’ Alum Maitreyi Ramakrishnan Teases ‘Elle’ Season 2 Role: “Not Something I’ve Done Before”",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T23:14:45.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘Never Have I Ever’ Alum Maitreyi Ramakrishnan Teases ‘Elle’ Season 2 Role: “Not Something I’ve Done Before”",
+        "text": "The star also shares her thoughts on what actresses-turned-powerhouse-producers Mindy Kaling and Reese Witherspoon have in common.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/never-have-i-ever-maitreyi-ramakrishnan-elle-season-2-tease-1236651876/",
+        "published": "2026-07-20T23:14:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5c5109",
+    "title": "Hunter Biden’s Image Rehab Tour Takes a Hard Right",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T23:06:35.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Hunter Biden’s Image Rehab Tour Takes a Hard Right",
+        "text": "The pardoned son of a former president, now a podcast circuit fixture, sat down this week with a far-right influencer as he pivots to becoming a media personality — or is he still deflecting from scandal?",
+        "url": "https://www.hollywoodreporter.com/news/politics-news/hunter-biden-image-rehab-tour-nick-fuentes-1236652488/",
+        "published": "2026-07-20T23:06:35.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7647d5",
+    "title": "Ryan Reynolds Confirms Another ‘Deadpool’ Movie",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T23:04:58.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Ryan Reynolds Confirms Another ‘Deadpool’ Movie",
+        "text": "The film would follow 2024's 'Deadpool & Wolverine,' which became the top-grossing R-rated movie of all time.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-confirms-another-deadpool-movie-1236652695/",
+        "published": "2026-07-20T23:04:58.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_4e1307",
+    "title": "Sharon Stone on Quitting Weed and Stopping a Stroke Medication Despite Doctors’ Orders: ‘It Was Like Going Off of F—ing Heroin’",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T22:53:24.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Sharon Stone on Quitting Weed and Stopping a Stroke Medication Despite Doctors’ Orders: ‘It Was Like Going Off of F—ing Heroin’",
+        "text": "Sharon Stone is done smoking weed. Her journey to cut ties with cannabis began when she was put on several medications after she suffered a near-fatal stroke in 2001. “I got off one of my medications that I was on for my stroke last September, and they said I couldn’t go off of it,” Stone […]",
+        "url": "https://variety.com/2026/film/columns/sharon-stone-quitting-weed-stopping-stroke-medication-like-going-off-of-heroin-1236816916/",
+        "published": "2026-07-20T22:53:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7d3f9d",
+    "title": "J. Cole Shocked After Bra Is Thrown Onstage During ‘Work Out’ Performance: ‘Gotta Cherish That Sh–‘",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T22:27:41.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "J. Cole Shocked After Bra Is Thrown Onstage During ‘Work Out’ Performance: ‘Gotta Cherish That Sh–‘",
+        "text": "The North Carolina rapper laughed and held the bra up to the crowd during a tour stop in Miami.",
+        "url": "https://www.billboard.com/music/rb-hip-hop/j-cole-bra-ontage-fall-off-tour-miami-1236298625/",
+        "published": "2026-07-20T22:27:41.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7edf49",
+    "title": "Why Sony Just Filed a New AI Music Copyright Lawsuit Against Udio",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T22:26:34.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Why Sony Just Filed a New AI Music Copyright Lawsuit Against Udio",
+        "text": "The major music company is expanding the scope of its claims against the AI platform, even after Universal and Warner made licensing peace.",
+        "url": "https://www.billboard.com/pro/sony-new-ai-music-copyright-lawsuit-udio-why/",
+        "published": "2026-07-20T22:26:34.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_43d35e",
+    "title": "The Emmys ‘F—ed This Up’: Streamers and Networks Are Outraged as Five Categories Get Cut From the Telecast",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T22:15:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "The Emmys ‘F—ed This Up’: Streamers and Networks Are Outraged as Five Categories Get Cut From the Telecast",
+        "text": "Bad move, Emmys. Just about everyone hates it. On Friday, Variety exclusively revealed the Television Academy’s plan to thin out the categories handed out during its primetime telecast on Sept. 14, after the Board of Governors voted to shift a hodgepodge of five races to the first weekend of ceremonies, once known as the Creative […]",
+        "url": "https://variety.com/2026/tv/columns/emmys-cut-five-categories-telecast-backlash-1236816847/",
+        "published": "2026-07-20T22:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2d8249",
+    "title": "L7 Bask in the Sweet Stink of Success",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-20T22:12:12.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "L7 Bask in the Sweet Stink of Success",
+        "text": "Now that they signed with a major label, they're ordering the most expensive item on the menu. It's the punk thing to do",
+        "url": "https://www.rollingstone.com/music/music-features/l7-1994-interview-1235595978/",
+        "published": "2026-07-20T22:12:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_29a211",
+    "title": "‘I’ve Been Scammed Left and Right’: Demand for ‘Odyssey’ Tickets Gives Rise to Sketchy Scalpers",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T22:09:39.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "‘I’ve Been Scammed Left and Right’: Demand for ‘Odyssey’ Tickets Gives Rise to Sketchy Scalpers",
+        "text": "Elijahturner011 had a simple question: “Can someone release a ticket to me, please?” “I’ve been trying to get a ticket forever. I’ve been scammed left and right,” they wrote on July 20 in the Reddit post that followed. “I just want one ticket to 70mm … it’s hurting my heart that I can’t just get […]",
+        "url": "https://variety.com/2026/film/news/imax-scalpers-odyssey-fans-ripped-off-scammers-1236816718/",
+        "published": "2026-07-20T22:09:39.000Z"
+      }
+    ]
   },
   {
     "id": "story_67e659",
@@ -600,25 +1399,13 @@
         "text": "Upgrade your home audio with this premium and versatile wireless speaker from Bose — shop it for $299.",
         "url": "https://www.billboard.com/culture/product-recommendations/bose-lifestyle-ultra-wireless-speaker-buy-shop-online-1236298311/",
         "published": "2026-07-20T21:02:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_37be53",
-    "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
-    "source_count": 1,
-    "domains": [
-      "rollingstone.com"
-    ],
-    "first_seen": "2026-07-20T20:53:20.000Z",
-    "status": "watching",
-    "items": [
+      },
       {
-        "source": "Rolling Stone",
-        "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
-        "text": "Some people thought the track didn't match the vibe of the championship game, but it saw a huge spike in listeners",
-        "url": "https://www.rollingstone.com/music/music-news/justin-bieber-world-cup-everything-hallelujah-streams-spike-1235596096/",
-        "published": "2026-07-20T20:53:20.000Z"
+        "source": "Billboard",
+        "title": "Official ‘KPop Demon Hunters’ Light Sticks Release Ahead of Global Tour — Here’s Where to Shop",
+        "text": "Great for concerts and sing-along viewings of the film alike, the light sticks feature five LED colors and more than eight lighting sequences.",
+        "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-official-tour-light-sticks-buy-online-1236298257/",
+        "published": "2026-07-21T00:35:02.000Z"
       }
     ]
   },
@@ -1086,25 +1873,6 @@
     ]
   },
   {
-    "id": "story_3ac1d2",
-    "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T18:14:23.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
-        "text": "The rule-breaking spectacle had Madonna, Justin Bieber, BTS and Shakira performing in front of billions. But did the showmanship just put more people off?",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-halftime-show-global-criticism-1236652255/",
-        "published": "2026-07-20T18:14:23.000Z"
-      }
-    ]
-  },
-  {
     "id": "story_14bafc",
     "title": "How Wife Katie Thurston’s Cancer Battle Changed Jeff Arcuri & Shaped His Debut Netflix Special – Comedy Means Business Podcast",
     "source_count": 1,
@@ -1139,6 +1907,13 @@
         "text": "The songs benefited in the tracking week from buzz leading up to the World Cup’s close.",
         "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-oasis-global-charts-world-cup-1236298355/",
         "published": "2026-07-20T18:06:59.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Shakira & Burna Boy’s ‘Dai Dai’ Keeps Its No. 1 Momentum Across Billboard Charts",
+        "text": "The FIFA World Cup 2026 song lands atop the overall Latin Airplay chart.",
+        "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boys-dai-dai-no-1-billboard-charts-1236299143/",
+        "published": "2026-07-21T04:32:46.000Z"
       }
     ]
   },
@@ -1260,25 +2035,6 @@
         "text": "Another season of Disney’s television series adaptation of Rick Riordan’s Percy Jackson and the Olympians has come and gone, but Season 3 is close at hand. The series received a very early Season 3 renewal in March 2025, and some very key players have been cast for the third installment. Read on for more details […]",
         "url": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797/",
         "published": "2026-07-20T19:25:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_4614d5",
-    "title": "Jalen Brunson Talks Taylor Swift’s Wedding, Giving Back and Whether the Knicks Will Visit the Trump White House",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T16:33:21.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Jalen Brunson Talks Taylor Swift’s Wedding, Giving Back and Whether the Knicks Will Visit the Trump White House",
-        "text": "Jalen Brunson isn’t sure yet if his New York Knicks will visit the Trump White House after winning the NBA championship and thought it was “really cool” that Taylor Swift was cheering on the team courtside at Madison Square Garden during Game 4 of the NBA Finals. As for Swift’s star-studded wedding at MSG, and […]",
-        "url": "https://variety.com/2026/sports/news/jalen-brunson-taylor-swift-wedding-knicks-trump-white-house-1236816653/",
-        "published": "2026-07-20T16:33:21.000Z"
       }
     ]
   },
@@ -1454,25 +2210,6 @@
     ]
   },
   {
-    "id": "story_485310",
-    "title": "Creator Jess Judith Signs With UTA (Exclusive)",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T16:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Creator Jess Judith Signs With UTA (Exclusive)",
-        "text": "Bad Bunny, Shakira, Jay Wheeler, Becky G and others have featured on her \"El Pre-Party\" and other video podcasts viewed by around 5 million social media followers.",
-        "url": "https://www.hollywoodreporter.com/business/business-news/jess-judith-signs-with-uta-1236650866/",
-        "published": "2026-07-20T16:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": "story_179d1c",
     "title": "5 Reasons ‘The Odyssey’ Defied Box Office Expectations, Including Imax’s Monster $52 Million Start",
     "source_count": 1,
@@ -1563,25 +2300,6 @@
         "title": "Deon Taylor to Direct Biopic on Streetball Star Grayson ‘The Professor’ Boucher for Hidden Empire Sports (EXCLUSIVE)",
         "text": "Streetball star Grayson “The Professor” Boucher’s story is getting the feature film treatment. Hidden Empire Film Group and its sports division, Hidden Empire Sports Collective, will produce the movie, directed by award-winning filmmaker Deon Taylor (“Traffik,” “Black and Blue,” “The Intruder”). Taylor, also Hidden Empire’s co-CEO, will produce the film alongside Hidden Empire’s Roxanne Avent […]",
         "url": "https://variety.com/2026/film/news/deon-taylor-grayson-the-professor-boucher-biopic-1236815146/",
-        "published": "2026-07-20T15:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_4ff87e",
-    "title": "‘The Odyssey’: What Do The Fates Have In Store For Christopher Nolan’s Homeric Epic As Awards Season Gets Under Way?",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T15:30:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "‘The Odyssey’: What Do The Fates Have In Store For Christopher Nolan’s Homeric Epic As Awards Season Gets Under Way?",
-        "text": "After the near-ecstatic reviews from critics for The Odyssey, tiny cracks are starting to show in Christopher Nolan’s record-breaking juggernaut, and a small but vocal faction of the audience appears to be begging to differ. Looking at Rotten Tomatoes, the ever-controversial aggregate site is reporting a stubborn wave of one- and even half-star reviews, calling […]",
-        "url": "https://deadline.com/2026/07/the-odyssey-awards-predictions-matt-damon-anne-hathaway-1236997845/",
         "published": "2026-07-20T15:30:00.000Z"
       }
     ]
