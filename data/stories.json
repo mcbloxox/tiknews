@@ -1,77 +1,148 @@
 [
   {
-    "id": "story_4ff87e",
-    "title": "‘The Odyssey’: What Do The Fates Have In Store For Christopher Nolan’s Homeric Epic As Awards Season Gets Under Way?",
+    "id": "story_3e18b0",
+    "title": "Peter Lassally Dies: Legendary Late-Night Producer Who Worked With Carson & Letterman Was 93",
+    "source_count": 3,
+    "domains": [
+      "deadline.com",
+      "variety.com",
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-20T22:25:14.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Peter Lassally Dies: Legendary Late-Night Producer Who Worked With Carson & Letterman Was 93",
+        "text": "Peter Lassally, the late-night whisperer who produced The Tonight Show Starring Johnny Carson and Late Show with David Letterman, died July 19. He was 93. Lassally was a pivotal figure in the entertainment business, particularly in late-night, where he also produced The Late Late Show with Craig Ferguson, retiring when he was 82 and the […]",
+        "url": "https://deadline.com/2026/07/peter-lassally-dead-late-night-producer-carson-letterman-1236998893/",
+        "published": "2026-07-20T22:25:14.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Peter Lassally, Legendary Late Night Producer for Johnny Carson, David Letterman and Craig Ferguson, Dies at 93",
+        "text": "Peter Lassally, the dean of late night producers who worked with Johnny Carson on the “Tonight Show,” David Letterman on “Late Show” and Craig Ferguson on “The Late Late Show,” has died. He was 93. Lassally was long dubbed the “host whisperer” for helping steer some of the biggest franchises of all time in late […]",
+        "url": "https://variety.com/2026/tv/news/peter-lassally-late-night-producer-carson-letterman-dies-dead-1236816945/",
+        "published": "2026-07-20T23:34:07.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Peter Lassally, Producer for Johnny Carson and David Letterman, Dies at 93",
+        "text": "The \"Host Whisperer\" started out with Arthur Godfrey, spent 23 years with 'The Tonight Show' and engineered Dave's move to CBS.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/peter-lassally-dead-johnny-carson-david-letterman-1236652771/",
+        "published": "2026-07-21T00:08:27.000Z"
+      }
+    ],
+    "likely_subject": "Peter Lassally",
+    "score": 0.647,
+    "score_parts": {
+      "fame": 0.32,
+      "heat": 1,
+      "baseline_views": 33,
+      "latest_views": 846,
+      "spike": 13.9,
+      "change": 1,
+      "spread": 0.67,
+      "fresh": 0
+    }
+  },
+  {
+    "id": "story_168e7e",
+    "title": "Kenneth Branagh Stars In Scottish Highland Drama ‘Laird’ Ordered By Paramount+ From Jez Butterworth & 101 Studios",
     "source_count": 3,
     "domains": [
       "deadline.com",
       "hollywoodreporter.com",
       "variety.com"
     ],
-    "first_seen": "2026-07-20T15:30:00.000Z",
+    "first_seen": "2026-07-22T16:30:00.000Z",
     "status": "ready",
     "items": [
       {
         "source": "Deadline",
-        "title": "‘The Odyssey’: What Do The Fates Have In Store For Christopher Nolan’s Homeric Epic As Awards Season Gets Under Way?",
-        "text": "After the near-ecstatic reviews from critics for The Odyssey, tiny cracks are starting to show in Christopher Nolan’s record-breaking juggernaut, and a small but vocal faction of the audience appears to be begging to differ. Looking at Rotten Tomatoes, the ever-controversial aggregate site is reporting a stubborn wave of one- and even half-star reviews, calling […]",
-        "url": "https://deadline.com/2026/07/the-odyssey-awards-predictions-matt-damon-anne-hathaway-1236997845/",
-        "published": "2026-07-20T15:30:00.000Z"
+        "title": "Kenneth Branagh Stars In Scottish Highland Drama ‘Laird’ Ordered By Paramount+ From Jez Butterworth & 101 Studios",
+        "text": "Paramount+ has greenlighted a third series from Jez Butterworth and 101 Studios, the team behind the streamer’s MobLand and The Agency. Titled Laird, it stars Kenneth Branagh (Mayday, Oppenheimer), who also executive produces. Laird was created by Butterworth and his brother, fellow writer John-Henry Butterworth, who co-created together The Agency, as well as Partner Track […]",
+        "url": "https://deadline.com/2026/07/kenneth-branagh-drama-laird-paramount-plus-jez-butterworth-1236998943/",
+        "published": "2026-07-22T16:30:00.000Z"
       },
       {
         "source": "The Hollywood Reporter",
-        "title": "What’s Really In the AI Odyssey Film",
-        "text": "On the heels of Christopher Nolan’s blockbuster weekend, the filmmakers of the digital-age project have a few ideas of their own.",
-        "url": "https://www.hollywoodreporter.com/business/digital/ai-the-odyssey-what-is-it-where-to-watch-1236652547/",
-        "published": "2026-07-20T22:12:51.000Z"
+        "title": "Paramount+ Orders Scottish Highland Family Saga ‘Laird’ With Kenneth Branagh",
+        "text": "The story follows a landowner, the Laird of Castle Drummoch, who challenges an American billionaire with ambitions to buy up the glens.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-scottish-highland-saga-laird-kenneth-branagh-1236653912/",
+        "published": "2026-07-22T16:30:00.000Z"
       },
       {
         "source": "Variety",
-        "title": "LISTEN: Christopher Nolan Gets Moviegoers Out in Force for the Trojan Horse",
-        "text": "On today’s episode of “Daily Variety” podcast, in our Box Office segment, Variety’s Rebecca Rubin breaks down the spectacular $264 million worldwide opening for Universal Pictures’ “The Odyssey.” It couldn’t have come at a better time for Imax, the large-format exhibitor that delivered more than 50% of the opening weekend receipts. Anticipation for Nolan’s follow-up […]",
-        "url": "https://variety.com/2026/film/news/box-office-odyssey-christopher-nolan-daily-variety-podcast-1236816924/",
-        "published": "2026-07-20T22:27:36.000Z"
-      },
-      {
-        "source": "Variety",
-        "title": "Christopher Nolan’s ‘The Odyssey’ Movie Is Making Gen Z Listen to the Book (EXCLUSIVE)",
-        "text": "Christopher Nolan’s film adaptation of “The Odyssey” is a bona fide cultural phenomenon (sorry, trolls!), shattering box office projections with a $264.1 million worldwide gross its opening weekend, earning rave reviews from critics, unleashing a tidal wave of Oscar buzz and causing such a frenzy for Imax 70mm tickets that moviegoers have gone as far […]",
-        "url": "https://variety.com/2026/film/news/the-odyssey-christopher-nolan-movie-book-spotify-streams-gen-z-homer-1236817374/",
-        "published": "2026-07-21T17:55:25.000Z"
+        "title": "Kenneth Branagh to Star in Paramount+ Drama ‘Laird’ Set in Scottish Highlands",
+        "text": "Paramount+ has picked up the drama series “Laird” with Kenneth Branagh attached in the lead role. The series hails from Jez Butterworth and John-Henry Butterworth, the co-creators of fellow Paramount+ series “The Agency.” Jez is also the co-creator and showrunner of Paramount+’s “Mobland.” Georgia Lee is also a co-creator on the show. The logline for […]",
+        "url": "https://variety.com/2026/tv/news/kenneth-branagh-paramount-series-laird-scottish-highlands-1236818249/",
+        "published": "2026-07-22T16:44:26.000Z"
       }
     ],
-    "likely_subject": "Christopher Nolan",
-    "score": 0.707,
+    "likely_subject": "Kenneth Branagh",
+    "score": 0.512,
     "score_parts": {
-      "fame": 0.88,
-      "heat": 1,
-      "baseline_views": 13300,
-      "latest_views": 184236,
-      "spike": 13.8,
-      "change": 0.35,
+      "fame": 0.78,
+      "heat": 0.16,
+      "baseline_views": 4701,
+      "latest_views": 7017,
+      "spike": 1.5,
+      "change": 0.2,
       "spread": 0.67,
-      "fresh": 0.24
+      "fresh": 0.98
     }
   },
   {
-    "id": "story_31a4aa",
-    "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
-    "source_count": 3,
+    "id": "story_7647d5",
+    "title": "Ryan Reynolds Confirms Another ‘Deadpool’ Movie",
+    "source_count": 2,
     "domains": [
-      "bbc.co.uk",
-      "rollingstone.com",
-      "billboard.com"
+      "hollywoodreporter.com",
+      "deadline.com"
     ],
-    "first_seen": "2026-07-19T22:16:39.000Z",
+    "first_seen": "2026-07-20T23:04:58.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "BBC Entertainment",
-        "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
-        "text": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
-        "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-19T22:16:39.000Z"
+        "source": "The Hollywood Reporter",
+        "title": "Ryan Reynolds Confirms Another ‘Deadpool’ Movie",
+        "text": "The film would follow 2024's 'Deadpool & Wolverine,' which became the top-grossing R-rated movie of all time.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-confirms-another-deadpool-movie-1236652695/",
+        "published": "2026-07-20T23:04:58.000Z"
       },
+      {
+        "source": "Deadline",
+        "title": "Ryan Reynolds Confirms New ‘Deadpool’ Movie In Works",
+        "text": "A new Deadpool looks to be in the works at Marvel Studios, with franchise star Ryan Reynolds on board to return. The actor confirmed the news during an appearance over the weekend Fanatics Fest 2026. Sources say the film is currently in early development with no writer or director attached. “There’s a few really deep […]",
+        "url": "https://deadline.com/2026/07/ryan-reynolds-new-deadpool-movie-1236999423/",
+        "published": "2026-07-21T16:35:46.000Z"
+      }
+    ],
+    "likely_subject": "Ryan Reynolds",
+    "score": 0.508,
+    "score_parts": {
+      "fame": 0.84,
+      "heat": 0.03,
+      "baseline_views": 8812,
+      "latest_views": 9406,
+      "spike": 1.1,
+      "change": 1,
+      "spread": 0.33,
+      "fresh": 0
+    }
+  },
+  {
+    "id": "story_37be53",
+    "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
+    "source_count": 2,
+    "domains": [
+      "rollingstone.com",
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T20:53:20.000Z",
+    "status": "ready",
+    "items": [
       {
         "source": "Rolling Stone",
         "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
@@ -88,15 +159,15 @@
       }
     ],
     "likely_subject": "Justin Bieber",
-    "score": 0.663,
+    "score": 0.504,
     "score_parts": {
       "fame": 0.81,
-      "heat": 1,
+      "heat": 0.56,
       "baseline_views": 6454,
-      "latest_views": 100116,
-      "spike": 15.4,
+      "latest_views": 26363,
+      "spike": 4.1,
       "change": 0.35,
-      "spread": 0.67,
+      "spread": 0.33,
       "fresh": 0
     }
   },
@@ -127,55 +198,16 @@
       }
     ],
     "likely_subject": "Chloe Fineman",
-    "score": 0.58,
+    "score": 0.501,
     "score_parts": {
       "fame": 0.64,
-      "heat": 0.76,
-      "baseline_views": 967,
-      "latest_views": 6565,
-      "spike": 6.6,
+      "heat": 0.56,
+      "baseline_views": 990,
+      "latest_views": 4072,
+      "spike": 4,
       "change": 0.6,
       "spread": 0.33,
-      "fresh": 0.3
-    }
-  },
-  {
-    "id": "story_7647d5",
-    "title": "Ryan Reynolds Confirms Another ‘Deadpool’ Movie",
-    "source_count": 2,
-    "domains": [
-      "hollywoodreporter.com",
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T23:04:58.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Ryan Reynolds Confirms Another ‘Deadpool’ Movie",
-        "text": "The film would follow 2024's 'Deadpool & Wolverine,' which became the top-grossing R-rated movie of all time.",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-confirms-another-deadpool-movie-1236652695/",
-        "published": "2026-07-20T23:04:58.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "Ryan Reynolds Confirms New ‘Deadpool’ Movie In Works",
-        "text": "A new Deadpool looks to be in the works at Marvel Studios, with franchise star Ryan Reynolds on board to return. The actor confirmed the news during an appearance over the weekend Fanatics Fest 2026. Sources say the film is currently in early development with no writer or director attached. “There’s a few really deep […]",
-        "url": "https://deadline.com/2026/07/ryan-reynolds-new-deadpool-movie-1236999423/",
-        "published": "2026-07-21T16:35:46.000Z"
-      }
-    ],
-    "likely_subject": "Ryan Reynolds",
-    "score": 0.567,
-    "score_parts": {
-      "fame": 0.84,
-      "heat": 0.08,
-      "baseline_views": 8782,
-      "latest_views": 10741,
-      "spike": 1.2,
-      "change": 1,
-      "spread": 0.33,
-      "fresh": 0.45
+      "fresh": 0
     }
   },
   {
@@ -205,55 +237,16 @@
       }
     ],
     "likely_subject": "Ed Harris",
-    "score": 0.556,
+    "score": 0.496,
     "score_parts": {
-      "fame": 0.83,
+      "fame": 0.82,
       "heat": 0,
-      "baseline_views": 7588,
-      "latest_views": 6538,
-      "spike": 0.9,
+      "baseline_views": 7216,
+      "latest_views": 5862,
+      "spike": 0.8,
       "change": 1,
       "spread": 0.33,
-      "fresh": 0.58
-    }
-  },
-  {
-    "id": "story_489040",
-    "title": "Sadie Sink Keeps Mystery Of ‘Spider-Man: Brand New Day’ Role & Reveals “I Am Not Aunt May”",
-    "source_count": 2,
-    "domains": [
-      "deadline.com",
-      "variety.com"
-    ],
-    "first_seen": "2026-07-21T03:59:45.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "Sadie Sink Keeps Mystery Of ‘Spider-Man: Brand New Day’ Role & Reveals “I Am Not Aunt May”",
-        "text": "Sadie Sink’s role in Spider-Man: Brand New Day remains a mystery ahead of the film’s premiere. A new video teased Sink revealing three things about her character in the Sony Pictures production, but left audiences with the same doubts. “Since the trailer dropped, I’ve seen so many theories about who I’m playing,” Sink said in […]",
-        "url": "https://deadline.com/2026/07/sadie-sink-mystery-spider-man-brand-new-day-role-1236999030/",
-        "published": "2026-07-21T03:59:45.000Z"
-      },
-      {
-        "source": "Variety",
-        "title": "‘Spider-Man: Brand New Day’ Final Trailer Unveils Action-Packed New Footage of Mark Ruffalo’s Hulk Battling the Web-Slinger",
-        "text": "Sony Pictures has released the third trailer for “Spider-Man: Brand New Day,” swiftly shifting Tom Holland’s epic of a summer from the ancient shores of Ithaca to the glass skyscrapers of New York. The Sony and Marvel film — which sees the British star having ditched Telemachus’ swords and sandals from “The Odyssey” to Spidey/Peter Parker’s […]",
-        "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-final-trailer-hulk-battle-footage-1236817155/",
-        "published": "2026-07-21T16:06:29.000Z"
-      }
-    ],
-    "likely_subject": "Sadie Sink",
-    "score": 0.512,
-    "score_parts": {
-      "fame": 0.78,
-      "heat": 0.2,
-      "baseline_views": 4654,
-      "latest_views": 7608,
-      "spike": 1.6,
-      "change": 0.6,
-      "spread": 0.33,
-      "fresh": 0.59
+      "fresh": 0
     }
   },
   {
@@ -291,63 +284,172 @@
       }
     ],
     "likely_subject": "Adam Driver",
-    "score": 0.511,
+    "score": 0.494,
     "score_parts": {
       "fame": 0.75,
-      "heat": 0.1,
-      "baseline_views": 3340,
-      "latest_views": 4268,
-      "spike": 1.3,
+      "heat": 0.19,
+      "baseline_views": 3400,
+      "latest_views": 5520,
+      "spike": 1.6,
       "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.41
+      "fresh": 0
     }
   },
   {
-    "id": "story_3ed33a",
-    "title": "Lewis Pullman Joins Julia Garner in Apple TV Thriller ‘Guilty Creatures’",
-    "source_count": 3,
+    "id": "story_2d53ca",
+    "title": "Olivia Rodrigo Tackles Abortion Misinformation With Center for Reproductive Rights",
+    "source_count": 2,
+    "domains": [
+      "rollingstone.com",
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T16:13:20.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Olivia Rodrigo Tackles Abortion Misinformation With Center for Reproductive Rights",
+        "text": "The musician spoke with three figures at the global legal advocacy organization to discuss midwifery, abortion access, and the maternal health crisis",
+        "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-center-reproductive-rights-abortion-series-1235597055/",
+        "published": "2026-07-22T16:13:20.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Olivia Rodrigo Says Anti-Abortionists Are Actually Just ‘Pro-Control’ in Reproductive Rights Discussion",
+        "text": "The singer sat down with the Center for Reproductive Rights to talk about the most pressing issues in the U.S. right now.",
+        "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-anti-abortionists-are-pro-control-1236300648/",
+        "published": "2026-07-22T16:28:08.000Z"
+      }
+    ],
+    "likely_subject": "Olivia Rodrigo",
+    "score": 0.49,
+    "score_parts": {
+      "fame": 0.91,
+      "heat": 0,
+      "baseline_views": 18926,
+      "latest_views": 12052,
+      "spike": 0.6,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.97
+    }
+  },
+  {
+    "id": "story_74f1d8",
+    "title": "Julie Andrews Gets Disney+ Documentary From ‘Martha’ Director R.J. Cutler",
+    "source_count": 2,
     "domains": [
       "variety.com",
-      "deadline.com",
-      "hollywoodreporter.com"
+      "deadline.com"
     ],
-    "first_seen": "2026-07-20T16:00:00.000Z",
+    "first_seen": "2026-07-22T16:54:28.000Z",
     "status": "ready",
     "items": [
       {
         "source": "Variety",
-        "title": "Lewis Pullman Joins Julia Garner in Apple TV Thriller ‘Guilty Creatures’",
-        "text": "Lewis Pullman is set to star opposite Julia Garner in the upcoming Apple TV series “Guilty Creatures,” Variety has learned. The show, with Garner as a lead and executive producer, was announced on July 6. It is an adaptation of the Mikita Brottman true crime book “Guilty Creatures: Sex, God, and Murder in Tallahassee, Florida.” […]",
-        "url": "https://variety.com/2026/tv/news/lewis-pullman-julia-garner-apple-tv-guilty-creatures-1236816633/",
-        "published": "2026-07-20T16:00:00.000Z"
+        "title": "Julie Andrews Gets Disney+ Documentary From ‘Martha’ Director R.J. Cutler",
+        "text": "Disney+ will launch a documentary about star Julie Andrews from director and producer R.J. Cutler (“Billie Eilish: The World’s A Little Blurry,” “Martha”) next year. Per the description for the project, “This definitive portrait offers an intimate and revealing look at Andrews’ extraordinary journey, from her early days in British vaudeville to her meteoric rise […]",
+        "url": "https://variety.com/2026/film/news/julie-andrews-documentary-disney-rj-cutler-1236818273/",
+        "published": "2026-07-22T16:54:28.000Z"
       },
       {
         "source": "Deadline",
-        "title": "Lewis Pullman Joins Julia Garner In ‘Guilty Creatures’ Apple TV Series From Tomorrow Studios",
-        "text": "Lewis Pullman (Remarkably Bright Creatures, Lessons in Chemistry) is returning to television — and to Apple TV — with a starring role opposite Julia Garner in Guilty Creatures, a thriller drama from director Craig Gillespie, showrunner Stuart Zicherman and Tomorrow Studios. Adapted for the screen by Sarah DeLappe from Mikita Brottman‘s true-crime book Guilty Creatures: […]",
-        "url": "https://deadline.com/2026/07/lewis-pullman-julia-garner-guilty-creatures-apple-series-1236997333/",
-        "published": "2026-07-20T16:00:00.000Z"
+        "title": "Julie Andrews Documentary Flies To Disney+",
+        "text": "Julie Andrews is getting the documentary treatment. Disney+ has greenlit a doc about the Mary Poppins and The Sound of Music star from R.J. Cutler, the man behind Billie Eilish: The World’s A Little Blurry and Martha. The film, which will premiere in 2027, will look at Andrews’ life from her early days in British […]",
+        "url": "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388/",
+        "published": "2026-07-22T17:02:15.000Z"
+      }
+    ],
+    "likely_subject": "Julie Andrews",
+    "score": 0.48,
+    "score_parts": {
+      "fame": 0.79,
+      "heat": 0.1,
+      "baseline_views": 5014,
+      "latest_views": 6456,
+      "spike": 1.3,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.99
+    }
+  },
+  {
+    "id": "story_489040",
+    "title": "Sadie Sink Keeps Mystery Of ‘Spider-Man: Brand New Day’ Role & Reveals “I Am Not Aunt May”",
+    "source_count": 2,
+    "domains": [
+      "deadline.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-21T03:59:45.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Sadie Sink Keeps Mystery Of ‘Spider-Man: Brand New Day’ Role & Reveals “I Am Not Aunt May”",
+        "text": "Sadie Sink’s role in Spider-Man: Brand New Day remains a mystery ahead of the film’s premiere. A new video teased Sink revealing three things about her character in the Sony Pictures production, but left audiences with the same doubts. “Since the trailer dropped, I’ve seen so many theories about who I’m playing,” Sink said in […]",
+        "url": "https://deadline.com/2026/07/sadie-sink-mystery-spider-man-brand-new-day-role-1236999030/",
+        "published": "2026-07-21T03:59:45.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "‘Spider-Man: Brand New Day’ Final Trailer Unveils Action-Packed New Footage of Mark Ruffalo’s Hulk Battling the Web-Slinger",
+        "text": "Sony Pictures has released the third trailer for “Spider-Man: Brand New Day,” swiftly shifting Tom Holland’s epic of a summer from the ancient shores of Ithaca to the glass skyscrapers of New York. The Sony and Marvel film — which sees the British star having ditched Telemachus’ swords and sandals from “The Odyssey” to Spidey/Peter Parker’s […]",
+        "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-final-trailer-hulk-battle-footage-1236817155/",
+        "published": "2026-07-21T16:06:29.000Z"
+      }
+    ],
+    "likely_subject": "Sadie Sink",
+    "score": 0.477,
+    "score_parts": {
+      "fame": 0.78,
+      "heat": 0.29,
+      "baseline_views": 4654,
+      "latest_views": 9672,
+      "spike": 2.1,
+      "change": 0.6,
+      "spread": 0.33,
+      "fresh": 0
+    }
+  },
+  {
+    "id": "story_f39595",
+    "title": "Glen Powell, Richard Linklater Teaming Up for Lou Gehrig Biopic, Lorne Michaels Producing",
+    "source_count": 2,
+    "domains": [
+      "variety.com",
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T16:43:15.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Glen Powell, Richard Linklater Teaming Up for Lou Gehrig Biopic, Lorne Michaels Producing",
+        "text": "Richard Linklater and Glen Powell are re-teaming to take on the Pride of the Yankees. The pair, who previously collaborated on “Hit Man” and “Everybody Wants Some,” will join forces on an untitled Lou Gehrig film for Universal Pictures. Gehrig is a Hall of Famer whose durability and endurance on the field (he played for a then-record 2,130 consecutive […]",
+        "url": "https://variety.com/2026/film/news/glen-powell-richard-linklater-lou-gehrig-biopic-lorne-michaels-1236818235/",
+        "published": "2026-07-22T16:43:15.000Z"
       },
       {
         "source": "The Hollywood Reporter",
-        "title": "Lewis Pullman Boards ‘Guilty Creatures’ True Crime Drama at Apple TV",
-        "text": "The Emmy nominee will star with Julia Garner in the series.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/lewis-pullman-apple-tv-guilty-creatures-series-1236652193/",
-        "published": "2026-07-20T16:00:00.000Z"
+        "title": "Glen Powell to Star in Richard Linklater’s Lou Gehrig Movie From Producer Lorne Michaels",
+        "text": "Simon Rich is penning the script for the Universal feature that will focus on the late Yankees legend.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/glen-powell-lou-gehrig-richard-linklater-lorne-michaels-1236654085/",
+        "published": "2026-07-22T17:17:00.000Z"
       }
     ],
-    "likely_subject": "Lewis Pullman",
-    "score": 0.495,
+    "likely_subject": "Glen Powell",
+    "score": 0.46,
     "score_parts": {
-      "fame": 0.79,
-      "heat": 0.05,
-      "baseline_views": 5016,
-      "latest_views": 5721,
-      "spike": 1.1,
-      "change": 0.6,
-      "spread": 0.67,
-      "fresh": 0.26
+      "fame": 0.81,
+      "heat": 0,
+      "baseline_views": 6113,
+      "latest_views": 5107,
+      "spike": 0.8,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.98
     }
   },
   {
@@ -377,55 +479,16 @@
       }
     ],
     "likely_subject": "Harry Styles",
-    "score": 0.476,
+    "score": 0.413,
     "score_parts": {
       "fame": 0.87,
       "heat": 0,
-      "baseline_views": 12642,
-      "latest_views": 9547,
-      "spike": 0.8,
+      "baseline_views": 12526,
+      "latest_views": 7929,
+      "spike": 0.6,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.94
-    }
-  },
-  {
-    "id": "story_4614d5",
-    "title": "Jalen Brunson Talks Taylor Swift’s Wedding, Giving Back and Whether the Knicks Will Visit the Trump White House",
-    "source_count": 2,
-    "domains": [
-      "variety.com",
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T16:33:21.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Jalen Brunson Talks Taylor Swift’s Wedding, Giving Back and Whether the Knicks Will Visit the Trump White House",
-        "text": "Jalen Brunson isn’t sure yet if his New York Knicks will visit the Trump White House after winning the NBA championship and thought it was “really cool” that Taylor Swift was cheering on the team courtside at Madison Square Garden during Game 4 of the NBA Finals. As for Swift’s star-studded wedding at MSG, and […]",
-        "url": "https://variety.com/2026/sports/news/jalen-brunson-taylor-swift-wedding-knicks-trump-white-house-1236816653/",
-        "published": "2026-07-20T16:33:21.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Knicks Star Jalen Brunson Says It Was ‘Really Cool’ Having Taylor Swift at NBA Finals — But He Wasn’t at Her Wedding",
-        "text": "While the NBA Finals MVP didn't confirm whether he and the rest of New York's starting five were invited, he did say he wasn't there.",
-        "url": "https://www.billboard.com/music/rb-hip-hop/jalen-brunson-not-at-taylor-swift-wedding-knicks-nba-finals-1236298678/",
-        "published": "2026-07-20T22:53:31.000Z"
-      }
-    ],
-    "likely_subject": "Jalen Brunson",
-    "score": 0.412,
-    "score_parts": {
-      "fame": 0.86,
-      "heat": 0.03,
-      "baseline_views": 11032,
-      "latest_views": 11839,
-      "spike": 1.1,
-      "change": 0.35,
-      "spread": 0.33,
-      "fresh": 0.27
+      "fresh": 0.31
     }
   },
   {
@@ -455,16 +518,16 @@
       }
     ],
     "likely_subject": "Yankee Stadium",
-    "score": 0.343,
+    "score": 0.292,
     "score_parts": {
       "fame": 0.65,
-      "heat": 0.32,
+      "heat": 0.21,
       "baseline_views": 1086,
-      "latest_views": 2416,
-      "spike": 2.2,
+      "latest_views": 1836,
+      "spike": 1.7,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.36
+      "fresh": 0
     }
   },
   {
@@ -502,63 +565,148 @@
       }
     ],
     "likely_subject": "Kaylee Hottle",
-    "score": 0.246,
+    "score": 0.213,
     "score_parts": {
-      "fame": 0.48,
-      "heat": 0.04,
-      "baseline_views": 171,
-      "latest_views": 191,
-      "spike": 1.1,
+      "fame": 0.47,
+      "heat": 0,
+      "baseline_views": 168,
+      "latest_views": 156,
+      "spike": 0.9,
       "change": 1,
       "spread": 0.67,
+      "fresh": 0.31
+    }
+  },
+  {
+    "id": "story_69b57f",
+    "title": "Jonathan Levine In Talks To Direct Paramount’s Tom Cruise ‘Days Of Thunder’ Sequel",
+    "source_count": 2,
+    "domains": [
+      "deadline.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T16:41:08.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Jonathan Levine In Talks To Direct Paramount’s Tom Cruise ‘Days Of Thunder’ Sequel",
+        "text": "50/50 filmmaker Jonathan Levine is in talks to direct Paramount Tom Cruise Days of Thunder sequel. This is the first major sign of the highly anticipated project moving forward with the Melrose lot after producer Jerry Bruckheimer spoke about a follow-up to the NASCAR movie during the F1 press tour (that car movie an enormous […]",
+        "url": "https://deadline.com/2026/07/tom-cruise-days-of-thunder-jonathan-levine-1237000297/",
+        "published": "2026-07-22T16:41:08.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "‘Days of Thunder 2’: Jonathan Levine in Talks to Direct Tom Cruise in Paramount Sequel",
+        "text": "Paramount’s “Days of Thunder” sequel is shaping up with Jonathan Levine (“50/50,” “Warm Bodies”) in negotiations to direct returning star Tom Cruise. Cruise will also produce the film alongside Jerry Bruckheimer, who produced the original 1990 racing drama. Will Staples wrote the script. The original film was directed by the late Tony Scott and followed […]",
+        "url": "https://variety.com/2026/film/news/days-of-thunder-2-jonathan-levine-tom-cruise-paramount-sequel-1236818265/",
+        "published": "2026-07-22T16:59:34.000Z"
+      }
+    ],
+    "likely_subject": "Jonathan Levine",
+    "score": 0.179,
+    "score_parts": {
+      "fame": 0.43,
+      "heat": 0,
+      "baseline_views": 107,
+      "latest_views": 85,
+      "spike": 0.8,
+      "change": 0.6,
+      "spread": 0.33,
+      "fresh": 0.98
+    }
+  },
+  {
+    "id": "story_bfeace",
+    "title": "City celebrates Ozzy Day on anniversary of death",
+    "source_count": 2,
+    "domains": [
+      "bbc.co.uk",
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T15:21:27.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "City celebrates Ozzy Day on anniversary of death",
+        "text": "Pop-up performances from a brass band and an orchestra are part of the celebrations of Osbourne.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjp5y9qq3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T15:21:27.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Kelly Osbourne Pens Devastating Letter to Ozzy Osbourne 1 Year After His Death: ‘Your Voice Still Guides Me’",
+        "text": "\"I feel you in the quiet, in the wind, in every song that stops me in my tracks,\" she wrote.",
+        "url": "https://www.billboard.com/music/music-news/kelly-osbourne-letter-ozzy-osbourne-year-after-his-death-1236300580/",
+        "published": "2026-07-22T15:28:51.000Z"
+      }
+    ],
+    "likely_subject": "Ozzy Day",
+    "score": 0.155,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 1,
+      "spread": 0.33,
       "fresh": 0.94
     }
   },
   {
-    "id": "story_3e18b0",
-    "title": "Peter Lassally Dies: Legendary Late-Night Producer Who Worked With Carson & Letterman Was 93",
+    "id": "story_2e94f4",
+    "title": "Johnny Knoxville Joins ‘Mt. Mystic’ Comedy Series",
     "source_count": 3,
     "domains": [
       "deadline.com",
       "variety.com",
       "hollywoodreporter.com"
     ],
-    "first_seen": "2026-07-20T22:25:14.000Z",
+    "first_seen": "2026-07-22T16:16:00.000Z",
     "status": "ready",
     "items": [
       {
         "source": "Deadline",
-        "title": "Peter Lassally Dies: Legendary Late-Night Producer Who Worked With Carson & Letterman Was 93",
-        "text": "Peter Lassally, the late-night whisperer who produced The Tonight Show Starring Johnny Carson and Late Show with David Letterman, died July 19. He was 93. Lassally was a pivotal figure in the entertainment business, particularly in late-night, where he also produced The Late Late Show with Craig Ferguson, retiring when he was 82 and the […]",
-        "url": "https://deadline.com/2026/07/peter-lassally-dead-late-night-producer-carson-letterman-1236998893/",
-        "published": "2026-07-20T22:25:14.000Z"
+        "title": "Johnny Knoxville Joins ‘Mt. Mystic’ Comedy Series",
+        "text": "EXCLUSIVE: Mt. Mystic, the comedy series based on a YouTube pilot, has added Johnny Knoxville to its cast. It comes as Knoxville’s Jackass: Best and Last, the final movie in the franchise’s film franchise, was released last month. Knoxville, who also hosts Fox’s Fear Factor: House of Fear, which is heading into its second season, […]",
+        "url": "https://deadline.com/2026/07/johnny-knoxville-mt-mystic-comedy-series-1236999513/",
+        "published": "2026-07-22T16:16:00.000Z"
       },
       {
         "source": "Variety",
-        "title": "Peter Lassally, Legendary Late Night Producer for Johnny Carson, David Letterman and Craig Ferguson, Dies at 93",
-        "text": "Peter Lassally, the dean of late night producers who worked with Johnny Carson on the “Tonight Show,” David Letterman on “Late Show” and Craig Ferguson on “The Late Late Show,” has died. He was 93. Lassally was long dubbed the “host whisperer” for helping steer some of the biggest franchises of all time in late […]",
-        "url": "https://variety.com/2026/tv/news/peter-lassally-late-night-producer-carson-letterman-dies-dead-1236816945/",
-        "published": "2026-07-20T23:34:07.000Z"
+        "title": "Benicio Del Toro Joins Ben Stiller in Apple TV Comedy ‘Protective Custody’",
+        "text": "Benicio Del Toro is set for a lead role opposite Ben Stiller in the upcoming Apple TV comedy series “Protective Custody,” Variety has learned. The show was originally announced in May with Stiller attached to star and executive produce. It marks the first lead series comedy role of Del Toro’s career as well as a […]",
+        "url": "https://variety.com/2026/tv/news/benicio-del-toro-ben-stiller-apple-protective-custody-1236818184/",
+        "published": "2026-07-22T17:00:00.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Benicio Del Toro To Star In Apple Comedy Series ‘Protective Custody’",
+        "text": "Benicio Del Toro is getting into the comedy game and is reuniting with his Escape at Dannemora colleague Ben Stiller as he does so. Del Toro is to star in Apple comedy series Protective Custody, which also stars Stiller. It marks the Traffic star’s first leading role in a comedy series. The actor is fresh from […]",
+        "url": "https://deadline.com/2026/07/benicio-del-toro-apple-comedy-series-protective-custody-1237000280/",
+        "published": "2026-07-22T17:00:00.000Z"
       },
       {
         "source": "The Hollywood Reporter",
-        "title": "Peter Lassally, Producer for Johnny Carson and David Letterman, Dies at 93",
-        "text": "The \"Host Whisperer\" started out with Arthur Godfrey, spent 23 years with 'The Tonight Show' and engineered Dave's move to CBS.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/peter-lassally-dead-johnny-carson-david-letterman-1236652771/",
-        "published": "2026-07-21T00:08:27.000Z"
+        "title": "Benicio Del Toro to Star in Ben Stiller-Mike Judge Comedy Series ‘Protective Custody’ at Apple TV",
+        "text": "Stiller will star in and executive produce the show, which also hails from Steve Hely and Dave King.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/benicio-del-toro-first-comedy-series-starring-role-apple-tv-1236653968/",
+        "published": "2026-07-22T17:00:00.000Z"
       }
     ],
-    "likely_subject": "Peter Lassally",
-    "score": 0.199,
+    "likely_subject": "Benicio Del",
+    "score": 0.143,
     "score_parts": {
-      "fame": 0.33,
+      "fame": 0,
       "heat": 0,
-      "baseline_views": 35,
-      "latest_views": 29,
-      "spike": 0.9,
-      "change": 1,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.43
+      "fresh": 0.97
     }
   },
   {
@@ -595,85 +743,46 @@
       }
     ],
     "likely_subject": "World Cup",
-    "score": 0.167,
+    "score": 0.131,
     "score_parts": {
       "fame": 0.47,
-      "heat": 0.32,
-      "baseline_views": 159,
-      "latest_views": 384,
-      "spike": 2.2,
+      "heat": 0.12,
+      "baseline_views": 157,
+      "latest_views": 224,
+      "spike": 1.4,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.32
+      "fresh": 0
     }
   },
   {
-    "id": "story_5caf09",
-    "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
+    "id": "story_3fd48a",
+    "title": "Lindsay Clancy Murder Trial: Everything We Know About the Mom Accused of Killing Her 3 Children",
     "source_count": 2,
     "domains": [
-      "variety.com",
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T15:47:55.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses",
-        "text": "The 2026 FIFA World Cup once again demonstrated the value of home-team interest to broadcasters, with television audiences across Europe skyrocketing when national teams were still alive in the tournament before declining after their elimination. Yet, fans still turned up in force for the July 19 final opposing Spain to Argentina, proving that while national […]",
-        "url": "https://variety.com/2026/tv/global/world-cup-ratings-show-final-big-draw-home-teams-beaten-1236816547/",
-        "published": "2026-07-20T15:47:55.000Z"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Five Things the Cameras Didn’t See At the World Cup Final",
-        "text": "A post-game fight between players from Argentina and Spain broke out, Donald Trump's presence led to booing and long security lines and more.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-cameras-missed-1236652266/",
-        "published": "2026-07-20T17:18:34.000Z"
-      }
-    ],
-    "likely_subject": "World Cup",
-    "score": 0.164,
-    "score_parts": {
-      "fame": 0.47,
-      "heat": 0.32,
-      "baseline_views": 159,
-      "latest_views": 384,
-      "spike": 2.2,
-      "change": 0.35,
-      "spread": 0.33,
-      "fresh": 0.25
-    }
-  },
-  {
-    "id": "story_46137c",
-    "title": "Sylvia Bugg, PBS Programming Chief, Dies at 55",
-    "source_count": 2,
-    "domains": [
-      "hollywoodreporter.com",
+      "rollingstone.com",
       "deadline.com"
     ],
-    "first_seen": "2026-07-20T16:28:14.000Z",
+    "first_seen": "2026-07-20T19:18:15.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "The Hollywood Reporter",
-        "title": "Sylvia Bugg, PBS Programming Chief, Dies at 55",
-        "text": "PBS CEO Paula Kerger announced the news on Sunday.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/sylvia-bugg-dead-pbs-programming-chief-1236652217/",
-        "published": "2026-07-20T16:28:14.000Z"
+        "source": "Rolling Stone",
+        "title": "Lindsay Clancy Murder Trial: Everything We Know About the Mom Accused of Killing Her 3 Children",
+        "text": "The trial is expected to determine whether Clancy was legally responsible for her actions after allegedly suffering postpartum psychosis",
+        "url": "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-murder-trial-everything-we-know-1235596090/",
+        "published": "2026-07-20T19:18:15.000Z"
       },
       {
         "source": "Deadline",
-        "title": "Sylvia Bugg Dies: PBS Programming Chief & Longtime Nonfiction TV Exec Was 55",
-        "text": "Sylvia Bugg, PBS’ Chief Programming Executive and General Manager for General Audience Programming, who had a long career in public broadcasting and at Discovery Communications, has died. She was 55. PBS CEO Paula Kerger said Bugg died “unexpectedly this weekend” but did not provide a cause of death of other details. “Over decades in public […]",
-        "url": "https://deadline.com/2026/07/sylvia-bugg-dead-pbs-chief-programmer-1236998554/",
-        "published": "2026-07-20T17:21:35.000Z"
+        "title": "Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far",
+        "text": "Another season of Disney’s television series adaptation of Rick Riordan’s Percy Jackson and the Olympians has come and gone, but Season 3 is close at hand. The series received a very early Season 3 renewal in March 2025, and some very key players have been cast for the third installment. Read on for more details […]",
+        "url": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797/",
+        "published": "2026-07-20T19:25:24.000Z"
       }
     ],
-    "likely_subject": "Sylvia Bugg",
-    "score": 0.125,
+    "likely_subject": "Everything We",
+    "score": 0.113,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -682,7 +791,7 @@
       "spike": 1,
       "change": 1,
       "spread": 0.33,
-      "fresh": 0.27
+      "fresh": 0
     }
   },
   {
@@ -720,55 +829,16 @@
       }
     ],
     "likely_subject": "Ava Bunn",
-    "score": 0.116,
+    "score": 0.107,
     "score_parts": {
       "fame": 0,
-      "heat": 0,
+      "heat": 0.07,
       "baseline_views": 1,
-      "latest_views": 1,
-      "spike": 1,
+      "latest_views": 7,
+      "spike": 1.2,
       "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.37
-    }
-  },
-  {
-    "id": "story_6ba666",
-    "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-    "source_count": 2,
-    "domains": [
-      "bbc.co.uk",
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T07:30:13.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "BBC Entertainment",
-        "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-        "text": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
-        "url": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T07:30:13.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "Edward Stourton Dies: UK Broadcaster Whose Most Recent Work Charted 250 Years Of American History Was 68",
-        "text": "UK broadcaster Edward Stourton, whose 45-year career included first-hand coverage of the Ronald Reagan era, the first Gulf War, the Siege of Sarajevo and the aftermath of the 9/11 attacks, has died. He was 68. The BBC announced on Monday that Stourton, who was diagnosed with prostate cancer in 2014, had died on Saturday surrounded […]",
-        "url": "https://deadline.com/2026/07/edward-stourton-dead-legendary-uk-broadcaster-68-1236998294/",
-        "published": "2026-07-20T14:44:16.000Z"
-      }
-    ],
-    "likely_subject": "Edward Stourton",
-    "score": 0.113,
-    "score_parts": {
-      "fame": 0,
-      "heat": 0,
-      "baseline_views": 1,
-      "latest_views": 1,
-      "spike": 1,
-      "change": 1,
-      "spread": 0.33,
-      "fresh": 0.02
+      "fresh": 0
     }
   },
   {
@@ -806,7 +876,7 @@
       }
     ],
     "likely_subject": "Kovert Creative",
-    "score": 0.112,
+    "score": 0.099,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -815,46 +885,85 @@
       "spike": 1,
       "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.3
+      "fresh": 0
     }
   },
   {
-    "id": "story_4c68b2",
-    "title": "‘A Different World’ Sequel Series Drops First Look at New Generation of Hillman Students",
+    "id": "story_adcfa0",
+    "title": "Where to Stream ‘Who Wants to Be a Millionaire’ Season 5 Online",
     "source_count": 2,
     "domains": [
-      "variety.com",
-      "hollywoodreporter.com"
+      "rollingstone.com",
+      "variety.com"
     ],
-    "first_seen": "2026-07-20T15:20:24.000Z",
+    "first_seen": "2026-07-22T14:21:00.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "Variety",
-        "title": "‘A Different World’ Sequel Series Drops First Look at New Generation of Hillman Students",
-        "text": "Netflix has released first-look images from their followup to “A Different World.” As previously announced, the series will premiere on Sept. 24. As with the original show, it will take place at the fictional HBCU Hillman College. Check out the pictures below. The show was first reported to be in development at the streamer in […]",
-        "url": "https://variety.com/2026/tv/news/a-different-world-sequel-series-first-look-1236816606/",
-        "published": "2026-07-20T15:20:24.000Z"
+        "source": "Rolling Stone",
+        "title": "Where to Stream ‘Who Wants to Be a Millionaire’ Season 5 Online",
+        "text": "Jimmy Kimmel is back to host the celebrity Millionaire series’ fifth season, premiering July 22",
+        "url": "https://www.rollingstone.com/product-recommendations/streaming/where-to-stream-who-wants-to-be-a-millionaire-season-5-online-free-1235596708/",
+        "published": "2026-07-22T14:21:00.000Z"
       },
       {
-        "source": "The Hollywood Reporter",
-        "title": "Dwayne Wayne Returns (Without the Flip-Up Shades) in Netflix’s ‘A Different World’ First Look",
-        "text": "He passed the iconic eyewear down to daughter Deborah.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/dwayne-wayne-netflix-a-different-world-first-look-1236652182/",
-        "published": "2026-07-20T16:01:22.000Z"
+        "source": "Variety",
+        "title": "Jimmy Kimmel Thanks CBS for His Ratings Gains, Invites Stephen Colbert to Guest Host and Previews This Summer’s ‘Who Wants to Be a Millionaire’ (EXCLUSIVE)",
+        "text": "There’s no certain proof, but it appears that the cancellation of CBS’ “The Late Show With Stephen Colbert” has given an early boost to ABC’s “Jimmy Kimmel Live.” Before Kimmel went on his regular summer sabbatical, he pulled off a record-breaking June: The show averaged 3.15 million viewers, making it the show’s best-ever monthly audience, […]",
+        "url": "https://variety.com/2026/tv/news/jimmy-kimmel-ratings-stephen-colbert-guest-host-millionaire-1236817622/",
+        "published": "2026-07-22T16:30:00.000Z"
       }
     ],
-    "likely_subject": "Different World",
-    "score": 0.096,
+    "likely_subject": "Who Wants",
+    "score": 0.095,
     "score_parts": {
-      "fame": 0.06,
+      "fame": 0,
       "heat": 0,
-      "baseline_views": 2,
-      "latest_views": 2,
+      "baseline_views": 0,
+      "latest_views": 0,
       "spike": 1,
-      "change": 0.6,
+      "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.24
+      "fresh": 0.92
+    }
+  },
+  {
+    "id": "story_50b4b3",
+    "title": "Oasis overtake The Beatles in all-time UK album chart",
+    "source_count": 2,
+    "domains": [
+      "bbc.co.uk",
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T11:37:03.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Oasis overtake The Beatles in all-time UK album chart",
+        "text": "The Gallagher brothers surpass their idols on a list published for the 70th anniversary of the album chart.",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wq778dvzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T11:37:03.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Oasis Overtakes The Beatles to Score U.K.’s Bestselling Studio Album of All Time",
+        "text": "But two hits compilations are in the updated list's top spots.",
+        "url": "https://www.billboard.com/music/chart-beat/oasis-the-beatles-uk-bestselling-albums-chart-1236300612/",
+        "published": "2026-07-22T15:19:39.000Z"
+      }
+    ],
+    "likely_subject": "Oasis Overtakes",
+    "score": 0.092,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.84
     }
   },
   {
@@ -919,7 +1028,7 @@
       }
     ],
     "likely_subject": "Billboard Hot",
-    "score": 0.091,
+    "score": 0.076,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -928,194 +1037,46 @@
       "spike": 1,
       "change": 0.6,
       "spread": 0.33,
-      "fresh": 0.31
+      "fresh": 0
     }
   },
   {
-    "id": "story_29e1cf",
-    "title": "Judge Grants Temporary Restraining Order To Pause Paramount-Warner Bros Discovery Merger For 14 Days",
-    "source_count": 3,
-    "domains": [
-      "deadline.com",
-      "rollingstone.com",
-      "bbc.co.uk"
-    ],
-    "first_seen": "2026-07-20T17:06:51.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "Judge Grants Temporary Restraining Order To Pause Paramount-Warner Bros Discovery Merger For 14 Days",
-        "text": "A federal judge has granted a temporary restraining order that will pause Paramount’s merger with Warner Bros Discovery for 14 days. The order, issued Monday, is in response to a lawsuit filed by California Attorney General Rob Bonta and 11 other states, claiming that the proposed merger violates antitrust laws. U.S. District Judge Araceli Martinez-Olguin […]",
-        "url": "https://deadline.com/2026/07/paramount-warner-bros-lawsuit-restraining-order-1236998321/",
-        "published": "2026-07-20T17:06:51.000Z"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Judge Halts Paramount, Warner Bros. Merger After States Sue to Block $111 Billion Deal",
-        "text": "A temporary restraining order was granted, setting up a battle over a more concrete injunction as the states pursue their antitrust case",
-        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/judge-pauses-paramount-warner-bros-discovery-merger-1235596099/",
-        "published": "2026-07-20T19:14:14.000Z"
-      },
-      {
-        "source": "BBC Entertainment",
-        "title": "Paramount and Warner Bros mega merger paused by judge",
-        "text": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T19:48:13.000Z"
-      }
-    ],
-    "likely_subject": "Judge Grants",
-    "score": 0.089,
-    "score_parts": {
-      "fame": 0,
-      "heat": 0,
-      "baseline_views": 0,
-      "latest_views": 0,
-      "spike": 1,
-      "change": 0.35,
-      "spread": 0.67,
-      "fresh": 0.29
-    }
-  },
-  {
-    "id": "story_485310",
-    "title": "Creator Jess Judith Signs With UTA (Exclusive)",
-    "source_count": 3,
-    "domains": [
-      "hollywoodreporter.com",
-      "variety.com",
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T16:00:00.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Creator Jess Judith Signs With UTA (Exclusive)",
-        "text": "Bad Bunny, Shakira, Jay Wheeler, Becky G and others have featured on her \"El Pre-Party\" and other video podcasts viewed by around 5 million social media followers.",
-        "url": "https://www.hollywoodreporter.com/business/business-news/jess-judith-signs-with-uta-1236650866/",
-        "published": "2026-07-20T16:00:00.000Z"
-      },
-      {
-        "source": "Variety",
-        "title": "‘Sherlock’ Creator Steven Moffat Set as International Guest of Serielizados – Barcelona Series Festival (EXCLUSIVE)",
-        "text": "Currently priming “Number 10,” one of the most awaited of British TV series, “Sherlock” creator and “Doctor Who” showrunner Steven Moffat will attend Serielizados-Barcelona Series Festival as its headline international guest. He will be joined producer Sue Vertue, producer of “Mr. Bean,” “Sherlock” and “Number 10” and CEO of Hartswood Films, the U.K.’s longest-established scripted […]",
-        "url": "https://variety.com/2026/tv/global/steven-moffat-sue-vertue-serielizados-in-vitro-episodic-1236816865/",
-        "published": "2026-07-21T03:56:00.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "UTA Signs Comedian Kat Bird",
-        "text": "EXCLUSIVE: Kat Bird has signed with UTA for representation. A Los Angeles native, Kat Bird is a comedian, actress, and host of the Kat Bird Pod. Her debut Don’t Tell Comedy set, released just five months ago, has already surpassed 350,000 views, introducing her to a growing audience. Bird made her Netflix is a Joke Festival debut in 2026 […]",
-        "url": "https://deadline.com/2026/07/kat-bird-signs-uta-1236998894/",
-        "published": "2026-07-21T16:45:00.000Z"
-      }
-    ],
-    "likely_subject": "Creator Jess",
-    "score": 0.088,
-    "score_parts": {
-      "fame": 0,
-      "heat": 0,
-      "baseline_views": 0,
-      "latest_views": 0,
-      "spike": 1,
-      "change": 0.35,
-      "spread": 0.67,
-      "fresh": 0.26
-    }
-  },
-  {
-    "id": "story_4410fb",
-    "title": "‘Masters Of The Universe’ Heading To Prime Video This Week",
+    "id": "story_247acd",
+    "title": "‘The Odyssey’ Doesn’t Stop: Epic Bound For Best Monday YTD Stateside With $17M+ – Box Office Update",
     "source_count": 2,
     "domains": [
       "deadline.com",
-      "variety.com"
+      "billboard.com"
     ],
-    "first_seen": "2026-07-20T14:26:23.000Z",
+    "first_seen": "2026-07-20T23:58:14.000Z",
     "status": "ready",
     "items": [
       {
         "source": "Deadline",
-        "title": "‘Masters Of The Universe’ Heading To Prime Video This Week",
-        "text": "Amazon MGM Studios and Mattel’s Masters of the Universe will be streaming on Prime Video this Wednesday, July 22. That reps a 47-day theatrical-to-streaming window. The Travis Knight-directed feature, based on the popular 1980s toy property and syndicated animated TV series, was in development for 18 years with Escape Artists, and didn’t light the box […]",
-        "url": "https://deadline.com/2026/07/masters-of-the-universe-prime-video-date-1236998330/",
-        "published": "2026-07-20T14:26:23.000Z"
+        "title": "‘The Odyssey’ Doesn’t Stop: Epic Bound For Best Monday YTD Stateside With $17M+ – Box Office Update",
+        "text": "EXCLUSIVE: Christopher Nolan’s The Odyssey continues to dominate the box office, fueling a Monday that’s estimated to be $17.5 million. If those figures stick, that will be the best Monday year-to-date in the U.S./Canada, besting Toy Story 5‘s $17.3M Monday on June 22 as well as that of the highest-grossing live-action pic so far in […]",
+        "url": "https://deadline.com/2026/07/box-office-the-odyssey-monday-record-1236998940/",
+        "published": "2026-07-20T23:58:14.000Z"
       },
       {
-        "source": "Variety",
-        "title": "‘Robocop’ Reboot Series Set at Prime Video",
-        "text": "Amazon Prime Video has officially picked up a series version of “Robocop,” Variety has learned. Prime Video has given the show an eight-episode order. The project has been in development since Amazon acquired MGM in 2022, with Amazon looking to capitalize on their access to MGM’s deep IP library for both film and television projects. […]",
-        "url": "https://variety.com/2026/tv/news/robocop-reboot-series-amazon-prime-video-1236817195/",
-        "published": "2026-07-21T16:00:00.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "‘Sex Criminals’: Joseph Lee & Sunita Mani Join Prime Video Series Based On Comic",
-        "text": "EXCLUSIVE: Prime Video has rounded out the cast for its upcoming series Sex Criminals, an adaptation of Image Comics’ title, adding Emmy nominee Joseph Lee (Beef) and Sunita Mani (His & Hers) in significant recurring roles. They join leads Imogen Poots and John Reynolds and previously cast Pamela Adlon, BD Wong, Ayden Mayeri and Ashleigh Cummings […]",
-        "url": "https://deadline.com/2026/07/sex-criminals-joseph-lee-sunita-mani-amazon-series-comic-1236999322/",
-        "published": "2026-07-21T17:00:00.000Z"
+        "source": "Billboard",
+        "title": "With ‘The Odyssey’ on Fire at the Box Office, Could Ludwig Göransson Be Headed for Another Oscar?",
+        "text": "The Odyssey is the fifth consecutive film that Göransson has scored that has become a certified blockbuster.",
+        "url": "https://www.billboard.com/lists/ludwig-goransson-the-odyssey-oscar-chances-original-score/",
+        "published": "2026-07-21T18:25:51.000Z"
       }
     ],
-    "likely_subject": "Masters Of",
-    "score": 0.086,
+    "likely_subject": "Odyssey Doesn",
+    "score": 0.054,
     "score_parts": {
       "fame": 0,
       "heat": 0,
       "baseline_views": 0,
       "latest_views": 0,
       "spike": 1,
-      "change": 0.6,
+      "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.21
-    }
-  },
-  {
-    "id": "story_41b1c9",
-    "title": "‘Afterlife With Archie’ Series From ‘Riverdale’ Team Greenlit at Disney+",
-    "source_count": 3,
-    "domains": [
-      "variety.com",
-      "deadline.com",
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T16:00:00.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "‘Afterlife With Archie’ Series From ‘Riverdale’ Team Greenlit at Disney+",
-        "text": "Disney+ has ordered the series version of the “Afterlife With Archie” comics, Variety has learned. The show was originally reported to be in development at the streamer in 2025 with a script-to-series commitment. Disney is slating the series for a potential launch around Halloween 2027. As previously reported, the show is based on the comic […]",
-        "url": "https://variety.com/2026/tv/news/afterlife-with-archie-series-disney-plus-riverdale-1236815103/",
-        "published": "2026-07-20T16:00:00.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "‘Afterlife With Archie’ Series Based On Comic Ordered By Disney+, Gets Halloween 2027 Premiere",
-        "text": "Disney+ has given a green light to Afterlife with Archie, an hourlong drama series based on the best-selling Archie comic book series by Roberto Aguirre-Sacasa and Francesco Francavilla. It will have a Halloween 2027 premiere on the streamer. The order comes nine months after the project landed at Disney+ with a big script-to-series commitment. Afterlife […]",
-        "url": "https://deadline.com/2026/07/afterlife-with-archie-series-comic-disney-release-window-1236997243/",
-        "published": "2026-07-20T16:00:00.000Z"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "‘Afterlife With Archie’ Series a Go at Disney+ With ‘Riverdale’ Team Reuniting",
-        "text": "Roberto Aguirre-Sacasa will adapt his and Francesco Francavilla's comic, and Greg Berlanti will executive produce.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/afterlife-with-archie-tv-series-disney-plus-1236652172/",
-        "published": "2026-07-20T16:00:00.000Z"
-      }
-    ],
-    "likely_subject": "Riverdale Team",
-    "score": 0.075,
-    "score_parts": {
-      "fame": 0,
-      "heat": 0,
-      "baseline_views": 0,
-      "latest_views": 0,
-      "spike": 1,
-      "change": 0.2,
-      "spread": 0.67,
-      "fresh": 0.26
+      "fresh": 0
     }
   },
   {
@@ -1145,7 +1106,7 @@
       }
     ],
     "likely_subject": "Cannabis Dispensary",
-    "score": 0.074,
+    "score": 0.054,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -1154,7 +1115,46 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.45
+      "fresh": 0
+    }
+  },
+  {
+    "id": "story_af080d",
+    "title": "What’s Really In the AI Odyssey Film",
+    "source_count": 2,
+    "domains": [
+      "hollywoodreporter.com",
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-20T22:12:51.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "What’s Really In the AI Odyssey Film",
+        "text": "On the heels of Christopher Nolan’s blockbuster weekend, the filmmakers of the digital-age project have a few ideas of their own.",
+        "url": "https://www.hollywoodreporter.com/business/digital/ai-the-odyssey-what-is-it-where-to-watch-1236652547/",
+        "published": "2026-07-20T22:12:51.000Z"
+      },
+      {
+        "source": "BBC Entertainment",
+        "title": "The Odyssey film fans inspired to go back to the source",
+        "text": "Book sales and audiobook figures for Homer's original poem rise sharply after the film's release.",
+        "url": "https://www.bbc.co.uk/news/articles/cp9en982n3do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T12:56:45.000Z"
+      }
+    ],
+    "likely_subject": "Really In",
+    "score": 0.054,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0
     }
   },
   {
@@ -1184,7 +1184,7 @@
       }
     ],
     "likely_subject": "Mollner Lands",
-    "score": 0.072,
+    "score": 0.054,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -1193,37 +1193,37 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.4
+      "fresh": 0
     }
   },
   {
-    "id": "story_179d1c",
-    "title": "5 Reasons ‘The Odyssey’ Defied Box Office Expectations, Including Imax’s Monster $52 Million Start",
+    "id": "story_a4a94b",
+    "title": "Judge Halts Paramount, Warner Bros. Merger After States Sue to Block $111 Billion Deal",
     "source_count": 2,
     "domains": [
-      "variety.com",
-      "billboard.com"
+      "rollingstone.com",
+      "bbc.co.uk"
     ],
-    "first_seen": "2026-07-20T15:54:53.000Z",
+    "first_seen": "2026-07-20T19:14:14.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "Variety",
-        "title": "5 Reasons ‘The Odyssey’ Defied Box Office Expectations, Including Imax’s Monster $52 Million Start",
-        "text": "“The Odyssey” defied the gods odds in its opening weekend, delivering a sensational $124.5 million domestically and $264.1 million globally. After all, it’s highly unusual for a centuries-old poem that everyone was forced to read in school to be the basis of a popcorn movie. Those mighty ticket sales are a testament to the appeal […]",
-        "url": "https://variety.com/2026/film/box-office/odyssey-box-office-christopher-nolan-1236816035/",
-        "published": "2026-07-20T15:54:53.000Z"
+        "source": "Rolling Stone",
+        "title": "Judge Halts Paramount, Warner Bros. Merger After States Sue to Block $111 Billion Deal",
+        "text": "A temporary restraining order was granted, setting up a battle over a more concrete injunction as the states pursue their antitrust case",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/judge-pauses-paramount-warner-bros-discovery-merger-1235596099/",
+        "published": "2026-07-20T19:14:14.000Z"
       },
       {
-        "source": "Billboard",
-        "title": "With ‘The Odyssey’ on Fire at the Box Office, Could Ludwig Göransson Be Headed for Another Oscar?",
-        "text": "The Odyssey is the fifth consecutive film that Göransson has scored that has become a certified blockbuster.",
-        "url": "https://www.billboard.com/lists/ludwig-goransson-the-odyssey-oscar-chances-original-score/",
-        "published": "2026-07-21T18:25:51.000Z"
+        "source": "BBC Entertainment",
+        "title": "Paramount and Warner Bros mega merger paused by judge",
+        "text": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T19:48:13.000Z"
       }
     ],
-    "likely_subject": "Odyssey Defied",
-    "score": 0.065,
+    "likely_subject": "Judge Halts",
+    "score": 0.054,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -1232,8 +1232,711 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.25
+      "fresh": 0
     }
+  },
+  {
+    "id": "story_4e7118",
+    "title": "Selena Gomez Is the ‘Happiest Girlie in the World’ on Her 34th Birthday: ‘My Heart Is So Full Today’",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T17:22:20.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Selena Gomez Is the ‘Happiest Girlie in the World’ on Her 34th Birthday: ‘My Heart Is So Full Today’",
+        "text": "\"Every single day I get to create because of all of you,\" the singer-actress wrote.",
+        "url": "https://www.billboard.com/music/music-news/selena-gomez-celebrates-birthday-happiest-girlie-1236300766/",
+        "published": "2026-07-22T17:22:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_1ced05",
+    "title": "The Laugh List Sets First Selection Of Year’s Best Unproduced Comedy Screenplays",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T17:15:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "The Laugh List Sets First Selection Of Year’s Best Unproduced Comedy Screenplays",
+        "text": "EXCLUSIVE: In June, we announced The Laugh List, a new ongoing survey recognizing the year’s most promising unproduced comedy screenplays, to be unveiled in association with Just for Laughs Montreal, amid the fest’s annual ComedyPRO marketplace. And now, we have the first annual selection. The Laugh List’s inaugural edition recognizes 10 screenplays that emerged from a field […]",
+        "url": "https://deadline.com/2026/07/laugh-list-2026-selections-unveiled-1237000117/",
+        "published": "2026-07-22T17:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_e7694f",
+    "title": "‘Clayface’ Trailer: DC Studios’ Batman Bad Guy Gets His Close-Up",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T17:12:45.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘Clayface’ Trailer: DC Studios’ Batman Bad Guy Gets His Close-Up",
+        "text": "DC Studios has released the official trailer for Clayface, its stand-alone Batman villain movie starring Tom Rhys Harries. The reveal comes ahead of this week’s Comic-Con, where the James Watkins-directed pic is expected to show off more of its wares. It will be released in theaters by Warner Bros on October 23. The film falls […]",
+        "url": "https://deadline.com/2026/07/clayface-trailer-tom-rhys-harries-1237000368/",
+        "published": "2026-07-22T17:12:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7357ce",
+    "title": "Shakira’s 5 Best Moments from Night Two at Barclays Center: Wyclef Jean, Triplets Ghetto Kids & More",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T17:12:38.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Shakira’s 5 Best Moments from Night Two at Barclays Center: Wyclef Jean, Triplets Ghetto Kids & More",
+        "text": "The Latin superstar brought her high energy stadium/arena run to New York on Tuesday (July 21) for a second night.",
+        "url": "https://www.billboard.com/lists/shakiras-brooklyn-barclays-center-recap-best-moments/",
+        "published": "2026-07-22T17:12:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6e5cb5",
+    "title": "Edko Films Picks Up World Rights To Yeung Leung Cheun’s Toronto Discovery Title ‘We Are Born Good’",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T17:04:11.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Edko Films Picks Up World Rights To Yeung Leung Cheun’s Toronto Discovery Title ‘We Are Born Good’",
+        "text": "Hong Kong-based Edko Films has acquired worldwide rights to We Are Born Good, the feature directing debut of Hong Kong filmmaker Yeung Leung Cheun, which has been selected by Toronto International Film Festival for the Discovery section. Starring Yeung Wai Lun and Golden Horse best actress winner Chung Suet Ying, the film is inspired by […]",
+        "url": "https://deadline.com/2026/07/toronto-edko-films-yeung-leung-cheuns-we-are-born-good-1237000355/",
+        "published": "2026-07-22T17:04:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5b8833",
+    "title": "Patrick Dempsey for Senate? The McDreamy Shall Never Die",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T17:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Patrick Dempsey for Senate? The McDreamy Shall Never Die",
+        "text": "For a brief, shining moment, it almost looked as if the 'Grey’s Anatomy' star would be replacing Graham Platner as the candidate in Maine.",
+        "url": "https://www.hollywoodreporter.com/news/politics-news/patrick-dempsey-senate-maine-1236653686/",
+        "published": "2026-07-22T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7bdcfd",
+    "title": "‘The Late Show’ Sign Pops Up in West Hollywood",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T17:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘The Late Show’ Sign Pops Up in West Hollywood",
+        "text": "The famous 12-foot illuminated marquee was auctioned off after Stephen Colbert’s talk show was yanked off the air. Now it's landed at a bistro on La Cienega.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/the-late-show-sign-auction-west-hollywood-1236653689/",
+        "published": "2026-07-22T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3a860c",
+    "title": "Married With Tentpoles: Tom and Zendaya’s Blockbuster Honeymoon",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T17:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Married With Tentpoles: Tom and Zendaya’s Blockbuster Honeymoon",
+        "text": "The newlywed actors are co-starring together in back-to-back summer features — a Hollywood first.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-zendaya-blockbuster-honeymoon-1236653698/",
+        "published": "2026-07-22T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5b7325",
+    "title": "'Devastated' Millie Bobby Brown leads tributes to Kaylee Hottle",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-22T16:58:30.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "'Devastated' Millie Bobby Brown leads tributes to Kaylee Hottle",
+        "text": "The 18-year-old Godzilla vs Kong actress died in a car crash in the US.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T16:58:30.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_763c2c",
+    "title": "WME Signs Evan Royalty, Filmmaker Behind Viral ‘SCP’ YouTube Shorts",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T16:54:09.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "WME Signs Evan Royalty, Filmmaker Behind Viral ‘SCP’ YouTube Shorts",
+        "text": "EXCLUSIVE: WME has signed Evan Muir, the filmmaker, writer, director and digital creator known online as Evan Royalty, with an eye toward helping him expand his footprint across film, television, and beyond, while developing original IP and franchise opportunities. Royalty is known as one of the defining filmmakers behind YouTube’s SCP phenomenon, a series of sci-fi […]",
+        "url": "https://deadline.com/2026/07/evan-royalty-signs-wme-1237000373/",
+        "published": "2026-07-22T16:54:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7c5626",
+    "title": "Alison Krauss & Union Station, Sister Sadie Among Top 2026 IBMA Awards Nominees: Full List",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T16:51:15.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Alison Krauss & Union Station, Sister Sadie Among Top 2026 IBMA Awards Nominees: Full List",
+        "text": "The organization has announced the nominees for the 2026 IBMA Industry Awards and the 2026 IBMA Momentum Awards.",
+        "url": "https://www.billboard.com/music/awards/alison-krauss-sister-sadie-2026-ibma-awards-nominees-list-1236294582/",
+        "published": "2026-07-22T16:51:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5ba7bc",
+    "title": "‘Five Star Weekend’s’ D’Arcy Carden Knows the Inherent Dangers of a Girls Trip",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T16:36:49.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘Five Star Weekend’s’ D’Arcy Carden Knows the Inherent Dangers of a Girls Trip",
+        "text": "The actress, on a run of wildly different gigs, also demystifies her HGTV slumber party with Sherry Cola and examines how playing Janet on 'The Good Place' informed her thoughts on AI. (Sort of.)",
+        "url": "https://www.hollywoodreporter.com/tv/tv-features/five-star-weekend-darcy-carden-interview-1236653066/",
+        "published": "2026-07-22T16:36:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_403963",
+    "title": "New York Mayor Zohran Mamdani Names Antitrust Crusader Lina Khan Chair Of City’s Economic Development Corporation",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T16:36:39.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "New York Mayor Zohran Mamdani Names Antitrust Crusader Lina Khan Chair Of City’s Economic Development Corporation",
+        "text": "Lina Khan, an antitrust crusader who targeted Big Tech companies during her run as head of the Federal Trade Commission, has been named chair of the New York City Economic Development Corporation. The appointment by Mayor Zohran Mamdani was a surprise, and the latest indication of the leftward shift of the government of the largest […]",
+        "url": "https://deadline.com/2026/07/new-york-mayor-zohran-mamdani-lina-khan-economic-development-1237000308/",
+        "published": "2026-07-22T16:36:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_68a017",
+    "title": "Victoria Monét Announces New Album ‘Frequency of Love,’ Releases New Single ‘Reach Out’",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T16:31:20.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Victoria Monét Announces New Album ‘Frequency of Love,’ Releases New Single ‘Reach Out’",
+        "text": "Victoria Monét has announced her sophomore album “Frequency of Love,” releasing on October 2 via Lovett Music/RCA Records. To coincide with the project reveal, the R&B singer has dropped her new single “Reach Out,” produced by Kaytranada and D’Mile, as well as its video, directed by Dave Meyers and featuring choreography by frequent collaborator Sean […]",
+        "url": "https://variety.com/2026/music/news/victoria-monet-new-album-frequency-of-love-reach-out-1236818236/",
+        "published": "2026-07-22T16:31:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_40cd90",
+    "title": "‘The Furious’ Star Joey Iwanaga Inks With Artists First",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T16:30:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘The Furious’ Star Joey Iwanaga Inks With Artists First",
+        "text": "EXCLUSIVE: Artists First has signed Joey Iwanaga, a second-generation Japanese-American actor recognized for his work in action films, for management. Most notably, Iwanaga played the lead villain opposite Xie Miao and Joe Taslim in The Furious, the adrenaline-filled martial arts movie directed by stunt coordinator-turned-filmmaker Kenji Tanigaki, which released in theaters last month, after world premiering at […]",
+        "url": "https://deadline.com/2026/07/the-furious-star-joey-iwanaga-signs-artists-first-1236997675/",
+        "published": "2026-07-22T16:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5903c3",
+    "title": "Musk Melts Down Over ‘The Odyssey,’ Promises AI Slop Remake",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T16:18:54.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Musk Melts Down Over ‘The Odyssey,’ Promises AI Slop Remake",
+        "text": "A sample of the kind of \"historically accurate\" adaptation he craves features Odysseus wearing foam earplugs",
+        "url": "https://www.rollingstone.com/culture/culture-news/elon-musk-melts-down-odyssey-ai-version-1235597140/",
+        "published": "2026-07-22T16:18:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6029a1",
+    "title": "Dhani Harrison, Nigel Godrich Preview New Band Dragonflies’ Album With ‘Slower’",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T16:16:42.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Dhani Harrison, Nigel Godrich Preview New Band Dragonflies’ Album With ‘Slower’",
+        "text": "Duo’s eponymous album arrives on Sept. 18",
+        "url": "https://www.rollingstone.com/music/music-news/dhani-harrison-nigel-godrich-new-band-dragonflies-slower-1235597083/",
+        "published": "2026-07-22T16:16:42.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_51e869",
+    "title": "Apple TV Already Has the Rights to Adapt ‘Fourth Wing’ Author Rebecca Yarros’ Next Novel",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T16:15:46.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Apple TV Already Has the Rights to Adapt ‘Fourth Wing’ Author Rebecca Yarros’ Next Novel",
+        "text": "A search is underway for a writer to adapt 'Peculiar Stars.'",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-peculiar-stars-series-rebecca-yarros-fourth-wing-1236654021/",
+        "published": "2026-07-22T16:15:46.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_592b01",
+    "title": "Oskar Eustis to Step Down As Head of Off-Broadway’s Public Theater After 23 Years",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T16:07:43.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Oskar Eustis to Step Down As Head of Off-Broadway’s Public Theater After 23 Years",
+        "text": "Eustis has been the artistic director of the Public Theater, where he led development of 'Hamilton,' 'Fun Home' and Shakespeare in the Park.",
+        "url": "https://www.hollywoodreporter.com/lifestyle/arts/oskar-eustis-step-down-as-head-off-broadways-public-theater-1236654005/",
+        "published": "2026-07-22T16:07:43.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2650ec",
+    "title": "Fan Army Face-Off 2026 Heats Up: Vote in Round 2 Now",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T16:07:43.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Fan Army Face-Off 2026 Heats Up: Vote in Round 2 Now",
+        "text": "Which artist's fan army is the strongest?",
+        "url": "https://www.billboard.com/music/music-news/fan-army-face-off-2026-voting-1236294570/",
+        "published": "2026-07-22T16:07:43.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_32f7da",
+    "title": "Casey Affleck’s Gothic Mystery ‘Company’ to Star Nick Nolte, Adelaide Clemens, Ben Mendelsohn and Scoot McNairy (EXCLUSIVE)",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T16:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Casey Affleck’s Gothic Mystery ‘Company’ to Star Nick Nolte, Adelaide Clemens, Ben Mendelsohn and Scoot McNairy (EXCLUSIVE)",
+        "text": "Casey Affleck has directed his third feature and first since 2019’s “Light of My Life.” “Company,” which wrapped earlier this year in Whistler, Canada, is a gothic mystery starring Nick Nolte (“Cape Fear,” “Die My Love”), Adelaide Clemens (“The Great Gatsby”), Ben Mendelsohn (“The Dark Knight Rises,” “The King”), Scoot McNairy (“A Complete Unknown,” “Speak […]",
+        "url": "https://variety.com/2026/film/global/casey-affleck-company-cast-nick-nolte-scoot-mcnairy-1236817877/",
+        "published": "2026-07-22T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6a0fc0",
+    "title": "AI YouTuber Gossip Goblin Plans to Release AI Film ‘Gods Don’t Give Gifts’ in Movie Theaters",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T16:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "AI YouTuber Gossip Goblin Plans to Release AI Film ‘Gods Don’t Give Gifts’ in Movie Theaters",
+        "text": "There’s no shortage of places to watch an AI-generated content, from TikTok to YouTube. But now “Gods Don’t Give Gifts,” a collection of four anthology shorts, is set to screen in movie theaters for a limited release in October as the latest project from Gossip Goblin, the moniker of the buzzy AI-focused YouTuber Zack London. The film, […]",
+        "url": "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/",
+        "published": "2026-07-22T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_314b02",
+    "title": "Jason Alexander Apologizes to Courtney Stodden for Inappropriate Sketch: ‘I Truly Regret It’",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T15:56:10.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Jason Alexander Apologizes to Courtney Stodden for Inappropriate Sketch: ‘I Truly Regret It’",
+        "text": "Alexander rubbed a cellphone on Stodden's breasts in a Funny or Die sketch when she was 17",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jason-alexander-courtney-stodden-apology-1235597061/",
+        "published": "2026-07-22T15:56:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7bbbdf",
+    "title": "Nolan Wells Preliminary Independent Autopsy Says Cause of Death Is Still ‘Undetermined’",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T15:29:41.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Nolan Wells Preliminary Independent Autopsy Says Cause of Death Is Still ‘Undetermined’",
+        "text": "'Any parent that would be in this situation, you would do anything to find out what happened to your child, and that is what we're here to do,' said Wells’ mom",
+        "url": "https://www.rollingstone.com/culture/culture-news/nolan-wells-independent-autopsy-cause-of-death-undetermined-1235597025/",
+        "published": "2026-07-22T15:29:41.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3aae37",
+    "title": "Syd Says the Internet’s New Album Is Almost Done — and It’s ‘Super Fire’",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T15:06:05.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Syd Says the Internet’s New Album Is Almost Done — and It’s ‘Super Fire’",
+        "text": "After she and Steve Lacy released solo albums on the same day, they're getting back to work on the band's new project, with an adjusted lineup",
+        "url": "https://www.rollingstone.com/music/music-features/syd-the-internet-new-album-1235596826/",
+        "published": "2026-07-22T15:06:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6af132",
+    "title": "So You Think You Can DJ? Your Shot, the DJ Competition for Beginners, Is Returning to the U.S.",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T15:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "So You Think You Can DJ? Your Shot, the DJ Competition for Beginners, Is Returning to the U.S.",
+        "text": "The 2026 U.S. edition's winners get an opening slot at a major music festival.",
+        "url": "https://www.billboard.com/music/music-news/your-shot-dj-competition-returns-how-to-enter-1236300512/",
+        "published": "2026-07-22T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_411321",
+    "title": "Lily Allen Documentary Will Reflect on Singer’s Life and Career From MySpace to ‘West End Girl’",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T14:57:36.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Lily Allen Documentary Will Reflect on Singer’s Life and Career From MySpace to ‘West End Girl’",
+        "text": "Scheduled for release in 2027 via Prime Video, the biographical release will feature interviews with external sources who know her best",
+        "url": "https://www.rollingstone.com/music/music-news/lily-allen-documentary-west-end-girl-myspace-1235597028/",
+        "published": "2026-07-22T14:57:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5dc041",
+    "title": "William Shatner and Daughter Melanie Battled Stage 4 Cancer at the Same Time",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T14:44:11.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "William Shatner and Daughter Melanie Battled Stage 4 Cancer at the Same Time",
+        "text": "Both cancer-free now, William was diagnosed with malignant melanoma 11 months after his daughter Melanie began her battle against breast cancer",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/william-shatner-daughter-melanie-stage-4-cancer-1235597019/",
+        "published": "2026-07-22T14:44:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_4542bc",
+    "title": "Inside the FIFA World Cup 2026: How Brands and Celebs Celebrated Soccer’s Big U.S. Invasion",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T14:42:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Inside the FIFA World Cup 2026: How Brands and Celebs Celebrated Soccer’s Big U.S. Invasion",
+        "text": "From seeing stars at SoFi Stadium to sampling the tournament's official drink sponsor, here's a look at how brands activated for the tournament",
+        "url": "https://www.rollingstone.com/product-recommendations/lifestyle/fifa-world-cup-2026-celebrities-sofi-los-angeles-new-york-1235586479/",
+        "published": "2026-07-22T14:42:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7d5b3e",
+    "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became a Record-Breaking U.K. Chart Success",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T14:38:08.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became a Record-Breaking U.K. Chart Success",
+        "text": "The song is now the U.K.'s longest-running No. 1 single of the decade.",
+        "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+        "published": "2026-07-22T14:38:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5d0445",
+    "title": "Radio 2 DJ Jo Whiley pays tribute to 'lovely dad'",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-22T12:59:11.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Radio 2 DJ Jo Whiley pays tribute to 'lovely dad'",
+        "text": "Broadcaster thanks her father Martin for her love of music following his death",
+        "url": "https://www.bbc.co.uk/news/articles/cn7nr7p323vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T12:59:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5f8899",
+    "title": "YouTube star MrBeast marries Thea Booysen on Richard Branson's island",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-22T11:05:20.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "YouTube star MrBeast marries Thea Booysen on Richard Branson's island",
+        "text": "The world's biggest YouTuber said he had finally found his \"Mrs Beast\".",
+        "url": "https://www.bbc.co.uk/news/articles/clyq2dnq2zzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T11:05:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5d2301",
+    "title": "How a singer's chance encounter led to an alien experience in Hollywood",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-22T08:14:12.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "How a singer's chance encounter led to an alien experience in Hollywood",
+        "text": "Winnie Ama couldn't believe her luck when she had the chance to sing her original song in the new Supergirl movie - but there was a catch.",
+        "url": "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T08:14:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_71f567",
+    "title": "Glasgow School of Art cannot afford to restore fire-hit Mackintosh building",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-22T07:50:24.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Glasgow School of Art cannot afford to restore fire-hit Mackintosh building",
+        "text": "The art school previously insisted it was committed to a faithful reinstatement of the building.",
+        "url": "https://www.bbc.co.uk/news/articles/ce34lxy2793o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T07:50:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_71e774",
+    "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-22T05:33:04.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+        "text": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+        "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T05:33:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_44fbc0",
+    "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-22T02:33:11.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+        "text": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T02:33:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3a83f7",
+    "title": "Judge rules Trump must hand over records sought by BBC in defamation case",
+    "source_count": 1,
+    "domains": [
+      "bbc.co.uk"
+    ],
+    "first_seen": "2026-07-21T23:45:16.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Judge rules Trump must hand over records sought by BBC in defamation case",
+        "text": "The judge grants a motion to compel the release of files held by the Donald J Trump Revocable Trust.",
+        "url": "https://www.bbc.co.uk/news/articles/c93487x97kyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-21T23:45:16.000Z"
+      }
+    ]
   },
   {
     "id": "story_45391a",
@@ -1692,6 +2395,25 @@
     ]
   },
   {
+    "id": "story_6d6ce8",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-21T17:02:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Billboard’s Music Industry Events Calendar",
+        "text": "A complete rundown of the most important events across the music business.",
+        "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+        "published": "2026-07-21T17:02:00.000Z"
+      }
+    ]
+  },
+  {
     "id": "story_1614b2",
     "title": "Echo Lake Entertainment Hires Tanayri Novoa, Promotes Shiva Kaya",
     "source_count": 1,
@@ -1706,6 +2428,25 @@
         "title": "Echo Lake Entertainment Hires Tanayri Novoa, Promotes Shiva Kaya",
         "text": "EXCLUSIVE: Echo Lake Entertainment has two new managers: Tanayri Novoa and Shiva Kaya. Novoa is a new hire, joining from CAA, who will be based at the company’s Beverly Hills headquarters. Promoted from coordinator, Kaya is based in New York. With a focus on digital client representation, high-impact brand deals and strategic brand partnerships, Novoa’s nearly […]",
         "url": "https://deadline.com/2026/07/echo-lake-entertainment-tanayri-novoa-shiva-kaya-1236998455/",
+        "published": "2026-07-21T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6716c4",
+    "title": "‘Sex Criminals’: Joseph Lee & Sunita Mani Join Prime Video Series Based On Comic",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-21T17:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "‘Sex Criminals’: Joseph Lee & Sunita Mani Join Prime Video Series Based On Comic",
+        "text": "EXCLUSIVE: Prime Video has rounded out the cast for its upcoming series Sex Criminals, an adaptation of Image Comics’ title, adding Emmy nominee Joseph Lee (Beef) and Sunita Mani (His & Hers) in significant recurring roles. They join leads Imogen Poots and John Reynolds and previously cast Pamela Adlon, BD Wong, Ayden Mayeri and Ashleigh Cummings […]",
+        "url": "https://deadline.com/2026/07/sex-criminals-joseph-lee-sunita-mani-amazon-series-comic-1236999322/",
         "published": "2026-07-21T17:00:00.000Z"
       }
     ]
@@ -1821,6 +2562,25 @@
         "text": "Billboard Japan spoke with her0ism, who shared his perspective on the current state and future of the industry.",
         "url": "https://www.billboard.com/music/music-news/her0ism-interview-j-pop-global-moment-maj-grammys-1236299672/",
         "published": "2026-07-21T16:49:30.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_46f282",
+    "title": "UTA Signs Comedian Kat Bird",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-21T16:45:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "UTA Signs Comedian Kat Bird",
+        "text": "EXCLUSIVE: Kat Bird has signed with UTA for representation. A Los Angeles native, Kat Bird is a comedian, actress, and host of the Kat Bird Pod. Her debut Don’t Tell Comedy set, released just five months ago, has already surpassed 350,000 views, introducing her to a growing audience. Bird made her Netflix is a Joke Festival debut in 2026 […]",
+        "url": "https://deadline.com/2026/07/kat-bird-signs-uta-1236998894/",
+        "published": "2026-07-21T16:45:00.000Z"
       }
     ]
   },
@@ -2015,6 +2775,32 @@
     ]
   },
   {
+    "id": "story_54b7c9",
+    "title": "‘Sherlock’ Creator Steven Moffat Set as International Guest of Serielizados – Barcelona Series Festival (EXCLUSIVE)",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-21T03:56:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "‘Sherlock’ Creator Steven Moffat Set as International Guest of Serielizados – Barcelona Series Festival (EXCLUSIVE)",
+        "text": "Currently priming “Number 10,” one of the most awaited of British TV series, “Sherlock” creator and “Doctor Who” showrunner Steven Moffat will attend Serielizados-Barcelona Series Festival as its headline international guest. He will be joined producer Sue Vertue, producer of “Mr. Bean,” “Sherlock” and “Number 10” and CEO of Hartswood Films, the U.K.’s longest-established scripted […]",
+        "url": "https://variety.com/2026/tv/global/steven-moffat-sue-vertue-serielizados-in-vitro-episodic-1236816865/",
+        "published": "2026-07-21T03:56:00.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "‘Robocop’ Reboot Series Set at Prime Video",
+        "text": "Amazon Prime Video has officially picked up a series version of “Robocop,” Variety has learned. Prime Video has given the show an eight-episode order. The project has been in development since Amazon acquired MGM in 2022, with Amazon looking to capitalize on their access to MGM’s deep IP library for both film and television projects. […]",
+        "url": "https://variety.com/2026/tv/news/robocop-reboot-series-amazon-prime-video-1236817195/",
+        "published": "2026-07-21T16:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": "story_6fa7c4",
     "title": "Chloe Fineman Opens Up About Decision to Leave ‘SNL’: “I’m Really Proud of Everything, But It’s Hard”",
     "source_count": 1,
@@ -2144,6 +2930,13 @@
         "text": "Yes, Universal’s Christopher Nolan epic The Odyssey led by an extreme margin at the global box office with an updated $263.7M, a hands down opening record for the 2x Oscar winning filmmaker fueled by his best ever start overseas with $140.2M from 73 territories and his third best opening in North America with $123.5M. For […]",
         "url": "https://deadline.com/2026/07/box-office-global-odyssey-kung-fu-soccer-hope-toy-story-5-1236998978/",
         "published": "2026-07-21T01:49:04.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "‘The Odyssey’ Scores $21M+ Record Tuesday For Christopher Nolan; 2nd U.S. Weekend Could Top ‘Dark Knight’ Pics – Box Office",
+        "text": "WEDNESDAY AM UPDATE: Christopher Nolan scored his best Tuesday ever at the domestic B.O. as The Odyssey rang up $21.4M. That bests his previous Tuesday high, which was The Dark Knight ($20.8M, on July 22, 2008). The revised number from Universal ranks as the second best Tuesday YTD behind Toy Story 5‘s $23.69M, and it’s […]",
+        "url": "https://deadline.com/2026/07/box-office-the-odyssey-tuesday-second-weekend-1236999819/",
+        "published": "2026-07-22T16:50:00.000Z"
       }
     ]
   },
@@ -2163,25 +2956,6 @@
         "text": "The actor plays Odysseus in Christopher Nolan's epic action fantasy film.",
         "url": "https://www.hollywoodreporter.com/movies/movie-news/matt-damon-female-stunt-double-odyssey-scene-bicep-1236652737/",
         "published": "2026-07-21T00:55:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_247acd",
-    "title": "‘The Odyssey’ Doesn’t Stop: Epic Bound For Best Monday YTD Stateside With $17M+ – Box Office Update",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T23:58:14.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "‘The Odyssey’ Doesn’t Stop: Epic Bound For Best Monday YTD Stateside With $17M+ – Box Office Update",
-        "text": "EXCLUSIVE: Christopher Nolan’s The Odyssey continues to dominate the box office, fueling a Monday that’s estimated to be $17.5 million. If those figures stick, that will be the best Monday year-to-date in the U.S./Canada, besting Toy Story 5‘s $17.3M Monday on June 22 as well as that of the highest-grossing live-action pic so far in […]",
-        "url": "https://deadline.com/2026/07/box-office-the-odyssey-monday-record-1236998940/",
-        "published": "2026-07-20T23:58:14.000Z"
       }
     ]
   },
@@ -2262,6 +3036,25 @@
     ]
   },
   {
+    "id": "story_42997e",
+    "title": "Knicks Star Jalen Brunson Says It Was ‘Really Cool’ Having Taylor Swift at NBA Finals — But He Wasn’t at Her Wedding",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T22:53:31.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Knicks Star Jalen Brunson Says It Was ‘Really Cool’ Having Taylor Swift at NBA Finals — But He Wasn’t at Her Wedding",
+        "text": "While the NBA Finals MVP didn't confirm whether he and the rest of New York's starting five were invited, he did say he wasn't there.",
+        "url": "https://www.billboard.com/music/rb-hip-hop/jalen-brunson-not-at-taylor-swift-wedding-knicks-nba-finals-1236298678/",
+        "published": "2026-07-20T22:53:31.000Z"
+      }
+    ]
+  },
+  {
     "id": "story_4e1307",
     "title": "Sharon Stone on Quitting Weed and Stopping a Stroke Medication Despite Doctors’ Orders: ‘It Was Like Going Off of F—ing Heroin’",
     "source_count": 1,
@@ -2296,6 +3089,32 @@
         "text": "The North Carolina rapper laughed and held the bra up to the crowd during a tour stop in Miami.",
         "url": "https://www.billboard.com/music/rb-hip-hop/j-cole-bra-ontage-fall-off-tour-miami-1236298625/",
         "published": "2026-07-20T22:27:41.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3d07f0",
+    "title": "LISTEN: Christopher Nolan Gets Moviegoers Out in Force for the Trojan Horse",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T22:27:36.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "LISTEN: Christopher Nolan Gets Moviegoers Out in Force for the Trojan Horse",
+        "text": "On today’s episode of “Daily Variety” podcast, in our Box Office segment, Variety’s Rebecca Rubin breaks down the spectacular $264 million worldwide opening for Universal Pictures’ “The Odyssey.” It couldn’t have come at a better time for Imax, the large-format exhibitor that delivered more than 50% of the opening weekend receipts. Anticipation for Nolan’s follow-up […]",
+        "url": "https://variety.com/2026/film/news/box-office-odyssey-christopher-nolan-daily-variety-podcast-1236816924/",
+        "published": "2026-07-20T22:27:36.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Christopher Nolan’s ‘The Odyssey’ Movie Is Making Gen Z Listen to the Book (EXCLUSIVE)",
+        "text": "Christopher Nolan’s film adaptation of “The Odyssey” is a bona fide cultural phenomenon (sorry, trolls!), shattering box office projections with a $264.1 million worldwide gross its opening weekend, earning rave reviews from critics, unleashing a tidal wave of Oscar buzz and causing such a frenzy for Imax 70mm tickets that moviegoers have gone as far […]",
+        "url": "https://variety.com/2026/film/news/the-odyssey-christopher-nolan-movie-book-spotify-streams-gen-z-homer-1236817374/",
+        "published": "2026-07-21T17:55:25.000Z"
       }
     ]
   },
@@ -2713,25 +3532,6 @@
     ]
   },
   {
-    "id": "story_3fd48a",
-    "title": "Lindsay Clancy Murder Trial: Everything We Know About the Mom Accused of Killing Her 3 Children",
-    "source_count": 1,
-    "domains": [
-      "rollingstone.com"
-    ],
-    "first_seen": "2026-07-20T19:18:15.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Rolling Stone",
-        "title": "Lindsay Clancy Murder Trial: Everything We Know About the Mom Accused of Killing Her 3 Children",
-        "text": "The trial is expected to determine whether Clancy was legally responsible for her actions after allegedly suffering postpartum psychosis",
-        "url": "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-murder-trial-everything-we-know-1235596090/",
-        "published": "2026-07-20T19:18:15.000Z"
-      }
-    ]
-  },
-  {
     "id": "story_11c47b",
     "title": "‘Never Stop Saying His Name’: Nolan Wells’ Grieving Parents Speak At His Funeral",
     "source_count": 1,
@@ -2887,6 +3687,13 @@
         "text": "From Manolo Escobar's classic \"Y Viva España\" to Aitana's \"Superestrella,\" check out the celebratory playlist below.",
         "url": "https://www.billboard.com/music/latin/fifa-world-cup-2026-spain-playlist-songs-1236298229/",
         "published": "2026-07-20T18:31:34.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Here’s Why Rosalía Is Apologizing to Argentine Fans Following Spain’s World Cup Victory",
+        "text": "\"I only have love for Argentina,\" the Spanish singer said.",
+        "url": "https://www.billboard.com/music/latin/rosalia-apologizes-argentine-fans-spain-world-cup-win-1236300678/",
+        "published": "2026-07-22T17:19:54.000Z"
       }
     ]
   },
@@ -2989,6 +3796,13 @@
         "text": "“Stuart Fails to Save the Universe” takes place in a comic book shop, so it’s only natural that the new HBO Max series would get its own, actual comic book. As “The Big Bang Theory” spinoff hits San Diego Comic-Con this week, the comic book — featuring cover art by DC Comics president, publisher and […]",
         "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-comic-book-comic-con-1236816349/",
         "published": "2026-07-20T18:00:00.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "‘Big Bang Theory’ Spinoff ‘Stuart Fails to Save the Universe’ Is a Playful, Creative Romp: TV Review",
+        "text": "In a sea of perfunctory prequels and sequels, you have to hand it to a spinoff that actually comes up with a creative angle. Such is the case with “Stuart Fails to Save the Universe,” the third offshoot of “The Big Bang Theory,” which forms a useful contrast with its predecessors. The straightforwardly titled “Young […]",
+        "url": "https://variety.com/2026/tv/reviews/stuart-fails-to-save-the-universe-review-big-bang-spinoff-1236816914/",
+        "published": "2026-07-22T16:00:00.000Z"
       }
     ]
   },
@@ -3084,609 +3898,6 @@
         "text": "BBC Verify examines viral claims the new film will be distorted if not seen on a dedicated screen",
         "url": "https://www.bbc.co.uk/news/videos/c8xne47w4v4o?at_medium=RSS&at_campaign=rss",
         "published": "2026-07-20T17:24:44.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_38686a",
-    "title": "‘My Life With the Walter Boys’ Season 3: Everything We Know So Far",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T17:10:19.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "‘My Life With the Walter Boys’ Season 3: Everything We Know So Far",
-        "text": "My Life With the Walter Boys received an early Season 3 renewal ahead of the launch of its sophomore season on Netflix. Based on Ali Novak’s book of the same name, the show follows found family themes as well as a love triangle between Jackie Howard (Nikki Rodriguez) and two brothers. Set in Silver Falls, […]",
-        "url": "https://deadline.com/feature/my-life-with-the-walter-boys-season-3-news-1236507779/",
-        "published": "2026-07-20T17:10:19.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far",
-        "text": "Another season of Disney’s television series adaptation of Rick Riordan’s Percy Jackson and the Olympians has come and gone, but Season 3 is close at hand. The series received a very early Season 3 renewal in March 2025, and some very key players have been cast for the third installment. Read on for more details […]",
-        "url": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797/",
-        "published": "2026-07-20T19:25:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_6b5a1c",
-    "title": "10-Year-Old Theo Leber Lands Lead Role Opposite Dwayne Johnson In Benny Safdie’s ‘Lizard Music’ For Amazon MGM & United Artists",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T16:30:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "10-Year-Old Theo Leber Lands Lead Role Opposite Dwayne Johnson In Benny Safdie’s ‘Lizard Music’ For Amazon MGM & United Artists",
-        "text": "EXCLUSIVE: Chicago-area 4th grader Theo Leber has landed a starring role opposite Dwayne Johnson in Lizard Music, Benny Safdie’s adaptation of the 1976 novel by Daniel Pinkwater for Amazon MGM Studios and United Artists. The 10-year-old comes to the potentially career-making opportunity following a months-long casting process. Lizard Music marks his feature debut. A live-action/CGI hybrid, Safdie’s […]",
-        "url": "https://deadline.com/2026/07/lizard-music-theo-leber-joins-dwayne-johnson-movie-1236997691/",
-        "published": "2026-07-20T16:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_13f89e",
-    "title": "Toni Collette & Karren Karagulian Among New Additions To Netflix’s Italian-Set Romantic Caper ‘Positano’ From Daniel Roher",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T16:30:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "Toni Collette & Karren Karagulian Among New Additions To Netflix’s Italian-Set Romantic Caper ‘Positano’ From Daniel Roher",
-        "text": "EXCLUSIVE: Daniel Roher, the Academy Award-winning director behind recent titles Tuner and The AI Doc, has added five to the cast of his new Netflix movie, Positano: Toni Collette (Hereditary), Karren Karagulian (Anora), Salvatore Esposito (Gomorrah), Michele Savoia (Ferrari) and Lorenzo de Moor (You, Me & Tuscany). Starring Matthew McConaughey and Zoe Saldaña, Positano follows a charming jewel thief who gives up […]",
-        "url": "https://deadline.com/2026/07/positano-movie-casts-toni-collette-karren-karagulian-1236997694/",
-        "published": "2026-07-20T16:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_5f7890",
-    "title": "Horror-Comedy ‘Bad Karaoke’ Debuts Trailer Ahead of Tubi FrightFest Premiere (EXCLUSIVE)",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T16:15:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Horror-Comedy ‘Bad Karaoke’ Debuts Trailer Ahead of Tubi FrightFest Premiere (EXCLUSIVE)",
-        "text": "Horror fans better get ready to stay on pitch … or else! “Bad Karaoke,” a new comedy-horror from directors Chris Lightbody and Robert J. Steinmiller Jr., is set to have its world premiere at Tubi FrightFest, the London-based genre film festival, on Aug. 30 at the ODEON Luxe West End. Lightbody co-wrote the script alongside […]",
-        "url": "https://variety.com/2026/film/news/bad-karaoke-trailer-horror-comedy-movie-terrible-singers-1236814775/",
-        "published": "2026-07-20T16:15:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_6edd5a",
-    "title": "Nicki Minaj Wants Out of Lawsuit Over Alleged $275K Concert Debt: ‘Fanciful & Baseless’",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T16:14:22.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Nicki Minaj Wants Out of Lawsuit Over Alleged $275K Concert Debt: ‘Fanciful & Baseless’",
-        "text": "A concert production company says Minaj is refusing to pay back a big bill, but she now says she shouldn't have been named in the case at all.",
-        "url": "https://www.billboard.com/pro/nicki-minaj-wants-out-of-lawsuit-alleged-275k-concert-debt/",
-        "published": "2026-07-20T16:14:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_150ebc",
-    "title": "Documentary about BLACKPINK’s LISA, ‘Always Lalisa,’ to World Premiere at 2026 Toronto International Film Festival",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T16:10:33.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Documentary about BLACKPINK’s LISA, ‘Always Lalisa,’ to World Premiere at 2026 Toronto International Film Festival",
-        "text": "The movie looks at the singer's massive breakout year, which included the 2026 FIFA World Cup opening ceremony and 2025 Coachella.",
-        "url": "https://www.billboard.com/music/pop/doc-blackpink-lisa-always-lalisa-world-premiere-toronto-fest-1236298190/",
-        "published": "2026-07-20T16:10:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_7057d3",
-    "title": "‘Avatar Aang: The Last Airbender’ Review: Dazzling Visuals Compete With Lackluster Storytelling in Film Sequel to Hit Animated Series",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T16:04:19.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "‘Avatar Aang: The Last Airbender’ Review: Dazzling Visuals Compete With Lackluster Storytelling in Film Sequel to Hit Animated Series",
-        "text": "This latest incarnation of the franchise features returning voices like Eric Nam and Steven Yeun, in addition to Dave Bautista, Taika Waititi, Geraldine Viswanathan and Ke Huy Quan.",
-        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/avatar-aang-the-last-airbender-review-1236651085/",
-        "published": "2026-07-20T16:04:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_79e468",
-    "title": "John Coltrane’s Centennial: How Artists From Ariana Grande to Beastie Boys Have Been Inspired by the Jazz Pioneer",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T16:04:08.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "John Coltrane’s Centennial: How Artists From Ariana Grande to Beastie Boys Have Been Inspired by the Jazz Pioneer",
-        "text": "Verve Label Group president/CEO Jamie Krents on discovering new recordings and new audiences to celebrate the late legend at 100 years.",
-        "url": "https://www.billboard.com/pro/john-coltrane-100-birthday-verve-label-group-jamie-krents/",
-        "published": "2026-07-20T16:04:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_48c3b3",
-    "title": "Noah Kahan Gives Impassioned Apology to Fans Affected by Canceled Show: ‘I Don’t Expect Any Sympathy’",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T16:03:32.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Noah Kahan Gives Impassioned Apology to Fans Affected by Canceled Show: ‘I Don’t Expect Any Sympathy’",
-        "text": "\"I promise you we did everything we could,\" the singer said on stage in New York City.",
-        "url": "https://www.billboard.com/music/music-news/noah-kahan-apologizes-canceled-show-1236298174/",
-        "published": "2026-07-20T16:03:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_3904d0",
-    "title": "‘LineOut’ Director Nazila Azizi On Using Magical Realism To Capture Afghan Refugee Experience",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T16:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "‘LineOut’ Director Nazila Azizi On Using Magical Realism To Capture Afghan Refugee Experience",
-        "text": "Only a few years ago, Nazila Azizi was dodging bullets fired by the Taliban and trying to climb aboard one of the last evacuation flights out of Kabul. Today, the Afghan native is an architect and filmmaker, with a documentary in contention for Academy Award recognition. LineOut, now on an Oscar qualifying run in Los […]",
-        "url": "https://deadline.com/2026/07/lineout-director-nazila-azizi-interview-1236998201/",
-        "published": "2026-07-20T16:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_3e9bcb",
-    "title": "Bill Nighy, Gemma Arterton, Nell Tiger Free Set for PBS, BBC Adaptation of ‘The Portrait of a Lady’",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T15:48:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Bill Nighy, Gemma Arterton, Nell Tiger Free Set for PBS, BBC Adaptation of ‘The Portrait of a Lady’",
-        "text": "Jim Sturgess, Miranda Richardson, Hugh Skinner and Dean-Charles Chapman will also star in the six-part adaptation of Henry James' novel.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-nighy-nell-tiger-free-portrait-of-a-lady-pbs-bbc-1236652160/",
-        "published": "2026-07-20T15:48:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_3216ed",
-    "title": "Andy Burnham is the U.K.’s New Prime Minister — Here’s What the Music Industry Needs From Him",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T15:46:26.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Andy Burnham is the U.K.’s New Prime Minister — Here’s What the Music Industry Needs From Him",
-        "text": "Burnham is a fan of The Smiths and Oasis. Industry execs hope that his genuine love of music translates to forward-thinking policies.",
-        "url": "https://www.billboard.com/pro/andy-burnham-united-kingdom-prime-minister-uk-music-industry-react/",
-        "published": "2026-07-20T15:46:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_271fcb",
-    "title": "Eric McCormack to Guest Star in OUTtv’s ‘The Dressing Room’ Season 2 (Exclusive)",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T15:42:40.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Eric McCormack to Guest Star in OUTtv’s ‘The Dressing Room’ Season 2 (Exclusive)",
-        "text": "'Kim’s Convenience' star Andrea Bang and rock group Marianas Trench frontman Josh Ramsay also join the workplace comedy set around live theater backstage madness and heart in guest roles.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/eric-mccormack-dressing-room-season-2-1236652167/",
-        "published": "2026-07-20T15:42:40.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_694149",
-    "title": "Deon Taylor to Direct Biopic on Streetball Star Grayson ‘The Professor’ Boucher for Hidden Empire Sports (EXCLUSIVE)",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T15:30:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Deon Taylor to Direct Biopic on Streetball Star Grayson ‘The Professor’ Boucher for Hidden Empire Sports (EXCLUSIVE)",
-        "text": "Streetball star Grayson “The Professor” Boucher’s story is getting the feature film treatment. Hidden Empire Film Group and its sports division, Hidden Empire Sports Collective, will produce the movie, directed by award-winning filmmaker Deon Taylor (“Traffik,” “Black and Blue,” “The Intruder”). Taylor, also Hidden Empire’s co-CEO, will produce the film alongside Hidden Empire’s Roxanne Avent […]",
-        "url": "https://variety.com/2026/film/news/deon-taylor-grayson-the-professor-boucher-biopic-1236815146/",
-        "published": "2026-07-20T15:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_3455df",
-    "title": "Kid Cudi Reveals He and Ye Are Rebuilding Their Friendship & Sees Them Collaborating in the Future: ‘One Day Soon For Sure’",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T15:29:53.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Kid Cudi Reveals He and Ye Are Rebuilding Their Friendship & Sees Them Collaborating in the Future: ‘One Day Soon For Sure’",
-        "text": "Cudi appeared to extend an olive branch to West when shouting him out on stage while on tour.",
-        "url": "https://www.billboard.com/music/rb-hip-hop/kid-cudi-kanye-west-rebuilding-friendship-1236298145/",
-        "published": "2026-07-20T15:29:53.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_1a20a8",
-    "title": "Billboard’s 2026 Top Music Lawyers Revealed",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T15:27:47.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Billboard’s 2026 Top Music Lawyers Revealed",
-        "text": "The savviest legal minds in the business are advising superstars, guiding executives, buying catalogs — and watching over their shoulders as AI rises.",
-        "url": "https://www.billboard.com/pro/top-music-lawyers-2026-billboard-list/",
-        "published": "2026-07-20T15:27:47.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_2d27b7",
-    "title": "Merger Mania Is Reshaping the Music Industry With These Law Firms Leading Negotiations",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T15:27:15.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Merger Mania Is Reshaping the Music Industry With These Law Firms Leading Negotiations",
-        "text": "As major players in the business realign under complex deals, top law firms are at the forefront of the negotiations.",
-        "url": "https://www.billboard.com/pro/law-firms-music-industry-mergers-negotiations/",
-        "published": "2026-07-20T15:27:15.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Billboard’s Music Industry Events Calendar",
-        "text": "A complete rundown of the most important events across the music business.",
-        "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-        "published": "2026-07-21T17:02:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_15ce29",
-    "title": "AMC Entertainment Shares Surge On Upbeat Q2 Report, Windfall From ‘The Odyssey’",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T15:26:28.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "AMC Entertainment Shares Surge On Upbeat Q2 Report, Windfall From ‘The Odyssey’",
-        "text": "The world’s biggest theater chain AMC Entertainment saw its shares surge as it posted the highest quarterly revenue in its 106-year history for the three months ended in June and just cleaned up this weekend with the massive opening of Christopher Nolan’s The Odyssey. Revenue rose 14% from 2025 second quarter to near $1.6 billion […]",
-        "url": "https://deadline.com/2026/07/amc-entertainment-earnings-shares-surge-the-odyssey-1236998335/",
-        "published": "2026-07-20T15:26:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_6be03c",
-    "title": "Bong Joon Ho’s First Animated Feature ‘Ally,’ With a Voice Cast Including Bradley Cooper and Ayo Edebiri, Sell Globally for Pathé (EXCLUSIVE)",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T15:15:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Bong Joon Ho’s First Animated Feature ‘Ally,’ With a Voice Cast Including Bradley Cooper and Ayo Edebiri, Sell Globally for Pathé (EXCLUSIVE)",
-        "text": "Bong Joon-Ho’s first animated feature has proved a hit with international buyers, securing multiple deals for Pathé. “Ally,” which launched at the Marche du Film, had already been acquired by Neon for the U.S. prior to Cannes, reuniting the Oscar-winning director with the distributor following their hugely successful collaboration on “Parasite,” which won the Palme […]",
-        "url": "https://variety.com/2026/film/global/bong-joon-ho-animated-feature-ally-sells-globally-pathe-1236814713/",
-        "published": "2026-07-20T15:15:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_41e155",
-    "title": "‘The Odyssey’ Opening Weekend Beats ‘Star Wars: The Last Jedi’ to Break BFI Imax Records in U.K.",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T15:13:08.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "‘The Odyssey’ Opening Weekend Beats ‘Star Wars: The Last Jedi’ to Break BFI Imax Records in U.K.",
-        "text": "Odysseus has stolen Luke Skywalker’s crown. Christopher Nolan’s big-screen epic “The Odyssey” has beaten “Star Wars: The Last Jedi” to take first place as the highest-ever three-day gross at the BFI Imax theater in central London, clocking in at £219,867 ($300,000). The BFI Imax holds only one screen, which at 20 metres (65 feet) tall […]",
-        "url": "https://variety.com/2026/film/global/the-odyssey-opening-weekend-bfi-imax-1236816567/",
-        "published": "2026-07-20T15:13:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_59387a",
-    "title": "Ariana Grande’s ‘Thank U, Next’ Lyric Changes Underscore Eternal Sunshine Tour’s Celebration of Real-Time Healing: Show Review",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T15:11:43.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Ariana Grande’s ‘Thank U, Next’ Lyric Changes Underscore Eternal Sunshine Tour’s Celebration of Real-Time Healing: Show Review",
-        "text": "Ariana Grande's five-night run at Brooklyn's Barclays Center was a pitch-perfect fusion of music, live theater and film.",
-        "url": "https://www.billboard.com/music/features/ariana-grande-eternal-sunshine-tour-new-york-thank-u-next-1236297982/",
-        "published": "2026-07-20T15:11:43.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_832e41",
-    "title": "UTA Moving New York Office to the Empire State Building Next Year",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T15:05:26.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "UTA Moving New York Office to the Empire State Building Next Year",
-        "text": "The talent agency will occupy over 100,000 square feet across four floors of the iconic New York City landmark.",
-        "url": "https://www.hollywoodreporter.com/business/business-news/uta-moving-new-york-office-empire-state-building-1236652170/",
-        "published": "2026-07-20T15:05:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_499e32",
-    "title": "‘The Earliest Show’ Revival Greenlit At Amplify Pictures & Stay Tuned With Kevin Carroll, Henry Winkler, Ryan Gaul & Brandon Scott Jones Joining Cast",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T15:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "‘The Earliest Show’ Revival Greenlit At Amplify Pictures & Stay Tuned With Kevin Carroll, Henry Winkler, Ryan Gaul & Brandon Scott Jones Joining Cast",
-        "text": "EXCLUSIVE: Amplify Pictures’ TV series revival of Ben Schwartz’s Funny or Die comedy The Earliest Show has been officially greenlit, with the cast now rounded out. Kevin Carroll (Widow’s Bay) and Ryan Gaul (The Last O.G.) are joining Schwartz and Lauren Lapkus as series regulars, Henry Winkler (Barry) and Brandon Scott Jones taking recurring roles. […]",
-        "url": "https://deadline.com/2026/07/earliest-show-greenlit-kevin-carroll-henry-more-cast-1236996687/",
-        "published": "2026-07-20T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_60af84",
-    "title": "Kelsey Cook Sets Netflix Stand-Up Special ‘Happy Hour’",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T15:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "Kelsey Cook Sets Netflix Stand-Up Special ‘Happy Hour’",
-        "text": "EXCLUSIVE: Comedian Kelsey Cook is set to unveil her debut Netflix special, Happy Hour, on Tuesday, August 18. In the special, following up last year’s Mark Your Territory and 2023’s The Hustler, Cook explores “hangxiety,” relives a plane bathroom nightmare, and breaks down dating a literal Chad. She filmed it at the Fitzgerald Theater in St. Paul, Minnesota with Eric […]",
-        "url": "https://deadline.com/2026/07/kelsey-cook-netflix-special-happy-hour-premiere-date-1236997042/",
-        "published": "2026-07-20T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_1a6aa4",
-    "title": "Just For Laughs Sets 2026 New Faces Lineup",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T15:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "Just For Laughs Sets 2026 New Faces Lineup",
-        "text": "EXCLUSIVE: Just for Laughs has made its New Faces selections for 2026, with 47 comedic artists in this year’s class, between the stand-ups, characters, creators and writers programs. On the Stand-Ups list are two comics highlighted recently by Deadline: Englishman Red Richardson, who made our list of the Comics to Keep an Eye on in 2026, […]",
-        "url": "https://deadline.com/2026/07/jfl-new-faces-2026-unveiled-1236998392/",
-        "published": "2026-07-20T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_142ecc",
-    "title": "Toronto-Bound ‘Onwards and Sideways,’ With Laura Linney and Rhys Ifans as People Being Diagnosed With Parkinson’s, Gets New Images (Exclusive)",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T14:05:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Toronto-Bound ‘Onwards and Sideways,’ With Laura Linney and Rhys Ifans as People Being Diagnosed With Parkinson’s, Gets New Images (Exclusive)",
-        "text": "Directed by John Madden ('Shakespeare in Love') based on a script by Paul Mayhew-Archer, the \"emotional and surprisingly funny\" film also features Monica Dolan and Rory Kinnear.",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/onwards-and-sideways-film-images-laura-linney-rhys-ifans-1236651002/",
-        "published": "2026-07-20T14:05:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_15bbb3",
-    "title": "Ofcom launches investigation into Married at First Sight UK",
-    "source_count": 1,
-    "domains": [
-      "bbc.co.uk"
-    ],
-    "first_seen": "2026-07-20T13:42:04.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "BBC Entertainment",
-        "title": "Ofcom launches investigation into Married at First Sight UK",
-        "text": "In May, BBC Panorama revealed rape allegations from two women on the show, which the men involved deny.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T13:42:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_2ac396",
-    "title": "Liam Gallagher Says There Won’t Be a New Oasis Album Because He’s Not Up For the Criticism If It ‘Doesn’t Sell 100 Million Copies in the 1st Hour’",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T12:32:49.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Liam Gallagher Says There Won’t Be a New Oasis Album Because He’s Not Up For the Criticism If It ‘Doesn’t Sell 100 Million Copies in the 1st Hour’",
-        "text": "But the band's singer seemed to all but confirm that there might be more reunion shows in 2027.",
-        "url": "https://www.billboard.com/music/rock/liam-gallagher-no-new-oasis-album-teases-2027-shows-1236298125/",
-        "published": "2026-07-20T12:32:49.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_37b94e",
-    "title": "Former World's Strongest Man to become a Gladiator",
-    "source_count": 1,
-    "domains": [
-      "bbc.co.uk"
-    ],
-    "first_seen": "2026-07-20T11:22:28.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "BBC Entertainment",
-        "title": "Former World's Strongest Man to become a Gladiator",
-        "text": "Tom Stoltman, a 32-year-old, 6ft 8in athlete from the Highlands, will join the cast of the BBC Saturday night primetime show for the fourth series.",
-        "url": "https://www.bbc.co.uk/news/articles/c330e0jg6vlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T11:22:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_20a9fa",
-    "title": "Tributes paid to influential soul singer Ray King",
-    "source_count": 1,
-    "domains": [
-      "bbc.co.uk"
-    ],
-    "first_seen": "2026-07-20T10:32:54.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "BBC Entertainment",
-        "title": "Tributes paid to influential soul singer Ray King",
-        "text": "King is remembered as a \"Coventry musician who did so much and cared so much about his home city\".",
-        "url": "https://www.bbc.co.uk/news/articles/cg7mg4ev8vko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T10:32:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_2212c6",
-    "title": "Maternity scandal to be dramatised in new series",
-    "source_count": 1,
-    "domains": [
-      "bbc.co.uk"
-    ],
-    "first_seen": "2026-07-20T05:09:05.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "BBC Entertainment",
-        "title": "Maternity scandal to be dramatised in new series",
-        "text": "The drama will centre on Sarah and Jack Hawkins, who were among the first people to raise the alarm.",
-        "url": "https://www.bbc.co.uk/news/articles/cj9djljr43lo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T05:09:05.000Z"
       }
     ]
   }

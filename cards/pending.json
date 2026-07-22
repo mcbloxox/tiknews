@@ -1,93 +1,73 @@
 [
   {
-    "story_id": "story_4ff87e",
+    "story_id": "story_3e18b0",
     "skip": false,
-    "category": "release",
-    "subject": "Christopher Nolan",
+    "category": "sensitive",
+    "subject": "Peter Lassally",
     "subject_2": null,
-    "headline": "nolan's odyssey has gen z listening to homer",
-    "body": "the universal pictures release is already breaking box office records worldwide.",
-    "slide2": "$264 million worldwide, raves from critics, and early oscar buzz — the phenomenon now has gen z turning to homer's original text too.",
+    "headline": "peter lassally, late-night producer, dies at 93",
+    "body": "he produced the tonight show for johnny carson and the late show for david letterman, then the late late show with craig ferguson.",
+    "slide2": "he got his start with arthur godfrey, spent 23 years on the tonight show, and helped engineer letterman's move to cbs. he had retired at 82.",
     "quote": null,
     "quote_attrib": null,
     "tags": [
-      "christophernolan",
-      "theodyssey",
-      "boxoffice",
-      "oscarbuzz",
-      "homer"
+      "peterlassally",
+      "johnnycarson",
+      "davidletterman",
+      "latenight"
     ],
-    "source": "Deadline, The Hollywood Reporter, Variety",
+    "source": "Deadline, Variety, The Hollywood Reporter",
     "posted_at_label": "20 jul",
-    "image": "file:///C:/dev/tiknews/images/story_4ff87e-a.jpg",
-    "image_credit": "PhilipRomano / CC BY-SA 4.0"
+    "image": "file:///C:/dev/tiknews/images/story_3e18b0-a.jpg",
+    "image_credit": "The Peabody Awards / CC BY 2.0"
   },
   {
-    "story_id": "story_31a4aa",
-    "skip": false,
-    "category": "music",
-    "subject": "Justin Bieber",
-    "subject_2": null,
-    "headline": "bieber's weird world cup song spiked 240%",
-    "body": "he shared the world cup halftime stage with a few other pretty big names.",
-    "slide2": "shakira, madonna, bts, robbie williams and jennifer hudson also performed, with kylie jenner and timothée chalamet watching from the crowd.",
-    "quote": null,
-    "quote_attrib": null,
-    "tags": [
-      "justinbieber",
-      "worldcup",
-      "halftimeshow",
-      "shakira",
-      "madonna"
-    ],
-    "source": "BBC, Rolling Stone, Billboard",
-    "posted_at_label": "19 jul",
-    "image": "file:///C:/dev/tiknews/images/story_31a4aa-a.jpg",
-    "image_credit": "Lou Stejskal / CC BY 2.0"
-  },
-  {
-    "story_id": "story_522200",
+    "story_id": "story_168e7e",
     "skip": false,
     "category": "casting",
-    "subject": "Chloe Fineman",
-    "subject_2": "Jabari Banks",
-    "headline": "chloe fineman found her next job days after leaving snl",
-    "body": "she's joining a new netflix drama in a series regular role.",
-    "slide2": "she'll star opposite jabari banks — his first major role since bel-air — in netflix's myron bolitar, alongside jamie mcshane and ben mckenzie.",
+    "subject": "Kenneth Branagh",
+    "subject_2": null,
+    "headline": "kenneth branagh is going up against a billionaire",
+    "body": "paramount+ ordered the scottish highland drama laird with him as the lead landowner.",
+    "slide2": "it's from jez butterworth (mobland, the agency) and his brother john-henry, branagh's laird fights to keep a billionaire from buying up the glens.",
     "quote": null,
     "quote_attrib": null,
     "tags": [
-      "chloefineman",
-      "snl",
-      "netflix",
-      "myronbolitar",
-      "jabaribanks"
+      "kennethbranagh",
+      "laird",
+      "paramountplus",
+      "jezbutterworth"
     ],
-    "source": "Deadline, Variety",
-    "posted_at_label": "20 jul",
-    "image_2": "file:///C:/dev/tiknews/images/story_522200-b.png",
-    "image_credit": "Wikiworm1124 / CC0"
+    "source": "Deadline, The Hollywood Reporter, Variety",
+    "posted_at_label": "22 jul",
+    "image": "file:///C:/dev/tiknews/images/story_168e7e-a.jpg",
+    "image_credit": "Dublin International Film Festival / CC BY 3.0"
   },
   {
-    "story_id": "story_7647d5",
+    "story_id": "story_37be53",
+    "skip": true,
+    "reason": "already covered by an earlier card (justin bieber's world cup streaming bump)"
+  },
+  {
+    "story_id": "story_5fa9f9",
     "skip": false,
-    "category": "project",
-    "subject": "Ryan Reynolds",
+    "category": "other",
+    "subject": "Ed Harris",
     "subject_2": null,
-    "headline": "ryan reynolds confirms a new deadpool movie is coming",
-    "body": "it follows 2024's record-breaking deadpool & wolverine.",
-    "slide2": "he made the announcement at fanatics fest 2026. the film is in early development with no writer or director attached yet.",
-    "quote": null,
-    "quote_attrib": null,
+    "headline": "ed harris felt misled about his 'dutton ranch' role",
+    "body": "he told variety he thought the part in the 'yellowstone' spinoff would matter more than it did.",
+    "slide2": "\"get me the f— out of here,\" he told his team halfway through filming season 1.",
+    "quote": "get me the f— out of here",
+    "quote_attrib": "Ed Harris",
     "tags": [
-      "ryanreynolds",
-      "deadpool",
-      "marvel",
-      "fanaticsfest"
+      "edharris",
+      "duttonranch",
+      "yellowstone",
+      "paramount"
     ],
-    "source": "The Hollywood Reporter, Deadline",
-    "posted_at_label": "20 jul",
-    "image": "file:///C:/dev/tiknews/images/story_7647d5-a.jpg",
-    "image_credit": "Dick Thomas Johnson from Tokyo, Japan / CC BY 2.0"
+    "source": "Variety, The Hollywood Reporter",
+    "posted_at_label": "21 jul",
+    "image": "file:///C:/dev/tiknews/images/story_5fa9f9-a.jpg",
+    "image_credit": "Gage Skidmore / CC BY-SA 3.0"
   }
 ]
