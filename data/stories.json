@@ -47,50 +47,50 @@
     }
   },
   {
-    "id": "story_168e7e",
-    "title": "Kenneth Branagh Stars In Scottish Highland Drama ‘Laird’ Ordered By Paramount+ From Jez Butterworth & 101 Studios",
+    "id": "story_bfeace",
+    "title": "City celebrates Ozzy Day on anniversary of death",
     "source_count": 3,
     "domains": [
-      "deadline.com",
-      "hollywoodreporter.com",
-      "variety.com"
+      "bbc.co.uk",
+      "billboard.com",
+      "rollingstone.com"
     ],
-    "first_seen": "2026-07-22T16:30:00.000Z",
+    "first_seen": "2026-07-22T15:21:27.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "Deadline",
-        "title": "Kenneth Branagh Stars In Scottish Highland Drama ‘Laird’ Ordered By Paramount+ From Jez Butterworth & 101 Studios",
-        "text": "Paramount+ has greenlighted a third series from Jez Butterworth and 101 Studios, the team behind the streamer’s MobLand and The Agency. Titled Laird, it stars Kenneth Branagh (Mayday, Oppenheimer), who also executive produces. Laird was created by Butterworth and his brother, fellow writer John-Henry Butterworth, who co-created together The Agency, as well as Partner Track […]",
-        "url": "https://deadline.com/2026/07/kenneth-branagh-drama-laird-paramount-plus-jez-butterworth-1236998943/",
-        "published": "2026-07-22T16:30:00.000Z"
+        "source": "BBC Entertainment",
+        "title": "City celebrates Ozzy Day on anniversary of death",
+        "text": "Pop-up performances from a brass band and an orchestra are part of the celebrations of Osbourne.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjp5y9qq3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-22T15:21:27.000Z"
       },
       {
-        "source": "The Hollywood Reporter",
-        "title": "Paramount+ Orders Scottish Highland Family Saga ‘Laird’ With Kenneth Branagh",
-        "text": "The story follows a landowner, the Laird of Castle Drummoch, who challenges an American billionaire with ambitions to buy up the glens.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-scottish-highland-saga-laird-kenneth-branagh-1236653912/",
-        "published": "2026-07-22T16:30:00.000Z"
+        "source": "Billboard",
+        "title": "Kelly Osbourne Pens Devastating Letter to Ozzy Osbourne 1 Year After His Death: ‘Your Voice Still Guides Me’",
+        "text": "\"I feel you in the quiet, in the wind, in every song that stops me in my tracks,\" she wrote.",
+        "url": "https://www.billboard.com/music/music-news/kelly-osbourne-letter-ozzy-osbourne-year-after-his-death-1236300580/",
+        "published": "2026-07-22T15:28:51.000Z"
       },
       {
-        "source": "Variety",
-        "title": "Kenneth Branagh to Star in Paramount+ Drama ‘Laird’ Set in Scottish Highlands",
-        "text": "Paramount+ has picked up the drama series “Laird” with Kenneth Branagh attached in the lead role. The series hails from Jez Butterworth and John-Henry Butterworth, the co-creators of fellow Paramount+ series “The Agency.” Jez is also the co-creator and showrunner of Paramount+’s “Mobland.” Georgia Lee is also a co-creator on the show. The logline for […]",
-        "url": "https://variety.com/2026/tv/news/kenneth-branagh-paramount-series-laird-scottish-highlands-1236818249/",
-        "published": "2026-07-22T16:44:26.000Z"
+        "source": "Rolling Stone",
+        "title": "Black Sabbath Bandmates Remember Ozzy Osbourne on Death Anniversary: ‘His Legend Lives On’",
+        "text": "Surviving members Bill Ward, Geezer Butler, and Tony Iommi each pay tribute to their late singer",
+        "url": "https://www.rollingstone.com/music/music-news/black-sabbath-tribute-ozzy-osbourne-one-year-after-death-1235597160/",
+        "published": "2026-07-22T18:33:17.000Z"
       }
     ],
-    "likely_subject": "Kenneth Branagh",
-    "score": 0.512,
+    "likely_subject": "Ozzy Osbourne",
+    "score": 0.646,
     "score_parts": {
-      "fame": 0.78,
-      "heat": 0.16,
-      "baseline_views": 4701,
-      "latest_views": 7017,
-      "spike": 1.5,
-      "change": 0.2,
+      "fame": 0.81,
+      "heat": 0.05,
+      "baseline_views": 6513,
+      "latest_views": 7413,
+      "spike": 1.1,
+      "change": 1,
       "spread": 0.67,
-      "fresh": 0.98
+      "fresh": 0.89
     }
   },
   {
@@ -133,6 +133,53 @@
     }
   },
   {
+    "id": "story_168e7e",
+    "title": "Kenneth Branagh Stars In Scottish Highland Drama ‘Laird’ Ordered By Paramount+ From Jez Butterworth & 101 Studios",
+    "source_count": 3,
+    "domains": [
+      "deadline.com",
+      "hollywoodreporter.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T16:30:00.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Kenneth Branagh Stars In Scottish Highland Drama ‘Laird’ Ordered By Paramount+ From Jez Butterworth & 101 Studios",
+        "text": "Paramount+ has greenlighted a third series from Jez Butterworth and 101 Studios, the team behind the streamer’s MobLand and The Agency. Titled Laird, it stars Kenneth Branagh (Mayday, Oppenheimer), who also executive produces. Laird was created by Butterworth and his brother, fellow writer John-Henry Butterworth, who co-created together The Agency, as well as Partner Track […]",
+        "url": "https://deadline.com/2026/07/kenneth-branagh-drama-laird-paramount-plus-jez-butterworth-1236998943/",
+        "published": "2026-07-22T16:30:00.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Paramount+ Orders Scottish Highland Family Saga ‘Laird’ With Kenneth Branagh",
+        "text": "The story follows a landowner, the Laird of Castle Drummoch, who challenges an American billionaire with ambitions to buy up the glens.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-scottish-highland-saga-laird-kenneth-branagh-1236653912/",
+        "published": "2026-07-22T16:30:00.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Kenneth Branagh to Star in Paramount+ Drama ‘Laird’ Set in Scottish Highlands",
+        "text": "Paramount+ has picked up the drama series “Laird” with Kenneth Branagh attached in the lead role. The series hails from Jez Butterworth and John-Henry Butterworth, the co-creators of fellow Paramount+ series “The Agency.” Jez is also the co-creator and showrunner of Paramount+’s “Mobland.” Georgia Lee is also a co-creator on the show. The logline for […]",
+        "url": "https://variety.com/2026/tv/news/kenneth-branagh-paramount-series-laird-scottish-highlands-1236818249/",
+        "published": "2026-07-22T16:44:26.000Z"
+      }
+    ],
+    "likely_subject": "Kenneth Branagh",
+    "score": 0.507,
+    "score_parts": {
+      "fame": 0.78,
+      "heat": 0.16,
+      "baseline_views": 4701,
+      "latest_views": 7017,
+      "spike": 1.5,
+      "change": 0.2,
+      "spread": 0.67,
+      "fresh": 0.92
+    }
+  },
+  {
     "id": "story_37be53",
     "title": "Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup",
     "source_count": 2,
@@ -167,45 +214,6 @@
       "latest_views": 26363,
       "spike": 4.1,
       "change": 0.35,
-      "spread": 0.33,
-      "fresh": 0
-    }
-  },
-  {
-    "id": "story_522200",
-    "title": "Chloe Fineman Joins Netflix’s ‘Myron Bolitar’ Following ‘SNL’ Exit, Joined By Jabari Banks, Jamie McShane & Ben McKenzie",
-    "source_count": 2,
-    "domains": [
-      "deadline.com",
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T17:30:26.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "Chloe Fineman Joins Netflix’s ‘Myron Bolitar’ Following ‘SNL’ Exit, Joined By Jabari Banks, Jamie McShane & Ben McKenzie",
-        "text": "EXCLUSIVE: Following the announcement last week that Chloe Fineman was leaving NBC’s Saturday Night Live, she has officially set up her next role. Fineman will star opposite Jabari Banks in his first major show since the conclusion of Peacock’s Bel-Air and Jamie McShane (Task, Wednesday) in Netflix’s Myron Bolitar in series regular roles. Ben McKenzie […]",
-        "url": "https://deadline.com/2026/07/netflix-myron-bolitar-cast-chloe-fineman-jabari-banks-1236998530/",
-        "published": "2026-07-20T17:30:26.000Z"
-      },
-      {
-        "source": "Variety",
-        "title": "Chloe Fineman Among Four Cast in ‘Myron Bolitar’ Series at Netflix",
-        "text": "Chloe Fineman has already found her first post-“SNL” gig, with a series regular role in the “Myron Bolitar” series currently in the works at Netflix. Fineman is one of three actors joining the show as a series regular, alongside both Jabari Banks (“Bel Air”) and Jamie McShane (“Task,” “Wednesday”). In addition, Ben McKenzie (“Everyone is […]",
-        "url": "https://variety.com/2026/tv/news/chloe-fineman-myron-bolitar-series-netflix-1236816733/",
-        "published": "2026-07-20T17:48:09.000Z"
-      }
-    ],
-    "likely_subject": "Chloe Fineman",
-    "score": 0.501,
-    "score_parts": {
-      "fame": 0.64,
-      "heat": 0.56,
-      "baseline_views": 990,
-      "latest_views": 4072,
-      "spike": 4,
-      "change": 0.6,
       "spread": 0.33,
       "fresh": 0
     }
@@ -323,7 +331,7 @@
       }
     ],
     "likely_subject": "Olivia Rodrigo",
-    "score": 0.49,
+    "score": 0.485,
     "score_parts": {
       "fame": 0.91,
       "heat": 0,
@@ -332,46 +340,46 @@
       "spike": 0.6,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.97
+      "fresh": 0.92
     }
   },
   {
-    "id": "story_74f1d8",
-    "title": "Julie Andrews Gets Disney+ Documentary From ‘Martha’ Director R.J. Cutler",
+    "id": "story_74e38b",
+    "title": "‘Stewie’ Voice Cast Set: Kenan Thompson, Vanessa Bayer, Melissa O’Neil, Mike Henry & More Join Seth MacFarlane In ‘Family Guy’ Spinoff",
     "source_count": 2,
     "domains": [
-      "variety.com",
-      "deadline.com"
+      "deadline.com",
+      "variety.com"
     ],
-    "first_seen": "2026-07-22T16:54:28.000Z",
+    "first_seen": "2026-07-22T18:00:00.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "Variety",
-        "title": "Julie Andrews Gets Disney+ Documentary From ‘Martha’ Director R.J. Cutler",
-        "text": "Disney+ will launch a documentary about star Julie Andrews from director and producer R.J. Cutler (“Billie Eilish: The World’s A Little Blurry,” “Martha”) next year. Per the description for the project, “This definitive portrait offers an intimate and revealing look at Andrews’ extraordinary journey, from her early days in British vaudeville to her meteoric rise […]",
-        "url": "https://variety.com/2026/film/news/julie-andrews-documentary-disney-rj-cutler-1236818273/",
-        "published": "2026-07-22T16:54:28.000Z"
+        "source": "Deadline",
+        "title": "‘Stewie’ Voice Cast Set: Kenan Thompson, Vanessa Bayer, Melissa O’Neil, Mike Henry & More Join Seth MacFarlane In ‘Family Guy’ Spinoff",
+        "text": "EXCLUSIVE: Fox, Hulu and 20th Television Animation have assembled the voice cast of the upcoming Family Guy spinoff Stewie, which includes titular star Seth MacFarlane pulling a double voiceover duty and Mike Henry voicing someone related to one of his signature Family Guy characters. SNL-ers Kenan Thompson and Vanessa Bayer, The Rookie star Melissa O’Neil […]",
+        "url": "https://deadline.com/2026/07/family-guy-spinoff-stewie-voice-cast-kenan-thompson-1236999895/",
+        "published": "2026-07-22T18:00:00.000Z"
       },
       {
-        "source": "Deadline",
-        "title": "Julie Andrews Documentary Flies To Disney+",
-        "text": "Julie Andrews is getting the documentary treatment. Disney+ has greenlit a doc about the Mary Poppins and The Sound of Music star from R.J. Cutler, the man behind Billie Eilish: The World’s A Little Blurry and Martha. The film, which will premiere in 2027, will look at Andrews’ life from her early days in British […]",
-        "url": "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388/",
-        "published": "2026-07-22T17:02:15.000Z"
+        "source": "Variety",
+        "title": "‘Family Guy’ Spinoff ‘Stewie’ Adds Six to Cast, Including Kenan Thompson and Vanessa Bayer",
+        "text": "The upcoming “Family Guy” spinoff focused on Stewie Griffin is building out its voice cast. Variety has confirmed that, in addition to Seth MacFarlane as Stewie, “Family Guy” mainstay Mike Henry will also lend his voice to the show, as will Kenan Thompson, Vanessa Bayer, Melissa O’Neil, Aaron Lee, and Jessica Lowe. “Stewie” was originally […]",
+        "url": "https://variety.com/2026/tv/news/family-guy-spinoff-stewie-cast-kenan-thompson-vanessa-bayer-1236818364/",
+        "published": "2026-07-22T18:05:35.000Z"
       }
     ],
-    "likely_subject": "Julie Andrews",
-    "score": 0.48,
+    "likely_subject": "Kenan Thompson",
+    "score": 0.478,
     "score_parts": {
-      "fame": 0.79,
-      "heat": 0.1,
-      "baseline_views": 5014,
-      "latest_views": 6456,
-      "spike": 1.3,
-      "change": 0.35,
+      "fame": 0.7,
+      "heat": 0,
+      "baseline_views": 2025,
+      "latest_views": 1661,
+      "spike": 0.8,
+      "change": 0.6,
       "spread": 0.33,
-      "fresh": 0.99
+      "fresh": 0.96
     }
   },
   {
@@ -414,6 +422,45 @@
     }
   },
   {
+    "id": "story_74f1d8",
+    "title": "Julie Andrews Gets Disney+ Documentary From ‘Martha’ Director R.J. Cutler",
+    "source_count": 2,
+    "domains": [
+      "variety.com",
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T16:54:28.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Julie Andrews Gets Disney+ Documentary From ‘Martha’ Director R.J. Cutler",
+        "text": "Disney+ will launch a documentary about star Julie Andrews from director and producer R.J. Cutler (“Billie Eilish: The World’s A Little Blurry,” “Martha”) next year. Per the description for the project, “This definitive portrait offers an intimate and revealing look at Andrews’ extraordinary journey, from her early days in British vaudeville to her meteoric rise […]",
+        "url": "https://variety.com/2026/film/news/julie-andrews-documentary-disney-rj-cutler-1236818273/",
+        "published": "2026-07-22T16:54:28.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Julie Andrews Documentary Flies To Disney+",
+        "text": "Julie Andrews is getting the documentary treatment. Disney+ has greenlit a doc about the Mary Poppins and The Sound of Music star from R.J. Cutler, the man behind Billie Eilish: The World’s A Little Blurry and Martha. The film, which will premiere in 2027, will look at Andrews’ life from her early days in British […]",
+        "url": "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388/",
+        "published": "2026-07-22T17:02:15.000Z"
+      }
+    ],
+    "likely_subject": "Julie Andrews",
+    "score": 0.475,
+    "score_parts": {
+      "fame": 0.79,
+      "heat": 0.1,
+      "baseline_views": 5014,
+      "latest_views": 6456,
+      "spike": 1.3,
+      "change": 0.35,
+      "spread": 0.33,
+      "fresh": 0.93
+    }
+  },
+  {
     "id": "story_f39595",
     "title": "Glen Powell, Richard Linklater Teaming Up for Lou Gehrig Biopic, Lorne Michaels Producing",
     "source_count": 2,
@@ -440,7 +487,7 @@
       }
     ],
     "likely_subject": "Glen Powell",
-    "score": 0.46,
+    "score": 0.455,
     "score_parts": {
       "fame": 0.81,
       "heat": 0,
@@ -449,7 +496,7 @@
       "spike": 0.8,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.98
+      "fresh": 0.93
     }
   },
   {
@@ -479,7 +526,7 @@
       }
     ],
     "likely_subject": "Harry Styles",
-    "score": 0.413,
+    "score": 0.407,
     "score_parts": {
       "fame": 0.87,
       "heat": 0,
@@ -488,7 +535,101 @@
       "spike": 0.6,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.31
+      "fresh": 0.26
+    }
+  },
+  {
+    "id": "story_30c990",
+    "title": "Josh Lucas Joins Nicole Kidman & Elle Fanning In Paramount+ Legal Drama ‘Discretion’",
+    "source_count": 2,
+    "domains": [
+      "deadline.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-20T21:00:13.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Josh Lucas Joins Nicole Kidman & Elle Fanning In Paramount+ Legal Drama ‘Discretion’",
+        "text": "EXCLUSIVE: Josh Lucas (Yellowstone, Ford v Ferrari) is set to star opposite Nicole Kidman and Elle Fanning in Discretion, Paramount+’s upcoming legal thriller series from A24. Lucas will play Greg, a lawyer and the husband of Kidman’s powerful and formidable corporate law partner at the same firm entangled in a dark web of NDAs. Fanning […]",
+        "url": "https://deadline.com/2026/07/josh-lucas-discretion-nicole-kidman-elle-fanning-paramount-1236998810/",
+        "published": "2026-07-20T21:00:13.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Nicole Kidman, Elle Fanning Paramount+ Series ‘Discretion’ Casts Josh Lucas",
+        "text": "Josh Lucas is set to star opposite Nicole Kidman and Elle Fanning in the legal drama series “Discretion,” Variety has confirmed. The show was originally announced with a straight-to-series order at Paramount+ in October 2025. It is based on the short story of the same name by Chandler Baker. The logline for the series states, […]",
+        "url": "https://variety.com/2026/tv/news/nicole-kidman-elle-fanning-paramount-discretion-josh-lucas-1236816877/",
+        "published": "2026-07-20T21:07:28.000Z"
+      }
+    ],
+    "likely_subject": "Josh Lucas",
+    "score": 0.397,
+    "score_parts": {
+      "fame": 0.76,
+      "heat": 0,
+      "baseline_views": 3562,
+      "latest_views": 2968,
+      "spike": 0.8,
+      "change": 0.6,
+      "spread": 0.33,
+      "fresh": 0
+    }
+  },
+  {
+    "id": "story_7119b1",
+    "title": "Paramount and Warner Bros mega merger paused by judge",
+    "source_count": 4,
+    "domains": [
+      "bbc.co.uk",
+      "variety.com",
+      "hollywoodreporter.com",
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T19:48:13.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "BBC Entertainment",
+        "title": "Paramount and Warner Bros mega merger paused by judge",
+        "text": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T19:48:13.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "European Commission Approves Paramount-Warner Bros. Merger",
+        "text": "The European Commission approved the merger of Paramount Skydance and Warner Bros. Discovery on Wednesday, removing one of the few remaining obstacles to closing the $111 billion deal. As a condition of the approval, Paramount has already agreed to cancel its film distribution partnership with Universal in Europe within the next 13 months. A federal […]",
+        "url": "https://variety.com/2026/film/news/european-commission-approves-paramount-warner-bros-1236818353/",
+        "published": "2026-07-22T18:20:56.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Paramount-Warner Bros. Deal Blessed by European Union Regulators",
+        "text": "So far, antitrust cops in over a dozen countries have cleared the deal.",
+        "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-european-union-regulators-1236654219/",
+        "published": "2026-07-22T18:35:25.000Z"
+      },
+      {
+        "source": "Deadline",
+        "title": "Paramount’s Takeover Of Warner Bros. Discovery Gets EU Greenlight",
+        "text": "Paramount’s $111 billion deal to acquire Warner Bros. Discovery (WBD) has taken a major step forward after securing approval from the European Union’s antitrust authority. The European Commission has greenlit the media mega-merger, in what will be welcome news for David Ellison as he contends with legal challenges in the U.S. and regulatory uncertainty in […]",
+        "url": "https://deadline.com/2026/07/paramount-warner-bros-eu-approval-1236999973/",
+        "published": "2026-07-22T18:47:22.000Z"
+      }
+    ],
+    "likely_subject": "European Commission",
+    "score": 0.317,
+    "score_parts": {
+      "fame": 0.59,
+      "heat": 0,
+      "baseline_views": 580,
+      "latest_views": 507,
+      "spike": 0.9,
+      "change": 0.35,
+      "spread": 1,
+      "fresh": 0
     }
   },
   {
@@ -565,7 +706,7 @@
       }
     ],
     "likely_subject": "Kaylee Hottle",
-    "score": 0.213,
+    "score": 0.21,
     "score_parts": {
       "fame": 0.47,
       "heat": 0,
@@ -574,7 +715,7 @@
       "spike": 0.9,
       "change": 1,
       "spread": 0.67,
-      "fresh": 0.31
+      "fresh": 0.26
     }
   },
   {
@@ -604,7 +745,7 @@
       }
     ],
     "likely_subject": "Jonathan Levine",
-    "score": 0.179,
+    "score": 0.177,
     "score_parts": {
       "fame": 0.43,
       "heat": 0,
@@ -613,46 +754,46 @@
       "spike": 0.8,
       "change": 0.6,
       "spread": 0.33,
-      "fresh": 0.98
+      "fresh": 0.93
     }
   },
   {
-    "id": "story_bfeace",
-    "title": "City celebrates Ozzy Day on anniversary of death",
+    "id": "story_347a31",
+    "title": "Oasis’ ‘Wonderwall’ Returns to Hot 100 After 30 Years Thanks to World Cup",
     "source_count": 2,
     "domains": [
-      "bbc.co.uk",
-      "billboard.com"
+      "billboard.com",
+      "variety.com"
     ],
-    "first_seen": "2026-07-22T15:21:27.000Z",
+    "first_seen": "2026-07-21T17:40:22.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "BBC Entertainment",
-        "title": "City celebrates Ozzy Day on anniversary of death",
-        "text": "Pop-up performances from a brass band and an orchestra are part of the celebrations of Osbourne.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjp5y9qq3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-22T15:21:27.000Z"
+        "source": "Billboard",
+        "title": "Oasis’ ‘Wonderwall’ Returns to Hot 100 After 30 Years Thanks to World Cup",
+        "text": "The 1996 Hot 100 top 10 became an unofficial anthem for the England men’s team during the tournament.",
+        "url": "https://www.billboard.com/music/chart-beat/oasis-wonderwall-returns-hot-100-world-cup-1236299773/",
+        "published": "2026-07-21T17:40:22.000Z"
       },
       {
-        "source": "Billboard",
-        "title": "Kelly Osbourne Pens Devastating Letter to Ozzy Osbourne 1 Year After His Death: ‘Your Voice Still Guides Me’",
-        "text": "\"I feel you in the quiet, in the wind, in every song that stops me in my tracks,\" she wrote.",
-        "url": "https://www.billboard.com/music/music-news/kelly-osbourne-letter-ozzy-osbourne-year-after-his-death-1236300580/",
-        "published": "2026-07-22T15:28:51.000Z"
+        "source": "Variety",
+        "title": "Expedia Reveals 2026 ‘Island Hot List,’ With St. Lucia, Porto Santo and Cape Verde, Following Country’s Cinderella World Cup Run",
+        "text": "St. Lucia, Porto Santo, Praslin and Syros are the among the top island escapes to travel to this year, according to Expedia’s 2026 Island Hot List, an annual ranking of the most popular island destinations based on searches and bookings. Released July 21, this year’s Island Hot List highlights ten under-the-radar islands that offer an […]",
+        "url": "https://variety.com/2026/shopping/news/best-island-travel-destinations-2026-expedia-booking-reviews-1236812514/",
+        "published": "2026-07-21T18:30:03.000Z"
       }
     ],
-    "likely_subject": "Ozzy Day",
-    "score": 0.155,
+    "likely_subject": "World Cup",
+    "score": 0.166,
     "score_parts": {
-      "fame": 0,
-      "heat": 0,
-      "baseline_views": 0,
-      "latest_views": 0,
-      "spike": 1,
-      "change": 1,
+      "fame": 0.47,
+      "heat": 0.12,
+      "baseline_views": 157,
+      "latest_views": 224,
+      "spike": 1.4,
+      "change": 0.6,
       "spread": 0.33,
-      "fresh": 0.94
+      "fresh": 0.29
     }
   },
   {
@@ -697,7 +838,7 @@
       }
     ],
     "likely_subject": "Benicio Del",
-    "score": 0.143,
+    "score": 0.14,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -706,27 +847,20 @@
       "spike": 1,
       "change": 0.6,
       "spread": 0.67,
-      "fresh": 0.97
+      "fresh": 0.92
     }
   },
   {
-    "id": "story_3ac1d2",
-    "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
+    "id": "story_37a686",
+    "title": "FIFA World Cup Halftime Show Director on Making First-Ever Concert: “Challenging Beyond Challenging”",
     "source_count": 2,
     "domains": [
       "hollywoodreporter.com",
       "variety.com"
     ],
-    "first_seen": "2026-07-20T18:14:23.000Z",
+    "first_seen": "2026-07-21T01:28:16.000Z",
     "status": "ready",
     "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Was the World Cup Final Halftime Show “Too American”? Rest of the World Seems to Think So: “Glib and Unsubtle”",
-        "text": "The rule-breaking spectacle had Madonna, Justin Bieber, BTS and Shakira performing in front of billions. But did the showmanship just put more people off?",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-halftime-show-global-criticism-1236652255/",
-        "published": "2026-07-20T18:14:23.000Z"
-      },
       {
         "source": "The Hollywood Reporter",
         "title": "FIFA World Cup Halftime Show Director on Making First-Ever Concert: “Challenging Beyond Challenging”",
@@ -753,6 +887,100 @@
       "change": 0.35,
       "spread": 0.33,
       "fresh": 0
+    }
+  },
+  {
+    "id": "story_4bcb49",
+    "title": "Sacha Baron Cohen Secret Movie Unveiled: ‘Ali G:  Who Iz I?’ Hitting Theaters In October From Amazon MGM Studios",
+    "source_count": 4,
+    "domains": [
+      "deadline.com",
+      "variety.com",
+      "hollywoodreporter.com",
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T17:31:32.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Sacha Baron Cohen Secret Movie Unveiled: ‘Ali G:  Who Iz I?’ Hitting Theaters In October From Amazon MGM Studios",
+        "text": "The secret Sacha Baron Cohen Ali G movie has been titled, now known as Ali G: Who Iz I?, and it’s being released in theaters by Amazon MGM Studios on October 23. The pic reps Cohen’s feature directorial debut. Watch the announcement video below. Good news for cinemas: It’s another wide theatrical release this fall […]",
+        "url": "https://deadline.com/2026/07/ali-g-secret-movie-title-release-date-sacha-baron-cohen-1237000447/",
+        "published": "2026-07-22T17:31:32.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "Sacha Baron Cohen’s ‘Ali G: Who Iz I?’ Sets October Release From Amazon MGM",
+        "text": "Sacha Baron Cohen’s secret Ali G movie, titled “Ali G: Who Iz I?”, has been officially unveiled by the comedian and Amazon MGM Studios. It will release in theaters Oct. 23. Cohen directed the movie, marking his feature directorial debut. Cohen posted a video in on his Instagram, fully in character as Ali G, announcing […]",
+        "url": "https://variety.com/2026/film/news/sacha-baron-cohen-ali-g-movie-release-date-1236818332/",
+        "published": "2026-07-22T17:36:17.000Z"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Sacha Baron Cohen’s Secret Ali G Movie Sets Fall Release",
+        "text": "The star revives the satirical character for Amazon MGM Studios' feature 'Who Iz I?'",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-movie-release-amazon-mgm-1236654144/",
+        "published": "2026-07-22T17:40:04.000Z"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Sacha Baron Cohen’s New Ali G Movie Locks in Title and Release Date",
+        "text": "Ali G: Who Iz I? arrives in theaters on October 23 as the actor's directorial debut",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/sacha-baron-cohen-ali-g-movie-release-date-1235597285/",
+        "published": "2026-07-22T18:54:28.000Z"
+      }
+    ],
+    "likely_subject": "Sacha Baron",
+    "score": 0.128,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.2,
+      "spread": 1,
+      "fresh": 0.95
+    }
+  },
+  {
+    "id": "story_10ffa3",
+    "title": "After Trump Threat, FCC Chairman Says ABC’s Decision Not To Carry POTUS Speech Likely To Be Raised In Early Review Of Broadcast Licenses",
+    "source_count": 2,
+    "domains": [
+      "deadline.com",
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T18:13:15.000Z",
+    "status": "ready",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "After Trump Threat, FCC Chairman Says ABC’s Decision Not To Carry POTUS Speech Likely To Be Raised In Early Review Of Broadcast Licenses",
+        "text": "FCC Chairman Brendan Carr said that he expected that ABC’s decision not to carry President Donald Trump’s speech last week to be part of the agency’s early review of its broadcast licenses. During the speech itself, Trump said that ABC and NBC, which did not carry the address, should lose their broadcast licenses. They did […]",
+        "url": "https://deadline.com/2026/07/fcc-trump-speech-abc-broadcast-licenses-1237000457/",
+        "published": "2026-07-22T18:13:15.000Z"
+      },
+      {
+        "source": "Variety",
+        "title": "FCC Chair Says ABC’s Decision to Not Broadcast Trump Speech Live Will Be Part of Agency’s Review of Station Licenses",
+        "text": "Are TV broadcasters obligated to carry the U.S. president’s comments live on their government-licensed airwaves? The current head of the FCC indicated that he believes they are. Brendan Carr, the Trump-appointed chairman of the FCC, said Wednesday that the agency will consider ABC’s decision to not carry a live broadcast President Donald Trump’s July 16 […]",
+        "url": "https://variety.com/2026/tv/news/fcc-abc-trump-speech-review-station-licenses-1236818342/",
+        "published": "2026-07-22T18:24:07.000Z"
+      }
+    ],
+    "likely_subject": "After Trump",
+    "score": 0.12,
+    "score_parts": {
+      "fame": 0,
+      "heat": 0,
+      "baseline_views": 0,
+      "latest_views": 0,
+      "spike": 1,
+      "change": 0.6,
+      "spread": 0.33,
+      "fresh": 0.97
     }
   },
   {
@@ -842,53 +1070,6 @@
     }
   },
   {
-    "id": "story_180317",
-    "title": "Kovert Creative Hires Mallory Morehead Pritzl",
-    "source_count": 3,
-    "domains": [
-      "variety.com",
-      "hollywoodreporter.com",
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T17:30:00.000Z",
-    "status": "ready",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Kovert Creative Hires Mallory Morehead Pritzl",
-        "text": "Mallory Morehead Pritzl has joined bi-coastal communications firm Kovert Creative on their entertainment PR team, Variety has learned. In her new role, Morehead Pritzl will oversee communications for programming-focused Kovert Creative clients like “Jimmy Kimmel Live!,” Amy Poehler’s Paper Kite Productions, Jason Bateman, Sean Hayes, & Will Arnett’s SmartLess Media, as well as Bloomberg Media […]",
-        "url": "https://variety.com/2026/tv/news/kovert-creative-mallory-morehead-pritzl-1236816656/",
-        "published": "2026-07-20T17:30:00.000Z"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Sony’s Mallory Morehead Pritzl Joins Kovert Creative to Work on Entertainment PR Team",
-        "text": "Based in L.A., Morehead Pritzl will oversee comms for programming-focused clients ‘Jimmy Kimmel Live!’, Paper Kite Prods. and SmartLess Media while working with Bloomberg Media and Spotify.",
-        "url": "https://www.hollywoodreporter.com/business/business-news/mallory-morehead-pritzl-kovert-creative-entertainment-pr-1236651232/",
-        "published": "2026-07-20T17:30:00.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "Sony Pictures TV’s Mallory Morehead Pritzl Joins Kovert Creative’s Entertainment PR Team",
-        "text": "Kovert Creative has hired 15-year comms veteran Mallory Morehead Pritzl. The former Sony Pictures Television Director of Corporate Communications will be working on Covert’s Entertainment PR Team in L.A, overseeing communications for programming-focused clients including Jimmy Kimmel Live!, Paper Kite Productions and SmartLess Media while also working across Bloomberg Media and Spotify. During her career, Pritzl […]",
-        "url": "https://deadline.com/2026/07/kovert-mallory-morehead-pritzl-1236998744/",
-        "published": "2026-07-20T19:47:06.000Z"
-      }
-    ],
-    "likely_subject": "Kovert Creative",
-    "score": 0.099,
-    "score_parts": {
-      "fame": 0,
-      "heat": 0,
-      "baseline_views": 0,
-      "latest_views": 0,
-      "spike": 1,
-      "change": 0.6,
-      "spread": 0.67,
-      "fresh": 0
-    }
-  },
-  {
     "id": "story_adcfa0",
     "title": "Where to Stream ‘Who Wants to Be a Millionaire’ Season 5 Online",
     "source_count": 2,
@@ -915,7 +1096,7 @@
       }
     ],
     "likely_subject": "Who Wants",
-    "score": 0.095,
+    "score": 0.093,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -924,7 +1105,7 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.92
+      "fresh": 0.86
     }
   },
   {
@@ -954,7 +1135,7 @@
       }
     ],
     "likely_subject": "Oasis Overtakes",
-    "score": 0.092,
+    "score": 0.089,
     "score_parts": {
       "fame": 0,
       "heat": 0,
@@ -963,81 +1144,46 @@
       "spike": 1,
       "change": 0.35,
       "spread": 0.33,
-      "fresh": 0.84
+      "fresh": 0.79
     }
   },
   {
-    "id": "story_40365a",
-    "title": "The Longest-Leading Billboard Hot 100 No. 1s",
+    "id": "story_68a017",
+    "title": "Victoria Monét Announces New Album ‘Frequency of Love,’ Releases New Single ‘Reach Out’",
     "source_count": 2,
     "domains": [
-      "billboard.com",
-      "variety.com"
+      "variety.com",
+      "hollywoodreporter.com"
     ],
-    "first_seen": "2026-07-20T18:00:54.000Z",
+    "first_seen": "2026-07-22T16:31:20.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "Billboard",
-        "title": "The Longest-Leading Billboard Hot 100 No. 1s",
-        "text": "A select few hits have led the chart for at least 10 weeks.",
-        "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
-        "published": "2026-07-20T18:00:54.000Z"
-      },
-      {
         "source": "Variety",
-        "title": "Ella Langley’s ‘Choosin’ Texas’ Ties Whitney Houston and Mariah Carey’s Records on Billboard Hot 100",
-        "text": "The year’s biggest hit single, Ella Langley’s “Choosin’ Texas,” has racked up its 14th week at No. 1 on the Billboard Hot 100 — and has tied a record held by Whitney Houston and Mariah Carey. Langley’s song, which first topped the Hot 100 chart in February, ties Mariah Carey’s “We Belong Together” and Whitney […]",
-        "url": "https://variety.com/2026/music/news/ella-langley-choosin-texas-ties-whitney-houston-mariah-carey-records-1236816760/",
-        "published": "2026-07-20T18:08:38.000Z"
+        "title": "Victoria Monét Announces New Album ‘Frequency of Love,’ Releases New Single ‘Reach Out’",
+        "text": "Victoria Monét has announced her sophomore album “Frequency of Love,” releasing on October 2 via Lovett Music/RCA Records. To coincide with the project reveal, the R&B singer has dropped her new single “Reach Out,” produced by Kaytranada and D’Mile, as well as its video, directed by Dave Meyers and featuring choreography by frequent collaborator Sean […]",
+        "url": "https://variety.com/2026/music/news/victoria-monet-new-album-frequency-of-love-reach-out-1236818236/",
+        "published": "2026-07-22T16:31:20.000Z"
       },
       {
-        "source": "Billboard",
-        "title": "Snow Man’s ‘Good Time’ Tops Japan Hot 100",
-        "text": "BUDDiiS' \"Kimi wa Toshi Densetsu\" rises to No. 2.",
-        "url": "https://www.billboard.com/music/chart-beat/snow-man-good-time-tops-japan-hot-100-1236298409/",
-        "published": "2026-07-20T18:26:01.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Eiichiro Oda’s ‘ONE PIECE’ Vol. 115 Rises to No. 1 on Japan Book Hot 100",
-        "text": "Last week’s No. 1 debut, Yoshihiro Togashi's HUNTER×HUNTER Vol. 39, follows at No. 2 by a slim margin.",
-        "url": "https://www.billboard.com/music/chart-beat/eiichiro-oda-one-piece-115-japan-book-hot-100-1236298420/",
-        "published": "2026-07-20T18:32:31.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Billboard Hot 100 Top 10 Countdown For July 25th, 2026 | Billboard News",
-        "text": "Stella Lefty’s “Boston” jumps into the top 10 of the Billboard Hot 100, while Olivia Dean’s three entries shuffle around on the chart, and Ariana Grande keeps on rising. Will any of this movement impact Ella Langley’s “Choosin’ Texas” at No. 1? Tetris Kelly: This is the Billboard Hot 100 top 10 for the week […]",
-        "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-july-25th-2026/",
-        "published": "2026-07-20T20:09:59.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Future Charts 17 Songs on Hot 100 From New Album ‘The Real Me’",
-        "text": "He’s now logged 245 career Hot 100 hits.",
-        "url": "https://www.billboard.com/music/chart-beat/future-17-songs-hot-100-real-me-album-1236298639/",
-        "published": "2026-07-20T21:16:03.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Oasis’ ‘Wonderwall’ Returns to Hot 100 After 30 Years Thanks to World Cup",
-        "text": "The 1996 Hot 100 top 10 became an unofficial anthem for the England men’s team during the tournament.",
-        "url": "https://www.billboard.com/music/chart-beat/oasis-wonderwall-returns-hot-100-world-cup-1236299773/",
-        "published": "2026-07-21T17:40:22.000Z"
+        "source": "The Hollywood Reporter",
+        "title": "Victoria Monét Announces New Album ‘Frequency of Love’",
+        "text": "The album, set for release Oct. 2, will follow her breakout debut, 'Jaguar II'.",
+        "url": "https://www.hollywoodreporter.com/music/music-news/victoria-monet-new-album-frequency-of-love-1236654057/",
+        "published": "2026-07-22T17:58:01.000Z"
       }
     ],
-    "likely_subject": "Billboard Hot",
-    "score": 0.076,
+    "likely_subject": "Victoria Mon",
+    "score": 0.082,
     "score_parts": {
       "fame": 0,
       "heat": 0,
       "baseline_views": 0,
       "latest_views": 0,
       "spike": 1,
-      "change": 0.6,
+      "change": 0.2,
       "spread": 0.33,
-      "fresh": 0
+      "fresh": 0.92
     }
   },
   {
@@ -1197,32 +1343,39 @@
     }
   },
   {
-    "id": "story_a4a94b",
-    "title": "Judge Halts Paramount, Warner Bros. Merger After States Sue to Block $111 Billion Deal",
+    "id": "story_65daa0",
+    "title": "Bose Drops Lifestyle Ultra Wireless Speaker: Here’s Where to Shop It Online",
     "source_count": 2,
     "domains": [
-      "rollingstone.com",
-      "bbc.co.uk"
+      "billboard.com",
+      "rollingstone.com"
     ],
-    "first_seen": "2026-07-20T19:14:14.000Z",
+    "first_seen": "2026-07-20T21:02:57.000Z",
     "status": "ready",
     "items": [
       {
-        "source": "Rolling Stone",
-        "title": "Judge Halts Paramount, Warner Bros. Merger After States Sue to Block $111 Billion Deal",
-        "text": "A temporary restraining order was granted, setting up a battle over a more concrete injunction as the states pursue their antitrust case",
-        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/judge-pauses-paramount-warner-bros-discovery-merger-1235596099/",
-        "published": "2026-07-20T19:14:14.000Z"
+        "source": "Billboard",
+        "title": "Bose Drops Lifestyle Ultra Wireless Speaker: Here’s Where to Shop It Online",
+        "text": "Upgrade your home audio with this premium and versatile wireless speaker from Bose — shop it for $299.",
+        "url": "https://www.billboard.com/culture/product-recommendations/bose-lifestyle-ultra-wireless-speaker-buy-shop-online-1236298311/",
+        "published": "2026-07-20T21:02:57.000Z"
       },
       {
-        "source": "BBC Entertainment",
-        "title": "Paramount and Warner Bros mega merger paused by judge",
-        "text": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T19:48:13.000Z"
+        "source": "Billboard",
+        "title": "Official ‘KPop Demon Hunters’ Light Sticks Release Ahead of Global Tour — Here’s Where to Shop",
+        "text": "Great for concerts and sing-along viewings of the film alike, the light sticks feature five LED colors and more than eight lighting sequences.",
+        "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-official-tour-light-sticks-buy-online-1236298257/",
+        "published": "2026-07-21T00:35:02.000Z"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Bose’s Lifestyle Ultra Speakers Are a Stylish Take on Home Audio",
+        "text": "The speakers are a simple yet stylish upgrade for multiroom audio, and they're capable home theater companions, too",
+        "url": "https://www.rollingstone.com/product-recommendations/tech/bose-lifestyle-ultra-wireless-speaker-best-buy-1235596751/",
+        "published": "2026-07-22T18:22:56.000Z"
       }
     ],
-    "likely_subject": "Judge Halts",
+    "likely_subject": "Lifestyle Ultra",
     "score": 0.054,
     "score_parts": {
       "fame": 0,
@@ -1234,6 +1387,424 @@
       "spread": 0.33,
       "fresh": 0
     }
+  },
+  {
+    "id": "story_4e0973",
+    "title": "Taylor Zakhar Perez, Owen Thiele, Nasim Pedrad & Supriya Ganesh Among Final Additions To Netflix’s ‘13 Going On 30′ Reboot",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-22T19:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Taylor Zakhar Perez, Owen Thiele, Nasim Pedrad & Supriya Ganesh Among Final Additions To Netflix’s ‘13 Going On 30′ Reboot",
+        "text": "EXCLUSIVE: Netflix has assembled more buzzy young supporting cast for its 13 Going on 30 reboot, with Taylor Zakhar Perez (Red, White & Royal Blue), Owen Thiele (Adults), Nasim Pedrad (Aladdin), Supriya Ganesh (The Pitt) and Myra Molloy (Girls Like Girls) coming aboard. Other newcomers include Charley McCain (Nocturne), Henry Samiri (The Pitt), Audrina Miranda (Jurassic World Rebirth) […]",
+        "url": "https://deadline.com/2026/07/13-going-on-30-reboot-cast-adds-taylor-zakhar-perez-owen-thiele-1237000490/",
+        "published": "2026-07-22T19:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_ff1432",
+    "title": "Inside the Gen Z Film Publicity Stunt That Had Manosphere Poster Boy Kyle University Stationed Outside L.A., London Studios (Exclusive)",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T19:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Inside the Gen Z Film Publicity Stunt That Had Manosphere Poster Boy Kyle University Stationed Outside L.A., London Studios (Exclusive)",
+        "text": "You might have seen the 7-foot muscle-head talking about being a \"high-value man\" and collecting \"aura points\" on social media. But it's all part of a marketing tactic for an anti-manosphere movie.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-features/kyle-university-manosphere-film-publicity-stunt-noah-caplan-1236653919/",
+        "published": "2026-07-22T19:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_3adf7f",
+    "title": "From Lacoste to Lancôme, Our Favorite Brands Are Up to 60% Off During Macy’s Black Friday in July Sale",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T18:58:52.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "From Lacoste to Lancôme, Our Favorite Brands Are Up to 60% Off During Macy’s Black Friday in July Sale",
+        "text": "The annual event is slashing prices on everything from fashion and tech to home goods and viral finds",
+        "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-deals-macys-black-friday-in-july-sale-top-brands-savings-1235597049/",
+        "published": "2026-07-22T18:58:52.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_55dff4",
+    "title": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T18:54:19.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’",
+        "text": "La Flame also discussed Cactus Jack signing a first-look deal with a movie studio in a new interview.",
+        "url": "https://www.billboard.com/music/rb-hip-hop/travis-scott-new-album-tease-paramount-pictures-deal-1236300702/",
+        "published": "2026-07-22T18:54:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2ed864",
+    "title": "‘Loki’ EP Kevin R. Wright Talks ‘Pompeii: Out of Time’ and New Company with Tom Hiddleston",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T18:46:07.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "‘Loki’ EP Kevin R. Wright Talks ‘Pompeii: Out of Time’ and New Company with Tom Hiddleston",
+        "text": "Hiddleston also explains why he felt comfortable joining 'Avengers: Doomsday' despite 'Loki' seemingly completing the character's arc.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-features/loki-ep-kevin-r-wright-talks-pompeii-out-of-time-1236654094/",
+        "published": "2026-07-22T18:46:07.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7575ec",
+    "title": "Watch Jesus Rappel Down a Cliff in the TV Crossover Event of the Summer: ‘The Chosen’ x Bear Grylls",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T18:34:05.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Watch Jesus Rappel Down a Cliff in the TV Crossover Event of the Summer: ‘The Chosen’ x Bear Grylls",
+        "text": "No word yet on how he traverses the Colorado River.",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/the-chosen-in-the-wild-with-bear-grylls-trailer-jesus-rappels-1236654136/",
+        "published": "2026-07-22T18:34:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7cda62",
+    "title": "Hollywood’s Favorite Ugg Slippers (To Never Wear on a Christopher Nolan Set)",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T18:32:58.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Hollywood’s Favorite Ugg Slippers (To Never Wear on a Christopher Nolan Set)",
+        "text": "Christopher Nolan’s “The Odyssey” has spawned countless debates since its blockbuster release — over representation and historical accuracy and, at least in my friend group, whether Travis Scott has iPhone face. But another, albeit much more benign, question has emerged during the press cycle this week: can an actor convincingly play an Ancient Greek god […]",
+        "url": "https://variety.com/2026/shopping/news/celebrity-favorite-ugg-slippers-shop-online-1236818232/",
+        "published": "2026-07-22T18:32:58.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_691b84",
+    "title": "Dominic Fike Talks ‘Rocket’ Mixtape, Fatherhood & ‘Babydoll’ Resurgence",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T18:32:22.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Dominic Fike Talks ‘Rocket’ Mixtape, Fatherhood & ‘Babydoll’ Resurgence",
+        "text": "The singer-songwriter covers Billboard Philippines.",
+        "url": "https://www.billboard.com/music/rb-hip-hop/dominic-fike-rocket-billboard-philippines-1236300206/",
+        "published": "2026-07-22T18:32:22.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_317038",
+    "title": "Sophie Thatcher Is Ready to Move Beyond ‘Yellowjackets’ and Step Out of the Darkness",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T18:30:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "Sophie Thatcher Is Ready to Move Beyond ‘Yellowjackets’ and Step Out of the Darkness",
+        "text": "Sophie Thatcher knows what you think about her. She’s seen the headlines and social media posts. She’s dark. Maybe it’s the acting choices, like Natalie, her tortured teen on “Yellowjackets,” or an abducted missionary in “Heretic,” or the enslaved robot girlfriend in “Companion.” Perhaps it’s her Mormon upbringing, which she believes has fostered “a feeling […]",
+        "url": "https://variety.com/2026/film/features/sophie-thatcher-yellowjackets-ending-trump-gaza-her-private-hell-inde-navarrette-1236817823/",
+        "published": "2026-07-22T18:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_300220",
+    "title": "R&B Up-And-Comer of the Month Mack Keane Has Long Been Instrumental Behind the Boards — Now He’s Taking the Solo Spotlight With ‘Wide Eyed’",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T18:29:55.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "R&B Up-And-Comer of the Month Mack Keane Has Long Been Instrumental Behind the Boards — Now He’s Taking the Solo Spotlight With ‘Wide Eyed’",
+        "text": "The LA-bred singer-songwriter is bringing blue-eyed soul into 2026.",
+        "url": "https://www.billboard.com/music/rb-hip-hop/rb-up-and-comer-of-the-month-july-2026-mack-keane-interview-1236300888/",
+        "published": "2026-07-22T18:29:55.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5785cd",
+    "title": "In ‘King of the Hill,’ Mike Judge Finds Hope for America",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T18:18:47.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "In ‘King of the Hill,’ Mike Judge Finds Hope for America",
+        "text": "The animated lives of Hank, Penny and Bobby Hill depict a United States that exists in a world outside the culture wars: \"It would be hard to outdo, to out-extreme, to out-satirize political life these days.\"",
+        "url": "https://www.hollywoodreporter.com/tv/tv-features/king-of-the-hill-mike-judge-season-15-hulu-animation-1236652919/",
+        "published": "2026-07-22T18:18:47.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6b48ff",
+    "title": "Capitol CMG Must Face Lawsuit Over Canceled Deal to Buy Christian Hip-Hop Label, Judge Says",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T18:18:24.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Capitol CMG Must Face Lawsuit Over Canceled Deal to Buy Christian Hip-Hop Label, Judge Says",
+        "text": "Indie label Reach Records claims the UMG imprint balked at a price that it had already agreed to pay and then killed the deal \"at the finish line.\"",
+        "url": "https://www.billboard.com/pro/capitol-cmg-cant-kill-lawsuit-christian-indie-label-deal/",
+        "published": "2026-07-22T18:18:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_6dde37",
+    "title": "Country Up-And-Comer of the Month Cameron Whitcomb Talks New Hit ‘Kingdom of Fear’ & Journey From ‘American Idol’ to Winning CCMA Awards",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T18:14:16.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Country Up-And-Comer of the Month Cameron Whitcomb Talks New Hit ‘Kingdom of Fear’ & Journey From ‘American Idol’ to Winning CCMA Awards",
+        "text": "After scoring his first Billboard Hot 100 entry, Whitcomb will soon embark on his Kingdom of Fear Tour.",
+        "url": "https://www.billboard.com/music/country/up-and-coming-country-artist-cameron-whitcomb-july-2026-1236300763/",
+        "published": "2026-07-22T18:14:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2494ef",
+    "title": "The World Cup Final Soccer Ball Delivered by Timothée Chalamet Is Now Available to Buy Online",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T18:09:44.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "The World Cup Final Soccer Ball Delivered by Timothée Chalamet Is Now Available to Buy Online",
+        "text": "Adidas has released replica versions of the official World Cup final match ball, with black and gold graphics that nod to the FIFA trophy",
+        "url": "https://www.rollingstone.com/product-recommendations/lifestyle/fifa-world-cup-final-2026-adidas-soccer-ball-buy-online-1235597085/",
+        "published": "2026-07-22T18:09:44.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_1ec94d",
+    "title": "Ojai Playhouse Launches ‘Left Turn,’ a Free Indie Film Showcase Featuring ‘Our Hero, Balthazar,’ ‘Crumb Catcher’ and More (Exclusive)",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T18:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Ojai Playhouse Launches ‘Left Turn,’ a Free Indie Film Showcase Featuring ‘Our Hero, Balthazar,’ ‘Crumb Catcher’ and More (Exclusive)",
+        "text": "'$Positions,' 'Our Hero, Balthazar,' 'Fucktoys,' 'Situations' and 'The Napa Boys' are among the movies on the lineup, which will be followed by live Q&As with participating filmmakers.",
+        "url": "https://www.hollywoodreporter.com/news/local-news/ojai-playhouse-left-turn-free-indie-film-showcase-1236653771/",
+        "published": "2026-07-22T18:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_24d760",
+    "title": "Reed Birney Was in All Your Favorite TV Shows. Then Came the Year’s Most Shocking Role",
+    "source_count": 1,
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "first_seen": "2026-07-22T17:58:42.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Reed Birney Was in All Your Favorite TV Shows. Then Came the Year’s Most Shocking Role",
+        "text": "The Tony winner and Gotham nominee, known for recurring on ‘House of Cards’ and ‘Gossip Girl,’ took a massive risk with the pedophile-centered drama ’Blue Film.’ He’s still processing the reactions.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-features/reed-birney-blue-film-feature-1236653955/",
+        "published": "2026-07-22T17:58:42.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_5c04a6",
+    "title": "Shania Twain on Her Most Personal Album Yet, ‘Little Miss Twain’: ‘It Brings Me Joy to Share That Part of Me’",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T17:58:33.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Shania Twain on Her Most Personal Album Yet, ‘Little Miss Twain’: ‘It Brings Me Joy to Share That Part of Me’",
+        "text": "With help from Ronnie Wood, Josh Homme, The War and Treaty and more special guests, the superstar digs deep into her past to reveal a side she hadn’t previously shared.",
+        "url": "https://www.billboard.com/music/country/shania-twain-little-miss-twain-new-album-1236300814/",
+        "published": "2026-07-22T17:58:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_48e802",
+    "title": "OpenAI Sued Over ChatGPT’s Medical Advice to Pastor: ‘God Did Not Design Your Body to Endlessly Fail’",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T17:58:12.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "OpenAI Sued Over ChatGPT’s Medical Advice to Pastor: ‘God Did Not Design Your Body to Endlessly Fail’",
+        "text": "A lawsuit filed Wednesday accuses OpenAI and CEO Sam Altman of negligence after ChatGPT allegedly gave \"unauthorized\" medical advice to a man who claimed he suffered a medical crisis as a result",
+        "url": "https://www.rollingstone.com/culture/culture-news/openai-sam-altman-chatgpt-sued-medical-advice-pastor-1235595907/",
+        "published": "2026-07-22T17:58:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_2eb194",
+    "title": "Music Business Stories to Watch in the Last Half of 2026",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T17:51:15.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Music Business Stories to Watch in the Last Half of 2026",
+        "text": "From AI music policies to the purchase of THE•TEAM, Billboard rounds up the looming developments to keep an eye on through the end of the year.",
+        "url": "https://www.billboard.com/lists/music-business-stories-to-watch-last-half-2026/",
+        "published": "2026-07-22T17:51:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_202862",
+    "title": "How Long Can ‘The Odyssey’ Stay on Imax 70mm Screens? Nolan Fans Scramble as New Showtimes Sell Out 7 Weeks in Advance",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T17:45:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "How Long Can ‘The Odyssey’ Stay on Imax 70mm Screens? Nolan Fans Scramble as New Showtimes Sell Out 7 Weeks in Advance",
+        "text": "A new group of tickets for Imax 70mm screenings of “The Odyssey” was released this week, with many of the new screenings selling out within hours. In New York and Los Angeles, there are no Imax 70mm tickets available through Aug. 19, a sign of the frenzy to see Christopher Nolan’s epic in the premium […]",
+        "url": "https://variety.com/2026/film/news/the-odyssey-imax-70mm-showtimes-will-there-be-more-tickets-1236816709/",
+        "published": "2026-07-22T17:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_47bc32",
+    "title": "Number_i’s ‘BUGS LIFE’ Debuts at No. 1, Mrs. GREEN APPLE’s ‘Brand New’ at No. 2 on Japan Hot 100",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T17:38:25.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Number_i’s ‘BUGS LIFE’ Debuts at No. 1, Mrs. GREEN APPLE’s ‘Brand New’ at No. 2 on Japan Hot 100",
+        "text": "NCT WISH's \"YO-I-DON!\" follows at No. 3, and FRUITS ZIPPER's “Power of Love” at No. 4.",
+        "url": "https://www.billboard.com/music/chart-beat/number_i-bugs-life-mrs-green-apple-brand-new-japan-hot-100-1236300839/",
+        "published": "2026-07-22T17:38:25.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_4f0f8c",
+    "title": "Kacey Musgraves Heads South of the Border for ‘Mexico Honey’ Video",
+    "source_count": 1,
+    "domains": [
+      "rollingstone.com"
+    ],
+    "first_seen": "2026-07-22T17:33:01.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Rolling Stone",
+        "title": "Kacey Musgraves Heads South of the Border for ‘Mexico Honey’ Video",
+        "text": "The anthemic track comes off the country singer's most recent album, Middle of Nowhere",
+        "url": "https://www.rollingstone.com/music/music-news/kacey-musgraves-mexico-honey-music-video-2-1235596984/",
+        "published": "2026-07-22T17:33:01.000Z"
+      }
+    ]
   },
   {
     "id": "story_4e7118",
@@ -1251,6 +1822,25 @@
         "text": "\"Every single day I get to create because of all of you,\" the singer-actress wrote.",
         "url": "https://www.billboard.com/music/music-news/selena-gomez-celebrates-birthday-happiest-girlie-1236300766/",
         "published": "2026-07-22T17:22:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_1fddce",
+    "title": "Here’s Why Rosalía Is Apologizing to Argentine Fans Following Spain’s World Cup Victory",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-22T17:19:54.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Here’s Why Rosalía Is Apologizing to Argentine Fans Following Spain’s World Cup Victory",
+        "text": "\"I only have love for Argentina,\" the Spanish singer said.",
+        "url": "https://www.billboard.com/music/latin/rosalia-apologizes-argentine-fans-spain-world-cup-win-1236300678/",
+        "published": "2026-07-22T17:19:54.000Z"
       }
     ]
   },
@@ -1483,25 +2073,6 @@
     ]
   },
   {
-    "id": "story_68a017",
-    "title": "Victoria Monét Announces New Album ‘Frequency of Love,’ Releases New Single ‘Reach Out’",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-22T16:31:20.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Victoria Monét Announces New Album ‘Frequency of Love,’ Releases New Single ‘Reach Out’",
-        "text": "Victoria Monét has announced her sophomore album “Frequency of Love,” releasing on October 2 via Lovett Music/RCA Records. To coincide with the project reveal, the R&B singer has dropped her new single “Reach Out,” produced by Kaytranada and D’Mile, as well as its video, directed by Dave Meyers and featuring choreography by frequent collaborator Sean […]",
-        "url": "https://variety.com/2026/music/news/victoria-monet-new-album-frequency-of-love-reach-out-1236818236/",
-        "published": "2026-07-22T16:31:20.000Z"
-      }
-    ]
-  },
-  {
     "id": "story_40cd90",
     "title": "‘The Furious’ Star Joey Iwanaga Inks With Artists First",
     "source_count": 1,
@@ -1612,6 +2183,25 @@
         "text": "Which artist's fan army is the strongest?",
         "url": "https://www.billboard.com/music/music-news/fan-army-face-off-2026-voting-1236294570/",
         "published": "2026-07-22T16:07:43.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_c9a798",
+    "title": "‘Big Bang Theory’ Spinoff ‘Stuart Fails to Save the Universe’ Is a Playful, Creative Romp: TV Review",
+    "source_count": 1,
+    "domains": [
+      "variety.com"
+    ],
+    "first_seen": "2026-07-22T16:00:00.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Variety",
+        "title": "‘Big Bang Theory’ Spinoff ‘Stuart Fails to Save the Universe’ Is a Playful, Creative Romp: TV Review",
+        "text": "In a sea of perfunctory prequels and sequels, you have to hand it to a spinoff that actually comes up with a creative angle. Such is the case with “Stuart Fails to Save the Universe,” the third offshoot of “The Big Bang Theory,” which forms a useful contrast with its predecessors. The straightforwardly titled “Young […]",
+        "url": "https://variety.com/2026/tv/reviews/stuart-fails-to-save-the-universe-review-big-bang-spinoff-1236816914/",
+        "published": "2026-07-22T16:00:00.000Z"
       }
     ]
   },
@@ -2053,25 +2643,6 @@
     ]
   },
   {
-    "id": "story_768962",
-    "title": "Expedia Reveals 2026 ‘Island Hot List,’ With St. Lucia, Porto Santo and Cape Verde, Following Country’s Cinderella World Cup Run",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-21T18:30:03.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Expedia Reveals 2026 ‘Island Hot List,’ With St. Lucia, Porto Santo and Cape Verde, Following Country’s Cinderella World Cup Run",
-        "text": "St. Lucia, Porto Santo, Praslin and Syros are the among the top island escapes to travel to this year, according to Expedia’s 2026 Island Hot List, an annual ranking of the most popular island destinations based on searches and bookings. Released July 21, this year’s Island Hot List highlights ten under-the-radar islands that offer an […]",
-        "url": "https://variety.com/2026/shopping/news/best-island-travel-destinations-2026-expedia-booking-reviews-1236812514/",
-        "published": "2026-07-21T18:30:03.000Z"
-      }
-    ]
-  },
-  {
     "id": "story_3aff01",
     "title": "John Legend Inks Two Year Deal to Join Bang & Olufsen as Global Brand Ambassador",
     "source_count": 1,
@@ -2410,6 +2981,13 @@
         "text": "A complete rundown of the most important events across the music business.",
         "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
         "published": "2026-07-21T17:02:00.000Z"
+      },
+      {
+        "source": "Billboard",
+        "title": "Pitbull to Join 2026 Billboard Latin Music Week for Exclusive ‘Superstar Q&A’",
+        "text": "Registration is now open for the Oct. 19-22 event at Faena Forum Miami Beach.",
+        "url": "https://www.billboard.com/music/latin/pitbull-2026-billboard-latin-music-week-superstar-q-and-a-1236300647/",
+        "published": "2026-07-22T18:00:00.000Z"
       }
     ]
   },
@@ -2771,6 +3349,25 @@
         "text": "\"I never would've predicted that he would go the path that he's gone now, because he did seem really smart,\" the director-actress said in a wide-ranging conversation about misogyny",
         "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/olivia-wilde-meeting-elon-musk-1235596404/",
         "published": "2026-07-21T04:55:31.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_7c5cc6",
+    "title": "Shakira & Burna Boy’s ‘Dai Dai’ Keeps Its No. 1 Momentum Across Billboard Charts",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-21T04:32:46.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Shakira & Burna Boy’s ‘Dai Dai’ Keeps Its No. 1 Momentum Across Billboard Charts",
+        "text": "The FIFA World Cup 2026 song lands atop the overall Latin Airplay chart.",
+        "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boys-dai-dai-no-1-billboard-charts-1236299143/",
+        "published": "2026-07-21T04:32:46.000Z"
       }
     ]
   },
@@ -3195,6 +3792,25 @@
     ]
   },
   {
+    "id": "story_d2cdb2",
+    "title": "Future Charts 17 Songs on Hot 100 From New Album ‘The Real Me’",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T21:16:03.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Future Charts 17 Songs on Hot 100 From New Album ‘The Real Me’",
+        "text": "He’s now logged 245 career Hot 100 hits.",
+        "url": "https://www.billboard.com/music/chart-beat/future-17-songs-hot-100-real-me-album-1236298639/",
+        "published": "2026-07-20T21:16:03.000Z"
+      }
+    ]
+  },
+  {
     "id": "story_67e659",
     "title": "Marvel’s Kevin Feige Says He Feels “Like A Gigantic Loser & Failure” Over Failed ‘Blade’ Reboot With Mahershala Ali",
     "source_count": 1,
@@ -3229,51 +3845,6 @@
         "text": "Whether you're working from home, recording music, or just looking to block loud neighbors, these noise-dampening wall panels are surprisingly handy",
         "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-acoustic-panels-for-sound-dampening-927358/",
         "published": "2026-07-20T21:13:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_4028ba",
-    "title": "Nicole Kidman, Elle Fanning Paramount+ Series ‘Discretion’ Casts Josh Lucas",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T21:07:28.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Nicole Kidman, Elle Fanning Paramount+ Series ‘Discretion’ Casts Josh Lucas",
-        "text": "Josh Lucas is set to star opposite Nicole Kidman and Elle Fanning in the legal drama series “Discretion,” Variety has confirmed. The show was originally announced with a straight-to-series order at Paramount+ in October 2025. It is based on the short story of the same name by Chandler Baker. The logline for the series states, […]",
-        "url": "https://variety.com/2026/tv/news/nicole-kidman-elle-fanning-paramount-discretion-josh-lucas-1236816877/",
-        "published": "2026-07-20T21:07:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_65daa0",
-    "title": "Bose Drops Lifestyle Ultra Wireless Speaker: Here’s Where to Shop It Online",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T21:02:57.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Bose Drops Lifestyle Ultra Wireless Speaker: Here’s Where to Shop It Online",
-        "text": "Upgrade your home audio with this premium and versatile wireless speaker from Bose — shop it for $299.",
-        "url": "https://www.billboard.com/culture/product-recommendations/bose-lifestyle-ultra-wireless-speaker-buy-shop-online-1236298311/",
-        "published": "2026-07-20T21:02:57.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Official ‘KPop Demon Hunters’ Light Sticks Release Ahead of Global Tour — Here’s Where to Shop",
-        "text": "Great for concerts and sing-along viewings of the film alike, the light sticks feature five LED colors and more than eight lighting sequences.",
-        "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-official-tour-light-sticks-buy-online-1236298257/",
-        "published": "2026-07-21T00:35:02.000Z"
       }
     ]
   },
@@ -3331,6 +3902,25 @@
         "text": "It’s been a long and legally-winding road to release for Rebel Wilson’s directorial debut, but we now have the first trailer for The Deb. Have a look above. Sunrise Films on Monday set an August 25 U.S. digital-release date for the musical comedy, which will debut in a day earlier in the UK via Vertigo […]",
         "url": "https://deadline.com/2026/07/the-deb-trailer-release-date-rebel-wilson-1236998746/",
         "published": "2026-07-20T20:30:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_798f00",
+    "title": "Billboard Hot 100 Top 10 Countdown For July 25th, 2026 | Billboard News",
+    "source_count": 1,
+    "domains": [
+      "billboard.com"
+    ],
+    "first_seen": "2026-07-20T20:09:59.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Billboard",
+        "title": "Billboard Hot 100 Top 10 Countdown For July 25th, 2026 | Billboard News",
+        "text": "Stella Lefty’s “Boston” jumps into the top 10 of the Billboard Hot 100, while Olivia Dean’s three entries shuffle around on the chart, and Ariana Grande keeps on rising. Will any of this movement impact Ella Langley’s “Choosin’ Texas” at No. 1? Tetris Kelly: This is the Billboard Hot 100 top 10 for the week […]",
+        "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-july-25th-2026/",
+        "published": "2026-07-20T20:09:59.000Z"
       }
     ]
   },
@@ -3395,6 +3985,25 @@
         "text": "Mac McAnally also talks about the future of Shrimp Boat Sound Studio in Florida.",
         "url": "https://www.billboard.com/music/rock/posthumous-jimmy-buffett-album-coral-reefer-band-1236298497/",
         "published": "2026-07-20T19:49:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": "story_280280",
+    "title": "Sony Pictures TV’s Mallory Morehead Pritzl Joins Kovert Creative’s Entertainment PR Team",
+    "source_count": 1,
+    "domains": [
+      "deadline.com"
+    ],
+    "first_seen": "2026-07-20T19:47:06.000Z",
+    "status": "watching",
+    "items": [
+      {
+        "source": "Deadline",
+        "title": "Sony Pictures TV’s Mallory Morehead Pritzl Joins Kovert Creative’s Entertainment PR Team",
+        "text": "Kovert Creative has hired 15-year comms veteran Mallory Morehead Pritzl. The former Sony Pictures Television Director of Corporate Communications will be working on Covert’s Entertainment PR Team in L.A, overseeing communications for programming-focused clients including Jimmy Kimmel Live!, Paper Kite Productions and SmartLess Media while also working across Bloomberg Media and Spotify. During her career, Pritzl […]",
+        "url": "https://deadline.com/2026/07/kovert-mallory-morehead-pritzl-1236998744/",
+        "published": "2026-07-20T19:47:06.000Z"
       }
     ]
   },
@@ -3547,357 +4156,6 @@
         "text": "Christine and Elmore Wonsley honor their son at a funeral officiated by Rev. Al Sharpton in Ocean Springs, Mississippi, as investigations into his death continue",
         "url": "https://www.rollingstone.com/culture/culture-news/nolan-wells-funeral-mississippi-1235595926/",
         "published": "2026-07-20T19:17:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_229529",
-    "title": "Liza Colon-Zayas Joins Hulu’s David Shore Legal Drama ‘Conviction’",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T19:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "Liza Colon-Zayas Joins Hulu’s David Shore Legal Drama ‘Conviction’",
-        "text": "EXCLUSIVE: Liza Colón-Zayas, who is coming off her Emmy-winning gig on FX’s The Bear, has joined the cast of David Shore’s upcoming Hulu drama series Conviction. She joins the previously announced Elisabeth Moss, who leads the series and executive produces, as well as Jimmi Simpson, William Jackson Harper, Kevin McKidd, Sebastian De Souza, Adam Godley, […]",
-        "url": "https://deadline.com/2026/07/liza-colon-zayas-hulu-david-shore-series-conviction-1236998671/",
-        "published": "2026-07-20T19:00:00.000Z"
-      },
-      {
-        "source": "Deadline",
-        "title": "Josh Lucas Joins Nicole Kidman & Elle Fanning In Paramount+ Legal Drama ‘Discretion’",
-        "text": "EXCLUSIVE: Josh Lucas (Yellowstone, Ford v Ferrari) is set to star opposite Nicole Kidman and Elle Fanning in Discretion, Paramount+’s upcoming legal thriller series from A24. Lucas will play Greg, a lawyer and the husband of Kidman’s powerful and formidable corporate law partner at the same firm entangled in a dark web of NDAs. Fanning […]",
-        "url": "https://deadline.com/2026/07/josh-lucas-discretion-nicole-kidman-elle-fanning-paramount-1236998810/",
-        "published": "2026-07-20T21:00:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_3e63cd",
-    "title": "Variety Interview Studio Presented by Google TV Returns to San Diego",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T18:59:04.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Variety Interview Studio Presented by Google TV Returns to San Diego",
-        "text": "Variety’s Interview Studio will return to San Diego on July 24-25 in partnership with Google TV featuring a lineup of in-depth interviews and conversations with leading talent and creators. “This event has become a defining fixture of the entertainment industry, uniting the creative community, talent, and fans in a celebration of storytelling and culture,” said Dea Lawrence, co-president and publisher, Variety. “We’re […]",
-        "url": "https://variety.com/2026/film/news/variety-interview-studio-san-diego-1236816778/",
-        "published": "2026-07-20T18:59:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_32d52a",
-    "title": "Chloe Fineman Finds Her First Post-‘Saturday Night Live’ Gig",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T18:55:25.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Chloe Fineman Finds Her First Post-‘Saturday Night Live’ Gig",
-        "text": "The performer will play a reporter in ‘Myron Bolitar,’ a new series based on Harlan Coben’s books about an NBA star-turned-sports agent.",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/chloe-fineman-post-saturday-night-live-gig-1236652419/",
-        "published": "2026-07-20T18:55:25.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_2795ed",
-    "title": "Divinity Roxx: From Secret Bass Player to World Stage",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T18:51:46.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Divinity Roxx: From Secret Bass Player to World Stage",
-        "text": "\"I want to make music kids enjoy but also music that adults can connect with too,\" says Beyoncé's onetime bassist.",
-        "url": "https://www.billboard.com/music/music-news/divinity-roxx-interview-bass-player-kids-album-1236298439/",
-        "published": "2026-07-20T18:51:46.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_7a0447",
-    "title": "Keanu Reeves and Patrick Swayze Surf Back into Theaters for ‘Point Break’s’ 35th Anniversary – Film News in Brief",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T18:45:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Keanu Reeves and Patrick Swayze Surf Back into Theaters for ‘Point Break’s’ 35th Anniversary – Film News in Brief",
-        "text": "Keanu Reeves and Patrick Swayze are surfing back to the big screen in celebration of “Point Break’s” 35th anniversary. A new 4k restoration will be released by Resurgence Media Group, Saga Arts and Fathom Entertainment. The film will hit theaters on Aug. 16 and 19. Surfer Matt Archbold will present an exclusive introduction ahead of […]",
-        "url": "https://variety.com/2026/film/news/film-news-in-brief-july-20-2026-1236816245/",
-        "published": "2026-07-20T18:45:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_25cfe0",
-    "title": "‘Army Of Thieves’ Matthias Schweighöfer Latest To Join New Line’s ‘The Conjuring: First Communion’",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T18:45:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "‘Army Of Thieves’ Matthias Schweighöfer Latest To Join New Line’s ‘The Conjuring: First Communion’",
-        "text": "EXCLUSIVE: Matthias Schweighöfer, the German actor known for the likes of Oppenheimer and Netflix’s Army of Thieves, is set for a role in New Line horror prequel The Conjuring: First Communion. No word on the role to be played by Schweighöfer. Most recently, we learned that Garrett Wareing and Amanda Fix are leading the film as young versions of […]",
-        "url": "https://deadline.com/2026/07/conjuring-10-first-communion-matthias-schweighofer-1236998523/",
-        "published": "2026-07-20T18:45:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_11ed29",
-    "title": "75 Songs to Celebrate Spain’s World Cup Victory: Rosalía, Quevedo, Enrique Iglesias & More",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T18:31:34.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "75 Songs to Celebrate Spain’s World Cup Victory: Rosalía, Quevedo, Enrique Iglesias & More",
-        "text": "From Manolo Escobar's classic \"Y Viva España\" to Aitana's \"Superestrella,\" check out the celebratory playlist below.",
-        "url": "https://www.billboard.com/music/latin/fifa-world-cup-2026-spain-playlist-songs-1236298229/",
-        "published": "2026-07-20T18:31:34.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Here’s Why Rosalía Is Apologizing to Argentine Fans Following Spain’s World Cup Victory",
-        "text": "\"I only have love for Argentina,\" the Spanish singer said.",
-        "url": "https://www.billboard.com/music/latin/rosalia-apologizes-argentine-fans-spain-world-cup-win-1236300678/",
-        "published": "2026-07-22T17:19:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_12731a",
-    "title": "Prince Harry Concedes That Harry Styles Is the U.K.’s Most Famous Harry — But Is He Right?",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T18:26:22.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Prince Harry Concedes That Harry Styles Is the U.K.’s Most Famous Harry — But Is He Right?",
-        "text": "The royal also ranked Harry Kane and Harry Potter.",
-        "url": "https://www.billboard.com/music/music-news/harry-styles-uk-most-famous-harry-prince-harry-1236298301/",
-        "published": "2026-07-20T18:26:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_14bafc",
-    "title": "How Wife Katie Thurston’s Cancer Battle Changed Jeff Arcuri & Shaped His Debut Netflix Special – Comedy Means Business Podcast",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T18:10:48.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "How Wife Katie Thurston’s Cancer Battle Changed Jeff Arcuri & Shaped His Debut Netflix Special – Comedy Means Business Podcast",
-        "text": "For comedian Jeff Arcuri, 2025 brought an uncommon level of emotional upheaval, presenting stunning turns, high highs, and very low lows. By year’s end, Arcuri would record his first-ever comedy special, joining a prestigious shortlist of comics who have secured a Netflix deal for their debut hour. He’d perform the show in the round over […]",
-        "url": "https://deadline.com/2026/07/jeff-arcuri-katie-thurston-cancer-comedy-means-business-1236998576/",
-        "published": "2026-07-20T18:10:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_33174a",
-    "title": "Shakira & Burna Boy’s ‘Dai Dai’ Rules Global Charts, Oasis’ ‘Wonderwall’ Hits Top Five",
-    "source_count": 1,
-    "domains": [
-      "billboard.com"
-    ],
-    "first_seen": "2026-07-20T18:06:59.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Billboard",
-        "title": "Shakira & Burna Boy’s ‘Dai Dai’ Rules Global Charts, Oasis’ ‘Wonderwall’ Hits Top Five",
-        "text": "The songs benefited in the tracking week from buzz leading up to the World Cup’s close.",
-        "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-oasis-global-charts-world-cup-1236298355/",
-        "published": "2026-07-20T18:06:59.000Z"
-      },
-      {
-        "source": "Billboard",
-        "title": "Shakira & Burna Boy’s ‘Dai Dai’ Keeps Its No. 1 Momentum Across Billboard Charts",
-        "text": "The FIFA World Cup 2026 song lands atop the overall Latin Airplay chart.",
-        "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boys-dai-dai-no-1-billboard-charts-1236299143/",
-        "published": "2026-07-21T04:32:46.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_57e694",
-    "title": "Journey’s Jonathan Cain Lays Into ‘Annoying, Bitter Old Man’ Bruce Springsteen: ‘Shut Up, Bruce… You Were Born in the USA, So Act Like It’",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T18:03:11.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "Journey’s Jonathan Cain Lays Into ‘Annoying, Bitter Old Man’ Bruce Springsteen: ‘Shut Up, Bruce… You Were Born in the USA, So Act Like It’",
-        "text": "Longtime Journey keyboardist Jonathan Cain believes rockers should keep their politics off-stage — but in interviews, he continues to be proud to trumpet his conservative beliefs. He used a podcast interview to blast a fellow 76-year-old, Bruce Springsteen, as an “annoying, bitter old man,” saying the outspoken should just “shut up.” Cain’s problems with Springsteen […]",
-        "url": "https://variety.com/2026/music/news/jonathan-cain-slams-bruce-springsteen-conservative-politics-1236816703/",
-        "published": "2026-07-20T18:03:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_e358d7",
-    "title": "‘Stuart Fails to Save the Universe’ Limited Edition DC Comic Book, Experiential Space for Fans Planned for San Diego Comic-Con (EXCLUSIVE)",
-    "source_count": 1,
-    "domains": [
-      "variety.com"
-    ],
-    "first_seen": "2026-07-20T18:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Variety",
-        "title": "‘Stuart Fails to Save the Universe’ Limited Edition DC Comic Book, Experiential Space for Fans Planned for San Diego Comic-Con (EXCLUSIVE)",
-        "text": "“Stuart Fails to Save the Universe” takes place in a comic book shop, so it’s only natural that the new HBO Max series would get its own, actual comic book. As “The Big Bang Theory” spinoff hits San Diego Comic-Con this week, the comic book — featuring cover art by DC Comics president, publisher and […]",
-        "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-comic-book-comic-con-1236816349/",
-        "published": "2026-07-20T18:00:00.000Z"
-      },
-      {
-        "source": "Variety",
-        "title": "‘Big Bang Theory’ Spinoff ‘Stuart Fails to Save the Universe’ Is a Playful, Creative Romp: TV Review",
-        "text": "In a sea of perfunctory prequels and sequels, you have to hand it to a spinoff that actually comes up with a creative angle. Such is the case with “Stuart Fails to Save the Universe,” the third offshoot of “The Big Bang Theory,” which forms a useful contrast with its predecessors. The straightforwardly titled “Young […]",
-        "url": "https://variety.com/2026/tv/reviews/stuart-fails-to-save-the-universe-review-big-bang-spinoff-1236816914/",
-        "published": "2026-07-22T16:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_1b2fe1",
-    "title": "‘The Kissing Booth’ Duo Tackling YA Rom-Com ‘Son Of The Mob’ For Red Sage Studios & Sun Distribution",
-    "source_count": 1,
-    "domains": [
-      "deadline.com"
-    ],
-    "first_seen": "2026-07-20T18:00:00.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "Deadline",
-        "title": "‘The Kissing Booth’ Duo Tackling YA Rom-Com ‘Son Of The Mob’ For Red Sage Studios & Sun Distribution",
-        "text": "EXCLUSIVE: Red Sage Studios, the YA-focused company founded by former Amazon MGM Studios International head James Farrell, and Sun Distribution (Telefilms Group) have added an adaptation of the Gordon Korman novel Son of the Mob to their slate. Son of the Mob is a romantic comedy following Vince, the teenage son of a mob boss who longs for a […]",
-        "url": "https://deadline.com/2026/07/the-kissing-booth-filmmakers-son-of-the-mob-rom-com-1236998511/",
-        "published": "2026-07-20T18:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_3ae6bf",
-    "title": "Beatles tour fans spot Sir Paul at traffic lights",
-    "source_count": 1,
-    "domains": [
-      "bbc.co.uk"
-    ],
-    "first_seen": "2026-07-20T17:48:25.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "BBC Entertainment",
-        "title": "Beatles tour fans spot Sir Paul at traffic lights",
-        "text": "Beatles fans are thrilled to see Sir Paul McCartney as their bus pulls up next to him in Liverpool.",
-        "url": "https://www.bbc.co.uk/news/articles/cg7mglmgnvjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T17:48:25.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_136cc8",
-    "title": "Ben Shapiro Praises ‘The Odyssey’ as a “Masterpiece” Despite Elliot Page Casting Criticism",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T17:38:30.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Ben Shapiro Praises ‘The Odyssey’ as a “Masterpiece” Despite Elliot Page Casting Criticism",
-        "text": "“The broader theme of the movie is actually very much in line with many things that conservatives think,\" the right-wing influencer said in his review. \"If you let Elliot Page kill that for you, I think you’re missing out on an incredible moviegoing experience.\"",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-shapiro-odyssey-review-masterpiece-elliot-page-1236652248/",
-        "published": "2026-07-20T17:38:30.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_70425f",
-    "title": "David Zaslav’s Next Act: Summer Camp Owner",
-    "source_count": 1,
-    "domains": [
-      "hollywoodreporter.com"
-    ],
-    "first_seen": "2026-07-20T17:29:20.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "The Hollywood Reporter",
-        "title": "David Zaslav’s Next Act: Summer Camp Owner",
-        "text": "The Warner Bros. Discovery mogul is the stalking horse bidder for a well-known summer camp in Westchester County, New York that had filed for bankruptcy.",
-        "url": "https://www.hollywoodreporter.com/business/business-news/david-zaslav-buying-summer-camp-new-york-mohawk-1236652251/",
-        "published": "2026-07-20T17:29:20.000Z"
-      }
-    ]
-  },
-  {
-    "id": "story_2ea15b",
-    "title": "How different is watching a film in IMAX?",
-    "source_count": 1,
-    "domains": [
-      "bbc.co.uk"
-    ],
-    "first_seen": "2026-07-20T17:24:44.000Z",
-    "status": "watching",
-    "items": [
-      {
-        "source": "BBC Entertainment",
-        "title": "How different is watching a film in IMAX?",
-        "text": "BBC Verify examines viral claims the new film will be distorted if not seen on a dedicated screen",
-        "url": "https://www.bbc.co.uk/news/videos/c8xne47w4v4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-20T17:24:44.000Z"
       }
     ]
   }

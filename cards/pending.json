@@ -1,73 +1,93 @@
 [
   {
-    "story_id": "story_3e18b0",
+    "story_id": "story_bfeace",
     "skip": false,
     "category": "sensitive",
-    "subject": "Peter Lassally",
-    "subject_2": null,
-    "headline": "peter lassally, late-night producer, dies at 93",
-    "body": "he produced the tonight show for johnny carson and the late show for david letterman, then the late late show with craig ferguson.",
-    "slide2": "he got his start with arthur godfrey, spent 23 years on the tonight show, and helped engineer letterman's move to cbs. he had retired at 82.",
-    "quote": null,
-    "quote_attrib": null,
+    "subject": "Ozzy Osbourne",
+    "subject_2": "Kelly Osbourne",
+    "headline": "one year after ozzy osbourne's death, tributes continue",
+    "body": "kelly osbourne wrote a letter to her late father, and black sabbath's surviving members paid tribute too.",
+    "slide2": "\"i feel you in the quiet, in the wind, in every song that stops me in my tracks,\" she wrote.",
+    "quote": "i feel you in the quiet, in the wind, in every song that stops me in my tracks",
+    "quote_attrib": "Kelly Osbourne",
     "tags": [
-      "peterlassally",
-      "johnnycarson",
-      "davidletterman",
-      "latenight"
+      "ozzyosbourne",
+      "kellyosbourne",
+      "blacksabbath",
+      "tribute"
     ],
-    "source": "Deadline, Variety, The Hollywood Reporter",
-    "posted_at_label": "20 jul",
-    "image": "file:///C:/dev/tiknews/images/story_3e18b0-a.jpg",
-    "image_credit": "The Peabody Awards / CC BY 2.0"
-  },
-  {
-    "story_id": "story_168e7e",
-    "skip": false,
-    "category": "casting",
-    "subject": "Kenneth Branagh",
-    "subject_2": null,
-    "headline": "kenneth branagh is going up against a billionaire",
-    "body": "paramount+ ordered the scottish highland drama laird with him as the lead landowner.",
-    "slide2": "it's from jez butterworth (mobland, the agency) and his brother john-henry, branagh's laird fights to keep a billionaire from buying up the glens.",
-    "quote": null,
-    "quote_attrib": null,
-    "tags": [
-      "kennethbranagh",
-      "laird",
-      "paramountplus",
-      "jezbutterworth"
-    ],
-    "source": "Deadline, The Hollywood Reporter, Variety",
+    "source": "BBC, Billboard, Rolling Stone",
     "posted_at_label": "22 jul",
-    "image": "file:///C:/dev/tiknews/images/story_168e7e-a.jpg",
-    "image_credit": "Dublin International Film Festival / CC BY 3.0"
+    "image": "file:///C:/dev/tiknews/images/story_bfeace-a.jpg",
+    "image_2": "file:///C:/dev/tiknews/images/story_bfeace-b.jpg",
+    "image_credit": "Warner Bros. Records / Public domain  ·  Eva Rinaldi from Sydney Australia / CC BY-SA 2.0"
   },
   {
-    "story_id": "story_37be53",
-    "skip": true,
-    "reason": "already covered by an earlier card (justin bieber's world cup streaming bump)"
-  },
-  {
-    "story_id": "story_5fa9f9",
+    "story_id": "story_119c3b",
     "skip": false,
     "category": "other",
-    "subject": "Ed Harris",
-    "subject_2": null,
-    "headline": "ed harris felt misled about his 'dutton ranch' role",
-    "body": "he told variety he thought the part in the 'yellowstone' spinoff would matter more than it did.",
-    "slide2": "\"get me the f— out of here,\" he told his team halfway through filming season 1.",
-    "quote": "get me the f— out of here",
-    "quote_attrib": "Ed Harris",
+    "subject": "Adam Driver",
+    "subject_2": "Kevin Feige",
+    "headline": "adam driver keeps turning down marvel movies",
+    "body": "kevin feige says it's basically a tradition at this point.",
+    "slide2": "\"it's a tradition to zoom with him and then he passes,\" feige joked on the happy sad confused podcast.",
+    "quote": "it's a tradition to zoom with him and then he passes",
+    "quote_attrib": "Kevin Feige",
     "tags": [
-      "edharris",
-      "duttonranch",
-      "yellowstone",
-      "paramount"
+      "adamdriver",
+      "kevinfeige",
+      "marvel",
+      "xmen"
     ],
-    "source": "Variety, The Hollywood Reporter",
-    "posted_at_label": "21 jul",
-    "image": "file:///C:/dev/tiknews/images/story_5fa9f9-a.jpg",
-    "image_credit": "Gage Skidmore / CC BY-SA 3.0"
+    "source": "Variety, Deadline, The Hollywood Reporter",
+    "posted_at_label": "20 jul",
+    "image": "file:///C:/dev/tiknews/images/story_119c3b-a.jpg",
+    "image_2": "file:///C:/dev/tiknews/images/story_119c3b-b.jpg",
+    "image_credit": "Colleen Sturtevant / CC BY-SA 4.0  ·  Gage Skidmore / CC BY-SA 3.0"
+  },
+  {
+    "story_id": "story_2d53ca",
+    "skip": false,
+    "category": "other",
+    "subject": "Olivia Rodrigo",
+    "subject_2": null,
+    "headline": "olivia rodrigo has a new name for anti-abortionists",
+    "body": "she sat down with the center for reproductive rights to talk about the issue.",
+    "slide2": "\"pro-control\" is what she called anti-abortion advocates during the conversation.",
+    "quote": "pro-control",
+    "quote_attrib": "Olivia Rodrigo",
+    "tags": [
+      "oliviarodrigo",
+      "reproductiverights",
+      "abortion",
+      "interview"
+    ],
+    "source": "Rolling Stone, Billboard",
+    "posted_at_label": "22 jul",
+    "image": "file:///C:/dev/tiknews/images/story_2d53ca-a.jpg",
+    "image_credit": "Raph_PH / CC BY 4.0"
+  },
+  {
+    "story_id": "story_74e38b",
+    "skip": false,
+    "category": "casting",
+    "subject": "Seth MacFarlane",
+    "subject_2": "Kenan Thompson",
+    "headline": "seth macfarlane is voicing two characters in stewie",
+    "body": "the family guy spinoff just locked its full voice cast.",
+    "slide2": "kenan thompson, vanessa bayer, melissa o'neil and mike henry round out the cast — henry voices someone tied to one of his classic family guy characters.",
+    "quote": null,
+    "quote_attrib": null,
+    "tags": [
+      "stewie",
+      "familyguy",
+      "sethmacfarlane",
+      "kenanthompson"
+    ],
+    "source": "Deadline, Variety",
+    "posted_at_label": "22 jul",
+    "image": "file:///C:/dev/tiknews/images/story_74e38b-a.jpg",
+    "image_2": "file:///C:/dev/tiknews/images/story_74e38b-b.jpg",
+    "image_credit": "Kevin Paul / CC BY 4.0  ·  PhilipRomano / CC BY-SA 4.0"
   }
 ]
